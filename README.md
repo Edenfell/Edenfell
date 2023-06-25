@@ -1,5 +1,6 @@
-### Hi there 👋
+### Edenfell's Website
 
+Edenfell is a Fantasy Medieval Roleplay Discord Server based on an original story and an original system.
 <!--
 **Edenfell/Edenfell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
