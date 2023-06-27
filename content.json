@@ -149,7 +149,8 @@
                         "Changelings’ trait is dependent on what animal they kin. A cheetah Changeling could be incredibly fast over short distances, a hawk Changeling could have massive wings that they could use to fly, etc. It all depends on which attribute/feature of the animal the Changeling has. Changelings are also able to speak to and understand all animals freely. It is a nifty and interesting gift to have and makes them very good herders and tamers. ",
                         "Changeling Mages are a different breed completely for they are able to take the form of any beast and animal completely they so please—which allows them to get their natural abilities. Mages of a higher caliber are also able to combine different animalistic features together to transform into some sort of chimera.",
                         "There exists some intraracial tension in the Changeling community as a result of the distinct groups that exist within it. Changelings can be split up into six different groups. These groups are Mammals, Aves, Reptiles, Amphibians, Invertebrates, and Fish. Mammals are seen as the top of the food chain among Changelings, and they have their own inner-foodchain amongst them (it exists as a sub-group of predators and prey, which does not need to be explained), Reptiles are considered second, Aves third, followed in order by Amphibians, Invertebrates, and Fish. The latter 3 are regarded as bottom feeders of the Changeling society. Reptiles and Amphibians tend to go together quite often, but the relationships are often kept secret as any Reptile who’s seen with an Amphibian is looked down on as lesser than their peers. Mammals and Aves also sometimes go together (and this union is more tolerated because of their standing as apexes but is still not entirely accepted and considered weird because of the stigma against mixing among Changelings).",
-                        "Slurs considered offensive or hurtful by the Changelings:"
+                        "Slurs considered offensive or hurtful by the Changelings:",
+                        "Furball, Pigeon, Dunce-kin, Manimal, Pet, Leash-chaser"
                     ],
                     "type" : "column",
                     "img" : "raceChangeling2.jpg",
@@ -159,10 +160,7 @@
                     "divID" : 10,
                     "title" : "Writer’s Notes",
                     "paragraphs" : [
-                        {
-                            "text" : "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
-                            "type": "li"
-                        },
+                        "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
                         {
                             "text" : "Elves hate everyone. They’re basically the French people of the races. ",
                             "type": "li"
@@ -185,6 +183,10 @@
                         },
                         {
                             "text" : "Faes have too many gingers",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "There are no half-breeds in Edenfell. Children of interracial unions will always be the race of the more dominant partner (Elves >> Changelings >> Nords >> Faes)",
                             "type": "li"
                         }
                     ],
@@ -241,6 +243,11 @@
             "page":  "Flora",
             "url":  "/world/flora",
             "content": [
+                {
+                    "divID":0,
+                    "title": "Flora",
+                    "type":"column"
+                },
                 {
                     "divID":  1,
                     "title":  "Aureum",
@@ -2006,7 +2013,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"5-7 (3-7 for Nords)"
+                                            "text":"5-7"
                                         },
                                         {
                                             "type":"td",
@@ -2016,7 +2023,7 @@
                                 }
                             ]
                         },
-                        "Initiate Nords start with fewer spells than characters of other races as they have the lowest Mana among the races, this evens out by the next rank and above as story-wise it assumed that from that point on they have trained and honed their magical aptitude to match that of their peers. Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
+                        "Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
                         "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
                         {"type":"cite",
                         "text": "A myriad of embers materialized out of thin air around the Wizard, quickly expanding in shape and size until each grew into a singular, massive house-sized fireball big enough to blot out the sun in the sky. Slowly, guided by his rising hand, the blazing orb flew up and replaced the sun's warm illumination with its blinding luminosity and raging heat. 'You've yee'd your last haw, pardner.' With a languid fall of his hand, the conflagration spread into a thousand fist-sized orbs which fell onto the field in front of him, whizzing down at a blinding speed, each flaming sphere acting with the singular purpose to seek, burn and destroy. [fireball power: 12 spells]"} 
