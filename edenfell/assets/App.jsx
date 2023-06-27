@@ -19,7 +19,16 @@ export default function App() {
   const[muted, setMuted] = useState(true);
   const[song, setSong] = useState(audio);
   // const[content, setContent] = useState(false);
-  
+  const mql = window.matchMedia("(orientation:portrait)");
+  const [portrait, setPortrait] = useState(mql.matches);
+  mql.onchange= (e) => {
+      console.log("changing orientation");
+      if(e.matches) {
+          setPortrait(true);
+      } else {
+          setPortrait(false);
+      }
+  }
   function toggleMute() {
     console.log("toggle");
     setMuted(!muted);
@@ -38,7 +47,7 @@ export default function App() {
       <AudioPlayer muted={muted} toggleMute={toggleMute} nextSong={nextSong} song={song}/>
       <Navbar content={content} menuIsExpanded={menuIsExpanded} setMenuIsExpanded={setMenuIsExpanded}/>
       {content && <AnimatePresence mode="wait">
-        <Outlet context={[content]}/>
+        <Outlet context={[content, portrait]}/>
       </AnimatePresence>}
     </>
   );

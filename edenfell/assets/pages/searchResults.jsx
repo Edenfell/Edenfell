@@ -15,11 +15,14 @@ export default function SearchResults({className}) {
                 <motion.h1>Search for '{pages[0].query}': </motion.h1>
                 <motion.div className={className}>
                     {pages.map((page) => {
+                        console.log(page.url);
                         return(
                             <motion.div>
                                 <Link to={page.url}><motion.h2 key={page.page}>{page.page}</motion.h2></Link>
                                 <motion.p>
-                                    {page.para}
+                                    {(!page.para.type && page.para)
+                                    ||
+                                    (page.para.text)}
                                 </motion.p>
                             </motion.div>
                         )

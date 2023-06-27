@@ -1,0 +1,23 @@
+Id,Biome,Color,Habitability,Cells,Area km2,Population
+8,Temperate rainforest,#409c43,90%,2556,78446,25720868
+6,Temperate deciduous forest,#29bc56,100%,1811,62004,21850286
+12,Wetland,#0b9131,12%,1733,41667,4957397
+11,Glacier,#d5e7eb,0%,1687,47533,1652971
+9,Taiga,#4b6b32,12%,1675,51817,4385279
+16,Dangerous forest,#a81767,50%,1635,51123,9724876
+13,You go you die,#20017e,50%,1473,41972,8756722
+15,Dangerous Marsh,#f1155c,0%,1292,37774,393667
+10,Tundra,#96784b,4%,748,21550,1031021
+5,Tropical seasonal forest,#b6d95d,50%,647,20610,4368309
+14,Dangerous swamp,#ba0bb7,50%,635,21917,4016427
+7,Tropical rainforest,#7dcb35,80%,511,13695,5026264
+22,Dangerous Decidous Forest,#8527dc,50%,345,11512,1923498
+17,Dangerous Grasslands,#dd3636,0%,299,10474,282528
+4,Grassland,#c8d68f,30%,260,9017,851935
+23,Dangerous cold tundra,#913db3,50%,69,2478,171141
+3,Savanna,#f3f55f,22%,59,2041,161482
+2,Cold desert,#d5d7bb,10%,45,1506,78252
+1,Hot desert,#fbe79f,4%,0,0,0
+18,Marsh,#305305,50%,0,0,0
+19,Swamp,#19cbbe,50%,0,0,0
+24,Magical forest,#09efb0,50%,0,0,0

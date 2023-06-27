@@ -14,22 +14,39 @@ export default function Search({expanded, setExpanded, content}) {
         for(var key in content) {
             content[key].filter((page) => {
                 let paragraph;
+                console.log(page);
                 let found = page.content.find((div) => {
-                    let foundDiv = div.paragraphs.find((para) => {
-                        if(!para.type) {
-                            if(para.toLowerCase().includes(searchTerm)) {
-                                paragraph = para;
-                                return true;
+                    if(div.paragraphs) {
+                        let foundDiv = div.paragraphs.find((para) => {
+                            if(!para.type) {
+                                if(para.toLowerCase().includes(searchTerm)) {
+                                    paragraph = para;
+                                    return true;
+                                }
+                            } else{
+                                console.log(para);
+                                if(para.type=="table" || typeof para.type == "object") {
+                                    para.content.map(r => {
+                                        r.content.map(t => {
+                                            if(t.text.toLowerCase().includes(searchTerm)) {
+                                                paragraph = t;
+                                                console.log(paragraph);
+                                                return true;
+                                            }
+                                        })
+                                    })
+                                if(paragraph) return true;
+                                } else {
+                                    if(para.text.toLowerCase().includes(searchTerm)) {
+                                        paragraph = para;
+                                        return true;
+                                    }
+                                }
                             }
-                        } else{
-                            if(para.text.toLowerCase().includes(searchTerm)) {
-                                paragraph = para;
-                                return true
-                            }
-                        }
-                        return false;
-                    });
-                    return foundDiv;
+                            return false;
+                        });
+                        return foundDiv;
+                    }
                 })
                 if(found) {
                     foundPages.push({page:page.page, divID:found.divID, query:searchTerm, url:page.url, para:paragraph});

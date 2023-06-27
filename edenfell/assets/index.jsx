@@ -11,11 +11,11 @@ import {default as Content, loader as ContentLoader} from './pages/content';
 // import {default as MapPage, loader as MapPageLoader} from './pages/mappage';
 // import {default as Organizations, loader as OrganizationsLoader} from './pages/organizations';
 // import {default as Nations, loader as NationsLoader} from './pages/nations';
-// import {default as Characters, loader as CharactersLoader} from './pages/characters';
+import {default as Characters, loader as CharactersLoader} from './pages/characters';
 // import {default as OCs, loader as OCsLoader} from './pages/ocs';
 // import {default as NPCs, loader as NPCsLoader} from './pages/npcs';
 import SearchResults from './pages/searchResults';
-import {default as MapPage} from './pages/mappage';
+import {default as MapPage, loader as MapLoader} from './pages/mappage';
 import reportWebVitals from './reportWebVitals';
 import Locations from './pages/locations';
 
@@ -27,9 +27,15 @@ const router = createHashRouter(createRoutesFromElements(
     <Route path='/world' loader={WorldLoader} key={"world"} element={<World className={"first-content"} />}>
       <Route path=':contentPage' loader={ContentLoader} key={"content"} element={<Content className={"content"}/>}/>
       <Route path='locations' key={"locations"} element={<Locations></Locations>}>
-        <Route path="map" key={"map"} element={<MapPage className="content"></MapPage>}/>
+        <Route path='map' key={"map"}>
+          <Route index element={<h2>Click on a location on the map!</h2>}/>
+          <Route path=':land' loader = {MapLoader} key={"land"} element={<MapPage className="content"></MapPage>} />
+        </Route>
       </Route>
       <Route index element={<h1>Error</h1>}></Route>
+    </Route>
+    <Route path="/characters" loader={CharactersLoader} key = {"characters"} element={<Characters className="first-content"/>}>
+      <Route path=':contentPage' loader={ContentLoader} key={"content"} element={<Content className={"content"}/>}/>
     </Route>
       {/* <Route path='locations' loader={Locations.loader} key={"locations"} element={<Locations key={location.pathname} className={"content"} />}>
         <Route path='map' loader={MapPage.loader} key={'map'} element={<MapPage key={location.pathname} className={"content "} />}/>

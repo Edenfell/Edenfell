@@ -1,7 +1,7 @@
 {
-    "pages" : [
+    "world" : [
         {
-            "page": "lore",
+            "page": "Lore",
             "url": "/world/lore",
             "content" : [
                 {
@@ -18,6 +18,7 @@
                         }
                     ],
                     "type" : "inline",
+                    "img": "lore1.jpg",
                     "imgType":"left"
                 },
                 {
@@ -29,6 +30,7 @@
                         "It has been two hundred years since the Cataclysm now and the Anthros are struggling to rebuild. Most plants, like the beasts, turned noxious and posed a threat to the people so that only a few could be depended on for food in a world where the soil could no longer yield new life. The Anthros returned to their hunter-gatherer roots, surviving as foragers and livestock herders, and building settlements where the climate was just conducive enough to ensure that they could somewhat thrive. Soon cities began to spring up where subsistent wildlife was most bountiful (and Voidbringers were not) and the modern world as we know it took shape:"
                     ],
                     "type" : "column",
+                    "img": "lore2.jpg",
                     "imgType":"mid"
                 },
                 {
@@ -40,19 +42,2358 @@
                         "They say there are two sides to every story, but in Edenfell there is no shortage of sides to choose from. Align yourself with a cause and fight its battle to completion or choose your own cause, play one side, both sides, or none. Always remember, you make your own way, and whatever that is, I am certain your legend will shape this new world."
                     ],
                     "type" : "inline",
+                    "img": "lore3.jpg",
                     "imgType":"left"
                 }
             ]
         },
         {
-            "page" : "races",
+            "page" : "Races",
             "url" : "/world/races",
             "content":[
                 {
                     "divID":1,
+                    "title": "Edenfell’s Anthropomorphic Races (Anthros)",
                     "paragraphs":[
-                        "abcdef",
-                        "Caliburn"
+                        "Before the Cataclysm, Edenfell presumably had more races of Anthros (Gaians, Merfolk, Centaurs, Orcs, etc), but that age is long past and the handful of survivors who lived in that time—before the death and extinction of races that could not cope with a world without excess magic—are now also long gone themselves and the stories are nothing more than an oral relic of a past no one remembers or ever witnessed. The 4 races that remain are as diverse and colorful as they could ever be, however, and bring a variety of cultures, temperaments, history, and magic to the world that it would otherwise be dull without.",
+                        "Here are Edenfell’s last remaining Anthro races in no particular order:"
+                    ],
+                    "type" : "column"
+                },
+                {
+                    "divID":2,
+                    "title": "The Elves (Alfen)",
+                    "paragraphs":[
+                        "Sometimes referred to pejoratively as skinny Nords, the Elves of Edenfell are Nord-like in physical appearance, save for a few key differences. Elves are often smaller than Nords, with sharper, pointier ears. They follow the general stereotypes you’re all used to; there is no need to explain what we all know. The Elves have often always had the closest connection to Edenfell’s magic in the past being the first of the Anthros, this is why in the past Alfen Mages had more mana and magical aptitude than their peers and it explains why, even now in the age where Mages are a rarity, most of them tend to be Elves.",
+                        "While it’s immoral to subject the entire race to a few stereotypes, we’re going to do so anyway. The Elves tend to be very traditional, proud, condescending, and patronizing. Turning their noses up at other cultures and practices, they argue the importance of their existence and how they are the most civilized of all races. ",
+                        "Alfen often spot tattoos and paint on their bodies that can be anything from sentimental and tribal to religious or superstitious.",
+                        "Like all the other Anthros, Elves have a natural racial ability we’re going to call a Trait. The Alfen trait allows them to communicate at a frequency that other Anthros and most living beings cannot hear—even a Changeling with sensitive hearing would have difficulty picking it up. "
+                    ],
+                    "type":"inline",
+                    "img":"raceElves1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID" : 3,
+                    "paragraphs" : [
+                        "In addition to this, Elves have enhanced senses; their taste, smell, sight, touch, and obviously hearing are heightened and much better than most—second only to some animals. On average, they stand at about 185cm (6’1”) for men and 175cm (5’9”) for women.",
+                        "Elven Mages are known for their elemental magic; water, earth, fire, lightning, tallow & air. It is possible for Elves to “specialize” in a certain element, and be able to develop it to a new level. A fire specialist might be able to develop into magma or even explosives/combustion. But this takes time, and skill to unlock. Elves are known for their carpentry and weaponsmithing. Their weapons tend to be more “elegant”, like a saber or rapier, rather than brutish, like a broadsword. Despite this, they’re well-known for their skills in archery, and this is what most are trained in. When it comes to armor, they tend to keep it light and simple as the general combat style of the elves is very “hit and run” or “long-ranged”.",
+                        "Elves used to be known for their long lives, living up to almost 1000 years of age. But after the Cataclysm, this has changed. Their average age range, for one reason or another, began to match the rest of the races—that being an average of 80 years old. Despite being just like the rest now, they still think they’re better.",
+                        "Certain slurs are considered offensive or hurtful by the Elves: Faeries or Fairies, Knife-ears, Twinks, and Pricks. They also really hate being called “Faes” (it’s the equivalent, to them, of being called a Neanderthal to us)."
+                    ],
+                    "type":"inline",
+                    "img":"raceElves2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID": 4,
+                    "title": "The Fae (Faeries)",
+                    "paragraphs" : [
+                        "Faes are a race of Elven heritage that used to be natives of the forests and the woods. The Fae used to rarely ever venture past the woods due to their timid and reserved nature and were once even considered a myth, like cryptids. ",
+                        "Stereotypically, Faes, like the Elves, are rarely cooperative—but not for the same reason. Elves are much more offish, vain, and conceited while the Faes are skittish, bashful, and sometimes considered cowards due to their peace-loving nature. Faes are usually incredibly peaceful and tend to focus more on themselves rather than the problems of others. Though not as ethnocentric as Elves, they try their best to avoid the affairs of the other races and just focus on themselves. Faes are sort of like green Elves (though they can be pale, brown, or even have ordinary pigmentation like the Elves), they have the ears and the youthful effeminate face and everything—they just have more chlorophyll. ",
+                        "Faes have a natural race trait that allows them to do a few things. What they’re most well known for, and the most convenient trait, to be honest, is the ability to create wings. The wings grant the Faes flight (no way!), allowing them to fly or hover at a low altitude (no higher than an average tree). They also have the ability to shrink themselves to a size of a smaller dog, like a baby Yorkie. Obviously, they can also return to their original size, which on average is 170cm (5’7”) for men and 160cm (5’3”) for women."
+                    ],
+                    "type":"inline",
+                    "img": "raceFae1.jpg",
+                    "imgType" : "left"
+                },
+                {
+                    "divID" : 5,
+                    "paragraphs": [
+                        "Fae Mages are able to utilize the power of plants around them. This entails many things when it comes to usage. For example, Faes are able to temporarily sprout plants from seeds, they’re able to sense nearby plants in the vicinity and control them as well. They have an innate understanding of which plant does what, they’re able to move plants without killing them, wither plants, resuscitate them, etc. Faes are incredibly skilled to an almost mesmerizing degree at music, the arts, carpentry, and tinkering, and while they used to be incredibly adept farmers during the age of agriculture, they are just as good hunters and foragers in this new age of seeking and gathering food.",
+                        "Slurs considered offensive or hurtful by the Faes: Vires (it's their n-word), Tree Hugger, and the rest of the Elven slurs. They hate being called Elves, as well—they think they’re better, but they’ll never admit it.",
+                        "Fun fact: instead of melanin, they say chlorophyll."
+                    ],
+                    "type": "inline",
+                    "img":"raceFae2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID": 6,
+                    "title":"The Nords (Warborn)",
+                    "paragraphs":[
+                        "Having evolved to withstand the harsh nature and adapt to most—if not all—environmental challenges, Nords have a storied history as battle-drunk veterans who are constantly looking for a fight. Despite this, they also tend to have an insatiable desire for knowledge and discovery, having once built the single greatest and most expansive library and school in Edenfell. The Nords once traversed land and sea—conquering nations, and so it is no surprise that they have survived the Cataclysm and will likely overcome this new obstacle yet again. The Nords prefer colder settings rather than warmer climates and so they have always gravitated to the north. ",
+                        "Stereotypically, Nords are easily prone to anger or just temperamental, often willing to settle disputes with their fists before any more words are exchanged. You would be hard-pressed to find a Nord with bare skin as most of them are adorned in tribal marks, tattoos, stories told in colorful ink, and scars borne proudly like testaments of one’s strength and experience in battle and life in general.",
+                        "Nords are physically the strongest of the races. Able to wrestle bears and tigers down to submission, it isn’t a far stretch to claim that they could overwhelm most with their bare fists alone. But with this clear advantage, they also do have a weakness; in terms of magic, they are not the most potent. They have low mana and tend to focus on a “might over magic” type of fighting style. Nords yield fewer mages than the other races, and this has always been the case throughout antiquity. Their physique is usually hulking, and the same goes for their stature. The men average 200cm (6’7”) in height, and the women average 185cm (6’1”)."
+                    ],
+                    "type":"inline",
+                    "img":"raceNord1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID" : 7,
+                    "paragraphs" : [
+                        "Even though Nords are more strength than wizardry, there are some Mages amongst them. Their magic consists of a “creation” type of magic, which can simply be described as construction magic. This magic is called Crafting. The constructs that they create are limited only by their imagination and their mana. While they cannot simply create a full-sized living dragon that breathes fire (not at first anyway), they are able to create constructs of different items such as tools and weapons that cannot simply be broken by being struck with just some force.",
+                        "Nords are exceptional hunters, herders, and rearers of livestock as well as good sailors and blacksmiths. They are also often quite skilled at woodworking and building ships and structures, usually of the sturdy, sheer, and austere kind.",
+                        "Slurs considered offensive or hurtful by the Nords: You already know."
+                    ],
+                    "type":"inline",
+                    "img":"raceNord2.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID" : 8,
+                    "title": "The Changelings (Spiels)",
+                    "paragraphs" : [
+                        "Upon first interacting with one of these guys, it’s possible that you might not even notice that it’s a Changeling. You can only know if the Changeling wants you to know—and that’s what is so unique about this race. This alludes to many things, but mainly to their nature. Changelings are often very tricky and mischievous individuals! They tend to go out of their way to cause trouble for others and have a generally competitive nature. Changelings are differentiated by their animalistic features, which vary depending on the Changeling themself. They can have a tail, some ears, claws, and be generally humanoid—or they can be on the opposite end of this spectrum and just be, physically, an anthropomorphic animal.",
+                        "Changelings are matriarchal, and therefore women tend to be much stronger and bigger than men. Obviously, due to the variety of Changelings as a result of the amount of different animalistic hybrids that can exist, the average size changes often and is not very accurate. However, the estimated difference between men and women in Changelings is about 20cm. So an avian Changeling (for instance) would have a man stand, on average, 160cm (5’3”) and the women’s average would be 180cm (5’11”). Many different combinations with different heights and sizes depending on the animal kin also exist. ",
+                        "Changelings tend to mimic the personality of the animal they kin, so a tiger would be fierce while a rabbit would be timid, but stereotypically, most Changelings are tricky individuals, some to the point of sociopathy—where they hold no regard for the safety of the people they deceive, including their fellow Changelings. While at first, this race might seem like the safest to interact with, due to how cuddly and adorable some of them look, they’re more often than not the most dangerous as they value their own amusement to a higher degree than others’ safety."
+                    ],
+                    "type":"inline",
+                    "img":"raceChangeling1.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":9,
+                    "paragraphs" : [
+                        "Changelings’ trait is dependent on what animal they kin. A cheetah Changeling could be incredibly fast over short distances, a hawk Changeling could have massive wings that they could use to fly, etc. It all depends on which attribute/feature of the animal the Changeling has. Changelings are also able to speak to and understand all animals freely. It is a nifty and interesting gift to have and makes them very good herders and tamers. ",
+                        "Changeling Mages are a different breed completely for they are able to take the form of any beast and animal completely they so please—which allows them to get their natural abilities. Mages of a higher caliber are also able to combine different animalistic features together to transform into some sort of chimera.",
+                        "There exists some intraracial tension in the Changeling community as a result of the distinct groups that exist within it. Changelings can be split up into six different groups. These groups are Mammals, Aves, Reptiles, Amphibians, Invertebrates, and Fish. Mammals are seen as the top of the food chain among Changelings, and they have their own inner-foodchain amongst them (it exists as a sub-group of predators and prey, which does not need to be explained), Reptiles are considered second, Aves third, followed in order by Amphibians, Invertebrates, and Fish. The latter 3 are regarded as bottom feeders of the Changeling society. Reptiles and Amphibians tend to go together quite often, but the relationships are often kept secret as any Reptile who’s seen with an Amphibian is looked down on as lesser than their peers. Mammals and Aves also sometimes go together (and this union is more tolerated because of their standing as apexes but is still not entirely accepted and considered weird because of the stigma against mixing among Changelings).",
+                        "Slurs considered offensive or hurtful by the Changelings:"
+                    ],
+                    "type" : "column",
+                    "img" : "raceChangeling2.jpg",
+                    "imgType" : "mid"
+                },
+                {
+                    "divID" : 10,
+                    "title" : "Writer’s Notes",
+                    "paragraphs" : [
+                        {
+                            "text" : "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Elves hate everyone. They’re basically the French people of the races. ",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Faes tolerate everyone but get annoyed easily by others' “ignorance” of their craft. They tolerate Elves the most.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Nords have no inherent hatred for any of the races, but they do find Elves annoying.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Changelings hate Nords because Nords hunted them for sport.",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Nords have a lot of blue-eyed, blond-haired folk",
+                            "type": "li"
+                        },
+                        {
+                            "text" : "Faes have too many gingers",
+                            "type": "li"
+                        }
+                    ],
+                    "type":"list"
+                }
+            ]
+        },
+        {
+            "page":"Factions",
+            "url":"/world/factions",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"Factions: Know Your Enemies",
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "title":"What are Voidbringers?",
+                    "paragraphs":[
+                        "Voidbringers (also called Voidborn) are malicious, mindless, feral magical para-demons that wander grotesquely through the most corrupted parts of Edenfell, taking the decay with them wherever they go. Their ranks consist of all the beings from Nimiane’s world and this one whose mana has been sullied and as such they themselves have been warped and transformed into these terrible marauders. Voidbringers walk around looking for good mana to leech on, eternally hungry for more, and as such they attack people in hordes no matter how little mana the individual possesses and therefore pose a great existential threat to all of Edenfell. Like the characters, these malevolent beings exist in Tiers that determine the level of peril and destruction they may bring with them. It is humanity’s goal to vanquish the Voidborn once and for all because regardless of what side each individual is on, this is a common and deadly enemy."
+                    ],
+                    "type":"inline",
+                    "img":"FactionsVoidbringers.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":3,
+                    "title":"The UnA v/s The Higher Sentient",
+                    "paragraphs":[
+                        "Edenfell was once a land divided into distinct kingdoms segregated on the basis of race, each one of which took pride in their differences and sometimes waged war because of these differences. Magic was shared amongst all the armies of the world, and all these kingdoms were united under one empire under the capital of Ironhold. The Cataclysm brought an end to these kingdoms, and nations could no longer afford to unite under racial identities.",
+                        "Soon after the Cataclysm, Fëanor started gathering mages under the banner of the Higher Sentient— an organization with the sole purpose of gathering and honing mages to fight against the Voidbringers, no matter the cruelty of their methods— and built Durlan, where the mages are treated like nobility, whilst the non-mages are treated like peasants who run the kingdom. Due to the growing rarity of magic, this has proven to be a difficult task, but the Higher Sentient and Durlan have grown to be a sizable kingdom, dominating the southern end of the continent.",
+                        "Meanwhile, on the northern end of the continent, 3 separate settlements grew into separate nations, which are now known as the new bastions of a free world, free from the Higher Sentient’s tyranny and from the Voidbringers’ terror, where any one can claim their rightful place in society, mage or non-mage. These three cities— Caliburn founded by the Elves, Vatha by the Nords, and Edom by the Changelings— are collectively known as the Trident and are still composed predominantly of the races that founded them, but they are all allied against the Higher Sentient, and their armies are combined into a single allied force known as the United Army (UnA, phonetically Yuna).",
+                        "Caliburn is ruled by a multi-racial council of 10 highly esteemed individuals who are renowned as the best in their domain. Vatha is an absolute monarchy, ruled over by a Jarl who proves himself to be the best. In contrast, Edom is ruled democratically by an ambassador who is chosen by vote and is usually considered as the most diplomatic candidate. The Trident’s greatest strength lies in its abundance of Adam’s Steel weapons, as it lets all non-mage soldiers start off with their own Adam’s Steel weapon (sword, bow, spear, etc.) and a shield, which only gets replaced if it’s lost or destroyed.",
+                        "In contrast, the Higher Sentient’s army consists only of mages, divided into units including a Mage Seeker— mages specialized in tracking down potential mages— and a well-rounded team of mages to support the seeker. The Higher Sentient is usually involved in patrolling the kingdom of Durlan to ensure that the settlements at the fringes of the kingdom remain safe, and to find any young mages who can be brought to the capital and trained to join its ranks."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":4,
+                    "title":"Antler",
+                    "paragraphs":[
+                        "Antler is a hunting guild officially recognized in the Trident, with complete authority to protect and preserve Edenfell’s wildlife, declare areas and species appropriate for sport hunting, and combat poaching worldwide. ",
+                        "Antler grew due to the favor it received from the various monarchies because the continent’s nobility, regardless of race, has always enjoyed hunting. With its influence, Antler seeks to provide a full understanding and documentation of all creatures in Edenfell and ensure that all species stay extant. Many of the UnA’s members are part of this guild as well and they seek to slowly but steadily add to an increasingly detailed and comprehensive bestiary.",
+                        "Antler employs ruthless methods in dealing with poachers and their black market profiteers and is either fully backed or allowed to do so by the Trident’s rulers and nobility. You have been warned."
+                    ],
+                    "type":"column",
+                    "img":"FactionsAntler.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":  "Flora",
+            "url":  "/world/flora",
+            "content": [
+                {
+                    "divID":  1,
+                    "title":  "Aureum",
+                    "paragraphs":  [
+                        "An Aureum flower can often be found in swamps or bodies of water which aren’t yet fully contaminated. Its petals work as lovely makeshift bandages, and will automatically wrap around any area that is bleeding. They heal slowly, but are a great temporary means of keeping wounds safe from infection.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraAureum.png",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  2,
+                    "title":  "Blue Bottoms",
+                    "paragraphs":  [
+                        "Blue Bottoms are a harmless plant found all over Edenfell, commonly used for their special trait of having many different flavours of taste despite their appearance. They can either be spicy, minty, fruity, etc., it all seems to be randomized, and all Blue Bottoms are identical in shape, so there's no telling on what kind they could truly be.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraBlueBottoms.png",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  3,
+                    "title":  "Celer",
+                    "paragraphs":  [
+                        "Celers are star-shaped flowers found typically near bodies of water around Edenfell, such as small ponds, streams, or even in big oceans. They stand tall with a yellow glow, and when entirely consumed will boost your physical speed. They give your tummy a funny butterfly feeling.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCeler.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  4,
+                    "title":  "Esuriit Berries",
+                    "paragraphs":  [
+                        "Esuriit Berries only bloom in the warm enough months of the north, and are decently common to find in areas that allow it to be warm enough. These plants produce purple coloured berries and will replenish your hunger almost instantly when consumed. Very useful to have in any situation, but they only bloom for very short periods of time. When they're available to you, stock up on them before they mold.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraEsuriitBerries.jpg",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  5,
+                    "title":  "Hiradym",
+                    "paragraphs":  [
+                        "This flower is used as the primary healing herb. By grinding the leaves and mixing them with tree sap, one gets an ornament that helps both disinfect and heal wounds. This is primarily used by hunters and travelers on their journeys and thankfully the flower can grow in even the harshest of environments, making the supply fit the large demand.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraHiradym.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  6,
+                    "title":  "Golden Berries",
+                    "paragraphs":  [
+                        "Shortly after most Golden Apple Trees went extinct in the early days of the Cataclysm, determined Faes made it a duty to replicate them and return them in grand numbers. While that proved unsuccessful, they managed to create Golden Berries. They possess the ability to warp their taste to the consumer, tasting similar to one’s favorite dish. They also are noted to boost your morale, though one should be cautious with eating too many too quickly. These prove to be highly addictive.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraGoldenBerries.jpg",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  7,
+                    "title":  "Lantern Cherry",
+                    "paragraphs":  [
+                        "One of the only berries left in Edenfell. The Lantern Cherry is a tree that sprouts lantern-like branches and produces bundles of red cherries at the end. The trees can be found in the warmer climates of Edenfell and provide necessary nutrients for many of the tribes situated around them.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraLanternCherry.jpg",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  8,
+                    "title":  "Snowy Delight",
+                    "paragraphs":  [
+                        "A tree that grows in the northern hemisphere of Edenfell. Instead of sprouting leaves, it collects snow at the end of its branches, and by mixing its natural sap with the snow, it ends up creating extremely sweet chilly spheres around the size of a basketball. The spheres do not weigh anything and melt easily, but if preserved right can be used as delicacy. It is closely tied to Nord culture and is often enjoyed during celebration.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSnowyDelight.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  9,
+                    "title":  "Sunset Wheat",
+                    "paragraphs":  [
+                        "One of the more popular (and only) widespread grains found in Edenfell. Sunset Wheat is used to produce bread, beer and various other forms of pastry or dough. It can be found in places not touched by the Cataclysm too much, which means a lot of active tribes and cities were established next to their popular growing spots.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSunsetWheat.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  10,
+                    "title":  "Pellucide",
+                    "paragraphs":  [
+                        "Pellucide fruits grow hidden away in dimly lit areas. They sprout from a glowing Pelli tree, usually also growing green crystals at its roots. The fruit itself is slightly bitter, though nourishing. However, when Pellucide get exposed to harsh lighting conditions, they crystallize into hard gems. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caves"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPellucide.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  11,
+                    "title":  "Martipea",
+                    "paragraphs":  [
+                        "Martipeas, often just nicknamed “martis”, are pear-shaped fruits ranging in various orange-yellow tones. Their taste, ironically enough, can be described as similar to honey. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraMartipea.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  12,
+                    "title":  "Courtan",
+                    "paragraphs":  [
+                        "Originally discovered by mistake due to an explorer tripping over them, Courtans are nuts lining many forest floors. They start by growing deep underground, then eventually are pushed up to the surface by their roots. An extremely common addition to Edenfell. ",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCourtan.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  13,
+                    "title":  "Opertina",
+                    "paragraphs":  [
+                        "A common plant found around Durlan and Vatha, Opertinas are a nut and a vegetable combined in one. Their bottom, hard shells are farmed for grinding down into baking purposes. The green plants they sprout are often used for salads or other vegetable-related dishes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Harmless"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraOpertina.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  14,
+                    "title":  "Nircka",
+                    "paragraphs":  [
+                        "Typically hidden away by larger shrubs, Nirckas are mostly spotted by those with a trained eye for flora. They emit a soft, yellow light from their center. While their leaves are often used for tea, their middle must be avoided. When provoked, Nirckas release a blinding light, obscuring onlookers' vision for a singular turn.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraNircka.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  15,
+                    "title":  "Lacerta Cacti",
+                    "paragraphs":  [
+                        "Throughout the eastern desert, it's not uncommon to find harmless cacti growing. However, it's your best bet to be careful with the cacti you do find, just in case. Every so often, in a rare little patch, there's a deep, creaking plant beast hidden into the floor. When provoked (stepped on, crushed, poked, etc.), the desert floor will begin to tremble and a long reptilian-like plant beast will crawl out slowly from its position in the floor. The cacti creature has no eyes and is completely blind, but is covered in cacti needles that are constantly willing to prick you. Lacerta cacti are 2 meters in height and 5 meters long, from nose to tail.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly/Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLacerta.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  16,
+                    "title":  "Mimicking Marthas",
+                    "paragraphs":  [
+                        "Mimicking Marthas are scarcely found throughout a few locations of Edenfell, scattered around in hidden bushes. They’re a bushel of little flowers, with open petals at the tops of their stems. The flowers have a unique skill to mimic various sounds and even voices. While harmless by themselves, other more dangerous wildlife has learned to use the flowers as bait to lure in unsuspecting prey.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraMimickingMarthas.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  17,
+                    "title":  "Rubrum Hedera",
+                    "paragraphs":  [
+                        "Rubrum Hedera is a wide plant with long 'tentacle' like attributes that can grow to be a meter and a half in height. They have small spiked ridges around them, and are mainly harmless unless you happen to touch their spikes. The inside of the plant growth, however, has neat red-magenta plants growing inside. Those plants, when touched to bare skin, will give an itchy rash for around 2-3 days, similar to poison ivy. When consumed, however, they are poisonous, and can be fatal when eaten too much.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraRubrumHedera.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  18,
+                    "title":  "Somnum’s Hypnosis",
+                    "paragraphs":  [
+                        "Somnum's Hypnosis are large flowers with big, broad leaves. The inside of the flower itself emits a gentle blue glow, and it's extremely pretty to look at, especially at night. Unfortunately, that is the plant's trick, and will keep you captivated the longer you look at it. The plant does no harm except for making you lose track of time completely, and by the time you're pulled away you can find yourself questioning how long you've been standing there staring at it. If you spend more than one turn looking at Somnum's Hypnosis, you will be hypnotized for 2 turns unless snapped out of it by someone else.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSomnumsHypnosis.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  19,
+                    "title":  "Venemum Swallowers",
+                    "paragraphs":  [
+                        "Venemum Swallowers are a large carnivorous plant that give off poisonous gasses in order to trap their prey. When still and unprovoked, they remain closed, and look like a tall, ordinary plant. However, when they sense something close enough to eat, their side parts slowly roll off of the center part of its body, and it emits a blue, visible poisonous gas. Once there’s enough of the poison in its prey's system, it grapples them by those same parts and opens up its center, drops it in, and feeds on it for nutrients. If a person is actively breathing in the gas for more than two turns and a half, you will be paralyzed. If grappled inside, you have a two turn opportunity to escape. If not grappled and still breathing in the poisonous gas after being paralyzed, it'll take you another two turns to die.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha and Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVenemumSwallowers.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  20,
+                    "title":  "Splinter Sprinter",
+                    "paragraphs":  [
+                        "A harmless cacti that houses delicious water and soft and sweet interior beneath its hard and prickly green shell. Not particularly nutritious, but enough to keep a traveler hydrated, the cacti are an amazing find for most adventurers. Only issue is that the cacti can sprout four distinct legs when disturbed, and run at insanely high speeds, making it very hard to catch.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSplinterSprinter.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  21,
+                    "title":  "Grassza",
+                    "paragraphs":  [
+                        "A green plant that grows on the plains of southern Edenfell. It usually grows in pairs of two or three and bears the form of a pizza. The plant is delicious to eat and even warm due to absorbing the warmth of the soil inside of it.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraGrassza.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  22,
+                    "title":  "Panacotta Flowers",
+                    "paragraphs":  [
+                        "As the name states, these are flowers that somehow grow small sweet cakes in the middle of the flower itself. They often attract tons of bees, butterflies and other sorts of critters that love sweets and pollen which is hidden inside the gelatin form of the cake.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPanacottaFlowers.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  23,
+                    "title":  "The Azure Vacuum",
+                    "paragraphs":  [
+                        "A dangerous flower that perhaps takes its natural ability to absorb moisture a bit too seriously. Unlike normal plants that suck up water only enough to make itself live, this flower has a peculiar ability to rid something of any liquid in a matter of seconds. It usually grows in wet and moist soil, but leaves the area around it completely dry. Anyone unfortunate enough to be caught in the grasp of this plant’s tentacles will find themselves extremely dehydrated, or dead, if they don’t react quickly.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraAzureVacuum.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  24,
+                    "title":  "Sidus(i)",
+                    "paragraphs":  [
+                        "The Sidus plant (or Sidusi, plurally) are delicious star-shaped fruit found in Edenfell. Their space-like insides are sticky to the touch, common in jam and expensive dishes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Azisi's Spiral"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraSidus.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  25,
+                    "title":  "Cachinnate",
+                    "paragraphs":  [
+                        "Though they are scarcely found in the wild, Cachinnate seeds can be found in most magical shops for high prices. They seem to be harvested in secret in order to prevent mass mishaps. When their blue/purple growths are plucked and thrown, they explode upon impact, sending out a powdery explosion of color. If inhaled, Cachinnates will cause uncontrollable laughter for one turn.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Found in Magic Shops for high prices, and rarely in the wild on the edges of Corrupted Forests"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare / Extremely Rare (in the wild)"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraCachinnate.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  26,
+                    "title":  "Pinespike",
+                    "paragraphs":  [
+                        "After the great Cataclysm, some plants in Edenfell that were already dangerous became outright lethal. Before one had to worry about half-conscious greenery that acted on pure outside stimuli, but with the collision of the worlds, certain plants evolved past that and developed instincts comparable to wild animals. ",
+                        "These humanoid plants with pine heads inhabit the areas most affected by the cataclysm. They live in hoards and survive on the toxic waters in the surrounding areas. The inside of their pine heads hides an extremely delicious and delicate seed that can enrich any dish and provide enough nutrients to last someone an entire week. Unfortunately, getting the seed is more than most are ready to bargain for.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"The Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraPinespike.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  27,
+                    "title":  "Lumishrooms",
+                    "paragraphs":  [
+                        "A previously widespread type of mushroom that now hides in little known parts of Edenfell’s natural habitats. The mushroom can be found all across the continent, growing in even the harshest conditions. While it has very low nutritional value, it is used to create various potent antidotes. By mixing the mushroom with the target poison, it is able to create a potent antidote, eliminating the effects of the poison when consumed.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Guinever's Conquest"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLumishrooms.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  28,
+                    "title":  "The Reaper Mushroom",
+                    "paragraphs":  [
+                        "If the name doesn’t make you take a full turn and leave, hopefully the appearance will. Reaper Mushroom is the most toxic plant found in Edenfell, a single mushroom having enough poison inside of it to take down dozens of anthros. The peculiar trait of this shroom is that it’s practically odorless and if prepared right, can be edible. The shroom needs to be steamed over fire for hours, after which it is grilled over hot coal until its texture becomes completely crispy. If the mushroom is prepared wrong, it will instantly produce a disgustingly bitter taste in one’s mouth, though, by then it’s already too late. The mushroom is found deep inside dark and moist caverns near bodies of water.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Border of Werewick and Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Deadly"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraReaperMushrooms.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  29,
+                    "title":  "Lunamis",
+                    "paragraphs":  [
+                        "Only able to grow beneath the full moon, Lunamis are very rare melons that simply take one night to blossom. Upon consumption, the eater will be granted night vision for approximately five hours. If also consumed on a full moon, said person will feel a minor buff to their stats (+1 tier for 5 turns).",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Night Chasers"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLunamis.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  30,
+                    "title":  "Eve's Ribcage",
+                    "paragraphs":  [
+                        "Ominously looming over scarce bodies of water, Ribcages find themselves covered in blood, relying on vampiric tendencies to survive. When the sensors on their petals (their “bones”) are triggered by the sensation of a pulse, they begin to thrash around wildly, revealing their prickly middle that attacks their prey with repetitive slashes.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"The Red Woods"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Dangerous"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeputs"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraEvesRibcage.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  31,
+                    "title":  "Lirania",
+                    "paragraphs":  [
+                        "Lirania is a rare plant that turns deadly in the light. This plant is harmless until it is hit by the suns rays. As a nocturnal flower, it has adapted to the moonlight. As such, when it is touched by the light of the sun, it has a negative affect, causing the flower to hold poisonous properties.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Azisi's Spiral"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraLirania.png",
+                    "imgType":  "right"
+                },
+                {
+                    "divID":  32,
+                    "title":  "Golden Apple Tree",
+                    "paragraphs":  [
+                        "Golden Apple Trees are exactly what they sound like. Not too different from regular apple trees, these trees merely sprout golden fruit that glow brightly. The trees had gone almost fully extinct after the Cataclysm, yet few remained, saved by being located in the old Alfenheim’s private orchards. Currently the trees can be mostly found grown inside the walls of Durlan’s capital, closely tended by Illumi Fëanor.",
+                        "The Golden Apples themselves do not possess any special properties besides being sweeter and a bit bigger than normal apples. The importance of the trees is solely tied to sentimental value.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan City"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":  "column",
+                    "img":  "floraGoldenApple.jpg",
+                    "imgType":  "mid"
+                },
+                {
+                    "divID":  33,
+                    "title":  "Verimawe",
+                    "paragraphs":  [
+                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"N/A"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Legendary"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Invoker(?)"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVerimawe.png",
+                    "imgType":  "right"
+                }
+            ]
+        },
+        {
+            "page":"Locations",
+            "url":"/world/locations/",
+            "content":[
+                {
+                    "divID":1,
+                    "paragraphs":[
+                        "Small towns and villages make up the majority of the realm, which is currently governed by the cities of Durlan, Caliburn, Vatha, and Edom. The inhabitants of Edenfell are served and safeguarded by these cities, which also uphold their core values. The four cities are generally independent states, but all of them—aside from Durlan—are united under the same Trident flag since Durlan is seen as their common enemy and a threat to civic freedom. On the grounds of the tournament, the Trident cities may have passionate rivalries, but they rarely engage in open hostilities and have never declared war on one another."
+                    ],
+                    "type":"column",
+                    "img":"Locations.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"History",
+                    "paragraphs":[
+                        "Some folk legends claim that the five relics that now form the centers of the cities (and the edge of the Red Woods) were Elvish treasures back then, and it's even possible that Elven magic created some of them. But the only veritable source from the time before the Cataclysm doesn’t remember these relics ever being around before Nimiane shattered the world.",
+                        "The relics themselves are amazing, enigmatic artifacts with tremendous magical power and a level of awareness that is just beyond our comprehension today. There is no doubt that each of the five relics is a physical representation of one of the five virtues and has the authority to judge that virtue in people. The relics' qualities (and judgment) are viewed as being immutable and objective in Edenfell, and the majority of society is based on their infallibility."
+                    ]
+                },
+                {
+                    "divID":3,
+                    "title":"The Five Virtues",
+                    "paragraphs":[
+                        "Five fundamental virtues—loyalty, wisdom, tenacity, bravery, and strength—rule life in Edenfell. Knights, nobles, and commoners all make an effort to uphold these ideals in their daily lives. In addition to employing racially and ethnically driven profanities, people in the realm frequently mention their success or inability to uphold a certain virtue when they want to praise or condemn someone.",
+                        "The five virtues are established by the five relics and are thusly treated with absolute respect and authority. The denizens of the realm see all the virtues as ideals to strive for, but not always equally. Naturally, each city believes the virtue associated with their own relic is paramount, though, not in lieu of the others. A knight of Caliburn will admire your courage above all else but still look down upon the disloyal or foolish."
+                    ]
+                },
+                {
+                    "divID":4,
+                    "title":"Knights of the United Army (UnA)",
+                    "paragraphs":[
+                        "Knighthood is one of the highest distinctions one can attain in the Trident. As champions, heroes, and role models of morality, knights are adored. All knights of the realm, who are addressed with the honorific 'Syr', have a variety of duties, from enforcing the law in their communities and safeguarding defenseless citizens to undertaking dangerous missions to stop and capture Voidbringers who venture too near settlements or cities. They frequently act as scouts, roving the countryside searching for Higher Sentient or Voidborn. Knights frequently ride noble steeds of various sizes and kinds, wear exquisitely constructed armor and weapons, and on occasion, if they are mages (UnA mages are often called spellswords), use potent magic.",
+                        "A quest to demonstrate excellence in one of the city's virtues is required to become a knight in one of the Trident cities. In some cities, the last stage to becoming a true knight is to be assessed by the relic of that city."
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"Durlan",
+            "url":"/world/locations/map/Durlan",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Durlan",
+                    "paragraphs":[
+                        "Durlan is perched on top of a hill in the far south, gazing out over the fields and pastures of the towns below. Acres of perfectly trimmed lawns and pristine, verdant gardens are enclosed within its tall white walls. Dozens of faithful guards surround the Ring of Loyalty, which is located towards the top of the main castle's central tower.",
+                        "Due to its population being primarily made up of settlement dwellers in the outer city who exchange some of their labor from foraging, herding, and other artisan and working-class crafts for the protection provided by the relatively few mages who live in the inner city, Durlan is the smallest city by population. About 300 mages live in the inner city of Durlan, and Mage Seekers and the mages they accompany form campaign groups. Families of visiting mages are given temporary housing inside the city's walls, and only the relatives of the highest-ranking officials are given permanent housing there. Non-mages are only permitted inside the city's walls if they perform necessary services that keep the city running smoothly and support a functioning civilization.",
+                        "Durlan, ironically, considers itself a beacon of peace and resistance against the spreading arcane corruption in the realm, standing as both a symbolic and literal object of power. Its mages like to say that merely speaking the city’s name will weave subtle magic of protection around the speaker and their allies. The castle is home to King Fëanor, Durlan’s ruler."
+                    ],
+                    "type":"column",
+                    "img": "Durlan.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Loyalty",
+                    "paragraphs":[
+                        "Loyalty is the fundamental characteristic on which Durlan is based. Although its powerful and authoritative manner of approach would suggest that preaching and practice are very different, the city views loyalty as a foundation of kinship and trust that supports the other virtues, rather than merely mindless obedience to whoever happens to be in control.",
+                        "True harmony among people cannot exist without the capacity for trust and loyalty, and true virtue cannot exist without harmony. Due to its tendency to erode the basis of mutual respect and harmony, ego is the adversary of loyalty. As a result, Durlanite mages try to perfect their virtue by putting aside their own desires and thoughts. As a Higher Sentient, leaving the city is considered desertion, and those found guilty would be marked as wanted and executed."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":3,
+                    "title":"Durlan’s Mages and Mage Seekers: The Higher Sentient",
+                    "paragraphs":[
+                        "The Higher Sentient Army, which is ruthlessly efficient and frequently cruel in its convictions, includes all of Durlan's Mages. Above all things, the Mages of Durlan are devoted to their city's leaders, to one another, and to the entire populace that makes up the city. The name Higher Sentient is derived from the ideology that mages are the next step in Anthro evolution and a higher form of individual than the common man could ever be. Durlan’s mages try to exemplify this condescendingly self-righteous ideology by following their strict moral code and societal structure to the letter of the law. Their allegiance outweighs any haughtiness or sense of superiority; triumph belongs to the collective, not to any one person, and even the glory of a single mage benefits Durlan as a whole.",
+                        "The army of the Higher Sentient is made up entirely of mages, who are organized into units that include a Mage Seeker—a mage who specializes in finding potential mages—and a diverse group of mages to support the seeker. The Higher Sentient typically participates in patrolling the kingdom of Durlan to maintain the safety of the outlying villages and to look for any burgeoning young mages (often snatched from their resisting parents’ arms) who can be brought to the capital and trained to join its ranks.",
+                        "When battling in a group, Durlanite mages are even more fierce than they are individually. Due to loyalty, they almost never go on missions by themselves, ensuring that no mage is ever abandoned and captured by the enemy. Durlan's mages enjoy congregating at the court for the arts, company, and conversation—treasures they value beyond all others—when not engaged in combat or on solitary quests in the wild.",
+                        "Settlers seek out Durlan as much as any of the Trident cities as it provides a larger and safer body of protection for them as opposed to staying in their hamlets scattered around the continent at the mercy of prowling Voidbringers. Though they are not regarded as the equals of the mages and are often relegated to the outer city, commoners in Durlan are treated with a higher level of egalitarianism and equity than in the other cities as Durlan’s society is harmonious and has been free of the conflicts that arise from politics and misplaced ambition thus far, thanks to its virtue. It also helps that Durlan’s outer city which encircles the opulent inner city is not far behind in splendor or comfort."
+                    ],
+                    "type":"column",
+                    "img": "DurlanMageSeekers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Ring of Loyalty",
+                    "paragraphs":[
+                        "At the heart of Durlan’s main castle is a magical ring of eternally burning silver fire known as the Ring of Loyalty. To be named a member of the Higher Sentient, aspirants must walk through the flame, for its magic can detect selfish people and undesirable motives. Those who pass through the flame unscathed are deemed worthy and christened at the center of the ring itself. Those who are burned are quickly pulled out and healed, but rarely are they allowed to attempt the trial a second time. Failure to pass the test means suffering shame as a steward of the Higher Sentient’s members as one cannot just leave."
+                    ],
+                    "type":"column",
+                    "img": "DurlanLoyalty.png",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "img":"DurlanWorthyMage.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":6,
+                    "title":"King Fëanor, the Fireforged",
+                    "paragraphs":[
+                        "Shiv needs to write this."
+                    ],
+                    "type":"inline",
+                    "img": "DurlanFeanor.jpg",
+                    "imgType":"left"
+                }
+            ]
+        },
+        {
+            "page":"Caliburn",
+            "url":"/world/locations/map/Caliburn",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Caliburn",
+                    "paragraphs":[
+                        "Caliburn rises like an island above Everstill, a mist-shrouded lake on top of a highland in the west, a barrier constructed by the Elves to keep the Voidbringers out. Water freely flows throughout the fortress like a lavish fountain, and banners and pennants flutter from its spires. This lake is created by a mountain gap that is regularly filled with water, and the castle is perched on top of a sizable shaft in the middle of the lake. The Looking Glass is located in a murky, cavernous area at the bottom of this shaft.",
+                        "Researchers and inquirers from the other cities frequently travel the challenging distance to Caliburn since it is recognized as a hub of scholarship in the Trident and holds information that cannot be accessed elsewhere."
+                    ],
+                    "type":"column",
+                    "img": "Caliburn.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Wisdom",
+                    "paragraphs":[
+                        "The knights of Caliburn consider wisdom to be the highest virtue. wisdom guides the right application of every other virtue in a variety of situations and aids in preventing problems from getting worse and becoming more serious.",
+                        "The mastery of facts is only one aspect of wisdom. The ability to combine diverse data to gain a deeper grasp of systems and principles is what distinguishes actual wisdom from a dispersed collection of unrelated facts. Wisdom's enemies include not only ignorance and foolishness but also narrow-mindedness and tradition-bound ways of thinking. The Caliburn knights must be able to modify their worldview in response to fresh knowledge and concepts."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnWisdom.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Caliburn's UnA Knights",
+                    "paragraphs":[
+                        "In Caliburn, knighthood is wisdom applied to the challenges of the world. To become a knight, an aspirant must tell the Looking Glass a truth it did not already know, and even then, the gift of knighthood is bestowed at the Glass’ inscrutable discretion. Once that gift is bestowed, the knights of Caliburn continue to seek out new secrets for the Looking Glass, but they also venture out into the world and the wilds to put their wisdom to use. Alongside their combat duties, many of them strive to help those who are in need of wisdom. When someone is stumped by a riddle, can't bypass an enchanted door, or is enthralled by witchcraft, a knight of Caliburn might arrive to help them out of their predicament."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":4,
+                    "title":"Lorechasers",
+                    "paragraphs":[
+                        "The lorechasers of Caliburn (also known as chroniclers or riddle-seekers) look for wildlore and delve into the mysteries of the complicated magic of the Voidborn. They are astonishingly brave and experienced scholars, and it happens frequently for knights from every city to venture into a lonely swamp or explore a cave lit only by fireflies only to discover a lorechaser of Caliburn already there. They are skilled in negotiating agreements with supernatural beings, deciphering runes, and determining the objectives and outcomes of rituals. A word of caution: be prepared to bear their answers in excruciating detail when you visit a chronicler of lore."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLorechasers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"The Looking Glass",
+                    "paragraphs":[
+                        "The secret-hoarding Looking Glass is located well beneath Caliburn's Council House in a cavern that is often flooded. Only people who live in Caliburn refer to it by its real name, Gogoth. According to legend, the world's most foolish goblin (something called a durandal) once asked the world's wisest sage a question. For the remainder of his life, the sage thought about this query without coming up with a solution. After his passing, the query mysteriously persisted, converging in on itself, and the Looking Glass materialized. Everyone but the Glass is unaware of the question, but the Glass nevertheless sends loremages and knights on mystical scavenger hunts in hopes that one day it will piece together the solution."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLookingGlass1.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":6,
+                    "paragraphs":[
+                        "The Looking Glass evaluates the virtue of wisdom in all who come before it. This is examined by the Council of Ten before a knight is appointed. Even experienced knights bring new secrets to the Glass in the hopes of receiving magical boons and powers as additional rewards; yet, despite the legend, no one has ever received such a reward. Though the Looking Glass's entire potential is unknown, there is no denying the breadth of its knowledge when it chooses to answer.",
+                        "Caliburn is governed by a multi-racial council composed of ten revered individuals. This diverse Council of Ten, chosen not for their race or social standing but solely for their exceptional expertise and profound knowledge in their respective domains, wields authority over the city. The selection process is guided by the arcane Looking Glass as it transcends biases and assesses the council members' deep wisdom. Ideally, with their vast knowledge and unparalleled understanding, this esteemed council leads Caliburn with an unwavering commitment to collective well-being, making informed decisions that shape the realm's flourishing future."
+                    ],
+                    "type":"column",
+                    "img": "CaliburnLookingGlass2.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Vatha",
+            "url":"/world/locations/map/Vatha",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Vatha",
+                    "paragraphs":[
+                        "Forged by the hands of giants in an era predating Anthros' dominion, Vatha stands as an enigmatic realm, adorned with colossal and peculiar structures. At its core lies the Menhir, a relic of remarkable magnitude perched upon a prominent stone outcrop. Embracing the Menhir, the city expands, a testament to the Nords and Faes who, after the Cataclysm, erected a human-scaled enclave encircling the ancient relic. Here, the fusion of massive stone, mortal craftsmanship, and untamed growth coalesce in harmonious unity.",
+                        "Like a celestial timekeeper, the central stone of Vatha assumes the mantle of a sundial's gnomon. During specific celestial alignments, the encircling monoliths align with the celestial bodies' paths, briefly unveiling a gateway to the profound and shadowed recesses of Edenfell, where secrets dwell in the deepest darkness. When not covered in snow (which isn’t often), Vatha’s lands are lush though not as forested as the west around Caliburn and Edenfell’s south."
+                    ],
+                    "type":"column",
+                    "img": "Vatha.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Strength",
+                    "paragraphs":[
+                        "Above all, the knights of Vatha hold raw physical strength in the highest esteem. A Vathan knight must possess the prowess to wield colossal weapons, don the weightiest armor, and showcase feats of strength that verge on the superhuman. While the strength of will and character are also valued, they are seen as complementary to physical power, not substitutes.",
+                        "Strength, being the most overt of virtues, molds the very fabric of the Vathan perspective. Action reigns paramount, overshadowing intention and desire. Those who fixate on their inner lives and personal virtue without translating them into tangible deeds are regarded with disapproval."
+                    ],
+                    "type":"column",
+                    "img": "VathaStrength.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Vatha's UnA Knights",
+                    "paragraphs":[
+                        "To ascend to the esteemed rank of a Vathan knight, one must exhibit a formidable display of strength, surpassing the expectations set by their stature and race. The ruler of the court, the discerning arbiter of knighthood, is none other than Jarl Thrawn, whose standards are exceptionally high, resulting in a scarcity of knights within Vatha.",
+                        "Those who have attained the coveted title of knighthood revel in their robust might, employing it readily even in endeavors deemed less knightly by the other Trident cities. Vathan knights can often be found engaging in wrestling matches and confronting formidable beasts within the depths of the forest. Yet, they are equally likely to be seen participating in acts of community service, such as bearing water in a fire brigade or clearing fallen trees after a tempestuous storm. The knights hold a fondness for tales and competitions that unfold in the grand hall of Vatha Castle, but their true calling lies beyond its confines, where they tirelessly extend their aid and safeguard the vulnerable and virtuous souls that dwell in the world."
+                    ],
+                    "type":"column",
+                    "img": "VathaUnAKnights.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Menhir",
+                    "paragraphs":[
+                        "Contrary to its name, the Menhir comprises a grand assembly of colossal stone monoliths arranged in diverse shapes and patterns, contingent upon the time of visitation. At the heart of this henge, a solitary mountainous slab commands the center stage, serving as the gnomon of a prodigious sundial. During select dates, at sunrise and sunset, the encompassing monoliths cast shadows in such a manner that the central stone transforms into a mystical gateway, leading to unknown depths of Edenfell. The encircling calendar stones can be lifted and repositioned to synchronize with the desired time and destination for this extraordinary voyage. Merely shifting a single monolith, even slightly, stands as an astonishing feat of strength, while maneuvering multiple stones into their precise locations to unlock the portal virtually assures the attainment of Vathan knighthood.",
+                        "If a person passes through at sunrise and doesn't come back at sunset, they might come back after a year and a day; if they don't come back then, they are probably lost forever…or they can just walk back."
+                    ],
+                    "type":"column",
+                    "img": "VathaMenhir.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"Jarl Thrawn",
+                    "paragraphs":[
+                        "Nords usually reside in the colder regions north of Edenfell and are often large, burly fellows with a thickness of hair that makes the biting cold no more than a pesky inconvenience. Vatha is an absolute monarchy and has always been ruled by a Jarl. ",
+                        "The current Jarl of Vatha is the giant Nord named Thrawn, who towers over even others of his kind and has a mane and mantle of curiously green hair. He wears a crown fashioned from the broken weapons of those who have challenged him to claim his position. Positioned beneath the shelter of the overhanging gnomon stone, Jarl Thrawn's throne symbolically upholds the weight of the stone, safeguarding the people of Vatha. To the knights and nobles within the court, Vatha and its sovereign serve as a poignant reminder of the righteous employment of strength: the protection of those who are weaker than oneself."
+                    ],
+                    "type":"column",
+                    "img": "VathaJarlThrawn.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Edom",
+            "url":"/world/locations/map/Edom",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Edom",
+                    "paragraphs":[
+                        "Edom was constructed in the naturally freezing northeastern region, which is not an ideal location for anyone except the Nords. However, the warmth emitted by the volcanoes in these icy lands enticed and offered solace to the Changelings who established this city. It also served as a refuge from external threats, thanks to the encircling mountains that effectively kept the dangerously close Voidborns and their accompanying corruption at bay. Edom's foundation was laid at the base of a prominent mountain called Ironhold, with the city sprawling outward into the valley and beyond. While the term 'Edom'  refers to the entire encompassing free city, its central castle, often referred to as the 'place of the thrill' by Edomites, is officially recognized as the Rising Ash.",
+                        "The Rising Ash comprises a vast array of competition arenas, training facilities, and spectator seating under the ownership of the UnA (United Alliance). It serves as the perpetual host of an ongoing tournament that showcases a diverse range of martial skills, including jousting, wrestling, horseback melee, one-on-one combat, archery, and more. Renowned throughout the Trident, this cherished venue attracts knights and aspiring contenders from all three cities, offering them an opportunity to gauge their abilities against formidable opponents. Participation is open to all those brave enough to step forward."
+                    ],
+                    "type":"column",
+                    "img": "Edom.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title":"Bravery",
+                    "paragraphs":[
+                        "The knights of Edom firmly uphold bravery as the utmost virtue, recognizing that genuine virtue cannot exist without bravery. They understand that without courage, individuals would never venture into uncharted territory or endeavor to enhance their skills. Yet, armed with bravery in their hearts, they view no challenge as insurmountable.",
+                        "In the pursuit of valor, fear and cowardice are considered adversaries by the knights of Edom. They dedicate themselves to conquering their own fears. While they acknowledge that complete liberation from fear is unattainable, they impart the wisdom that fear is a valuable tool. They advocate for harnessing fear as a catalyst for achievement, distinguishing true bravery from mere recklessness. The knights of Edom frequently reference the words of Indreon, the first knight of Ironhold, who proclaimed, “Fear is the herald of valor that designates the adversary fit for the lance's fatal embrace.”",
+                        "Edom’s knights pursue a feeling called the Thrill by Edomites that can be gotten in battle or in any daunting and overtly challenging task. This high and the overcoming of the obstacle that causes it is seen as one of the most “tangible” rewards for bravery among them and many live their lives in constant pursuit of the Thrill."
+                    ],
+                    "type":"column",
+                    "img": "EdomBravery.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title":"Edom's UnA Knights",
+                    "paragraphs":[
+                        "Renowned for their unwavering optimism, the knights of Edom exude an unwavering certainty in their ability to triumph against any obstacle, so long as they confront it head-on. With their convivial nature and unwavering self-assurance, they eagerly embrace novel experiences, even though their own lifespans tend to be relatively brief as a result.  They constantly tow the thin line between valor and foolishness in the eyes of other people, especially those used to Caliburn's society and perception of things. As a testament to their bravery, these knights eschew the use of shields, instead adorning their armor with the shattered remnants of their vanquished foes' defenses.",
+                        "Attracted to the most dangerous of quests all the time, Edom's knights ardently believe that the most daunting challenges are the ones truly worth surmounting. It is in facing supernatural perils that would quell weaker spirits that they truly excel, and as a result, they eagerly fill the ranks of the UnA and willingly provide numbers of knights and spellswords that embark on the campaigns to push back the encroaching Voidbringers. Amidst their endeavors to vanquish monstrous threats, they also go on personal odysseys to conquer their deepest fears. One knight may seek to vanquish a creature that frightened them as children, another to avenge their mother's being taken by a monster, or yet another to challenge the colossal giant who hurt their beloved (or just a Nord who was an asshole)."
+                    ],
+                    "type":"column",
+                    "img": "EdomUnAKnights.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"Ironhold",
+                    "paragraphs":[
+                        "The Rising Ash stands nestled beside the scorching Ironhold, a colossal mountain pulsating with volcanic fervor. To earn the esteemed title of an Edomite knight, a hopeful must confront the phobomantic illusionary dread that arises from the rock's searing surface, plunging their blade into its fiery core. If their mettle prevails and they are brave, they can withdraw their weapon, but should fear or cowardice impede them, the sword remains ensnared in the clutches of Ironhold.",
+                        "Edomite lore speaks of Ironhold's clandestine whispers, audible solely to the aspiring knights, often taunting and jeering as a litmus test of their courage. Legend credits this taunting as the catalyst that inspired Indreon to be the first to impale the stone with her sword. There is a myth that on rare occasions, when Ironhold deems a knight exceptionally worthy, it endows their weapon with an immortal boon, forever infusing it with its own mystical prowess. This has never happened, however."
+                    ],
+                    "type":"column",
+                    "img": "EdomIronhold.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title":"Rule",
+                    "paragraphs":[
+                        "Instead of a sole ruler, Edom is governed by a ruling council comprised of knights and members of the noble class. The council's ambassador is chosen through democratic means, with the city's residents voting for their preferred candidate. However, despite this democratic structure, political tension, including racial and social class issues, pervades Edom, much like the other Trident cities.",
+                        "The nobility, in particular, is known for their hot-headedness and intense emotions, which is evident in the frequency of personal conflicts that are taken outside of the Rising Ash. Even minor disputes among the nobility are settled through competitions or combat. These contests rarely result in death, and all participants accept the outcome as the final resolution of their disagreements. Consequently, grudges are short-lived, and the council can conduct its business with a degree of civility."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"Azisi's Spiral",
+            "url":"/world/locations/map/AzisisSpiral",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Azisi's Spiral",
+                    "paragraphs":[
+                        "Azisi's Spiral is a treacherous floating island located northwest of Edenfell. It got its name by being the fast-spinning, precariously deathly location of a battle against a Voidbringer nest and the powerful Voidbringer the UnA have christened Azisi. Suspended hundreds of feet above Ocean Titane and the Boiling Lake, the island's relentless rotation creates a hazardous environment, making it incredibly dangerous for anyone to venture too close. Anything that the spiral drops into the Boiling Lake is often consumed without a trace. The island is not a known site of Voidborn activity and the whereabouts of Azisi are unknown, but the UnA faced significant challenges in their attempts to confront Azisi and neutralize the Voidbringer's threat because the island's unstable nature and the destructive power of the Boiling Lake tested their courage and resourcefulness, as such the name has stuck."
+                    ],
+                    "type":"column",
+                    "img": "AzisisSpiral.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"The Red Woods",
+            "url":"/world/locations/map/TheRedWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"The Red Woods",
+                    "paragraphs":[
+                        "Deep in the heart of the land lies the Red Woods, a haunting place where time seems to stop and nature's vitality has been paused. Here, old trees reach towards the sky with their twisted branches, their canopy thick and lush, but with no new growth. In this forever twilight realm, the Red Woods stands as a solemn reminder of past battles and lives lost.",
+                        "Once a site of fierce confrontation between Durlan's Higher Sentient and the encroaching forces of darkness, the Red Woods bear the scars of that tumultuous conflict. The ground, tainted by the blood of fallen heroes, remains a poignant reminder of the sacrifices made in the name of protection. Moss-clad trunks and twisted roots intertwine, creating a somber tapestry that tells the tale of valor and loss."
+                    ],
+                    "type":"column",
+                    "img": "TheRedWoods.png",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Woden's Hill",
+            "url":"/world/locations/map/TheRedWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Woden's Hill",
+                    "paragraphs":[
+                        "At the border between the Red Woods and Woden's Marsh, a mysterious monolith stands tall. Its surface bears the engraved word 'tenacity', representing the fifth core virtue of Edenfell. Though the Monolith doesn't possess any proven or discernible powers, it has an intriguing history. During a seemingly hopeless battle between the Higher Sentient and the Voidborns, victory was claimed only after the Sentient was driven into a corner, with their backs against the wall—quite literally, as the wall they found strength from was the Monolith. The Monolith became a symbol of renewed vigor and inner unity, enabling the Sentient to overcome adversity.",
+                        "Similar stories have emerged over time, recounting settlers fleeing from the Voidbringers or lost and drained of stamina, finding a surge of energy and determination when near the Monolith. However, these accounts remain unverified, as no tangible evidence has supported the claims. People who have sought to test these stories at the Monolith have experienced nothing out of the ordinary. Thus, these tales are often dismissed as mere coincidence, fabrication, or exaggeration. Nevertheless, the enigmatic presence of the Monolith continues to capture the imagination of those who encounter it, leaving them to ponder the possibility of hidden forces at play or the significance of the human spirit in the face of adversity."
+                    ],
+                    "type":"column",
+                    "img": "WodensHill.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Sorceror's Graveyard",
+            "url":"/world/locations/map/TheRedWoodsSorcerorsGraveyard",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Sorceror's Graveyard",
+                    "paragraphs":[
+                        "Once a site of fierce confrontation between Durlan's Higher Sentient and the encroaching forces of darkness, the Red Woods bear the scars of that tumultuous conflict. The ground, tainted by the blood of fallen heroes, remains a poignant reminder of the sacrifices made in the name of protection. Moss-clad trunks and twisted roots intertwine, creating a somber tapestry that tells the tale of valor and loss.",
+                        "Within this forsaken sanctuary, no traditional tombstones mark the fallen. Instead, the ancient trees themselves serve as silent sentinels, bearing the weight of memory and homage. Visitors are rare, for the Red Woods still harbor hidden dangers and remnants of evil that linger. It is a place of solitude and contemplation, where the spirits of the fallen find solace amidst the ancient giants. The Red Woods stands as a testament to the everlasting sacrifice and unwavering courage, their silent presence a tribute to the battles fought and the souls lost within their shadowed depths."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"Devil's Workshop",
+            "url":"/world/locations/map/DevilsWorkshop",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Devil's Workshop",
+                    "paragraphs":[
+                        "Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving a Cherub. The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"UnA Stronghold",
+            "url":"/world/locations/map/UnAStronghold",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"UnA Stronghold",
+                    "paragraphs":[
+                        "The UnA Stronghold, nestled in the majestic valley of Edenfell's northernmost mountains, serves as the impregnable headquarters of the United Army. It stands as a bastion of strength and resilience, a symbol of the unwavering commitment to defend the Trident and repel the relentless advances of the Voidbringers and Higher Sentient. This state-of-the-art fortress is equipped with the finest facilities, meticulously designed to support and nurture the warriors who stand as the shield between Edenfell and the encroaching darkness.",
+                        "Within the UnA Stronghold, every detail has been carefully considered to ensure the utmost efficiency and functionality. The armory is a sight to behold, lined with rows upon rows of gleaming weapons, meticulously crafted by master artisans. From the sharpest blades to the most intricate enchanted armaments, the armory leaves no room for compromise in the pursuit of excellence."
+                    ],
+                    "type":"column",
+                    "img": "UnAStronghold.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"UnA Stronghold Fortress",
+            "url":"/world/locations/map/UnAStrongholdFortress",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"UnA Stronghold Fortress",
+                    "paragraphs":[
+                        "Within the UnA Stronghold Fortress, every detail has been carefully considered to ensure the utmost efficiency and functionality. The armory is a sight to behold, lined with rows upon rows of gleaming weapons, meticulously crafted by master artisans. From the sharpest blades to the most intricate enchanted armaments, the armory leaves no room for compromise in the pursuit of excellence."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "title":"Quarters",
+                    "paragraphs":[
+                        "Adjacent to the armory lies the barracks, a sprawling complex that houses and trains the diverse array of swordsmen, warriors, and mages who have dedicated their lives to the great duty of protecting Edenfell. The barracks provide a home away from home for the soldiers, with comfortable quarters, training grounds, and sparring arenas where combat skills are honed to perfection."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":3,
+                    "title":"The Grand Library",
+                    "paragraphs":[
+                        "In addition to its functional aspects, the UnA Stronghold also boasts a rich infrastructure of knowledge and education. The Grand Library within its walls houses an extensive collection of ancient tomes, grimoires, and scrolls, providing a wealth of arcane knowledge to the mages and spellcasters who seek to deepen their understanding of the forces they wield. Scholars and strategists convene in dedicated chambers, analyzing maps, deciphering prophecies, and formulating battle plans to counter the ever-evolving threats faced by Edenfell."
+                    ],
+                    "type":"column",
+                    "img":"UnAStrongholdGrandLibrary.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":4,
+                    "title":"The Workshop",
+                    "paragraphs":[
+                        "The Stronghold also serves as a center for innovation and research. Within its workshops, master craftsmen and alchemists collaborate to develop new weapons and protective gear, pushing the boundaries of what is possible. State-of-the-art laboratories hum with activity as alchemists experiment with rare components and enchanters weave powerful spells into the very fabric of the warriors' equipment. The UnA Stronghold serves as a beacon of progress, where ancient traditions intertwine with cutting-edge technologies to create a formidable fighting force.",
+                        "This is where relics are requested and purchased."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":5,
+                    "title":"Training Grounds",
+                    "paragraphs":[
+                        "Amidst the steel and stone, the heart of the UnA Stronghold lies in the camaraderie and resilience of its inhabitants. The warriors who call this fortress their home forge unbreakable bonds united in their purpose and shared commitment. The training grounds echo with the clashing of swords and the crackling of magic as seasoned veterans impart their wisdom to the next generation of defenders. Here, the spirit of honor, duty, and sacrifice is nurtured, ensuring that those who emerge from the UnA Stronghold are not only skilled warriors but also embody the very essence of unwavering resolve."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"Woden's Marsh",
+            "url":"/world/locations/map/WodensMarsh",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Woden's Marsh",
+                    "paragraphs":[
+                        "Woden's Marsh, located west of Edenfell, is a marshland where the corrupting influence of Nimiane holds its most potent sway, second only to Obscuron. Situated between Ocean Titane to the west, which still supports some forms of life, and the Dead Ocean to the east, completely consumed by corruption, Woden's Marsh is an unforgiving place where survival is measured in a matter of hours or even minutes. The marsh is infested with the strongest Voidborn creatures and their numerous hordes, making it a hotbed of danger. The corruption in the air and nature is overwhelming, draining the very essence of life itself. It stands as a perilous expanse, highly fatal and fraught with hazards. Venturing into Woden's Marsh is not just a suicidal act, but almost a guaranteed death sentence for all but the most supernaturally gifted or powerful individuals in Edenfell. Only the resilient bayou bears manage to survive in this inhospitable environment, likely by remaining submerged in the murky swamp water for extended periods and adapting to the harsh conditions. However, even they prefer other swamplands, including those close to the Kai Wings who prey on them, over this treacherous marsh."
+                    ],
+                    "type":"column",
+                    "img":"WodensMarsh.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Werewick",
+            "url":"/world/locations/map/Werewick",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Werewick",
+                    "paragraphs":[
+                        "Werewick, located west of Edenfell, is a region abundant with extensive ruins from the old world. These ruins constantly attract the attention of the UnA scouts and Lorechasers, who are dedicated to discovering and excavating the remnants of the past. The area is characterized by precarious highlands and towering mountains, their snow-covered peaks reaching toward the sky. At the heart of this highland range lies the Tigron Cliffs, a ring of the tallest peaks in Edenfell, surrounded by other impressive mountains and the winding river valleys that flow between them. ",
+                        "While Werewick falls within the danger zone influenced by the corruption of the Voidborns, it is not as severely affected as places like Woden's Marsh or the Red Woods. The uneven terrain of the highland, coupled with the vigilant efforts of Caliburn's UnA scouts, helps to mitigate the spread of corruption. Despite the inherent risks, the allure of the ancient ruins and the potential knowledge they hold drive the UnA scouts and Lorechasers to explore the area, unearthing fragments of history and piecing together the story of the old world. Werewick tests the resilience and determination of those who seek to unravel the mysteries of the past, even in the face of darkness and danger."
+                    ],
+                    "type":"column",
+                    "img":"Werewick.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Guinevere's Conquest",
+            "url":"/world/locations/map/GuineveresConquest",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Guinevere's Conquest",
+                    "paragraphs":[
+                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, sit36uated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
+                        "The battle that unfolded on Guinevere's Conquest was a grueling and harrowing affair, as the UnA faced off against the massed ranks of the Voidborn. The air crackled with magic as Guinevere, wielding her enchanted blade and commanding powerful spells, led her troops fearlessly into the heart of the enemy's stronghold. With strategic brilliance and unparalleled combat prowess, she inspired her soldiers to fight with unwavering resolve, rallying them even in the face of overwhelming odds. The clash of steel and the eruption of spells echoed throughout the island as the UnA forces pushed back the Voidborn, inch by hard-fought inch.",
+                        "With the Voidborn vanquished and the island freed from their malevolent influence, Guinevere's Conquest earned its name as a tribute to the extraordinary deeds of General Guinevere and the UnA forces. The victory marked a turning point in the war against the Voidborn, inspiring hope and renewing faith in the struggle against the forces of corruption. Guinevere's leadership and prowess as a spellsword became legendary, and her name became synonymous with courage and unwavering determination. Guinevere's Conquest stands as a symbol of triumph, reminding all who look upon it of the resilience of humanity and the power of unity in the face of darkness."
+                    ],
+                    "type":"column",
+                    "img":"GuineveresConquest.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Kai Wing Woods",
+            "url":"/world/locations/map/KaiWingWoods",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Kai Wing Woods",
+                    "paragraphs":[
+                        "To the east of Durlan lies the Kai Wing Woods, a woodland forest known for its dense vegetation, even though its trees may not reach the towering heights of the Night Chaser Forest. The forest derives its name from being the predominant home of the Kai Wing population in Edenfell. Within its boundaries, the Kai Wing Woods boasts an abundance of Golden Berry and Lantern Cherry trees, which contribute to the forest's vibrant atmosphere. Additionally, the woodland is characterized by numerous bodies of water, including creeks, streams, and small springs and pools. It is believed that the presence of these water sources is a significant factor in why the untamable Kai Wings have chosen this forest as their habitat. The Kai Wings have a deep affection for the fish that can still be found in the waters, despite the encroaching corruption that threatens the forest from the north and east."
+                    ],
+                    "type":"column",
+                    "img":"KaiWingWoods.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Night Chasers",
+            "url":"/world/locations/map/NightChasers",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Night Chasers",
+                    "paragraphs":[
+                        "The Night Chaser Forest is a breathtaking place filled with emerald trees and a magical atmosphere. As you go deeper into the forest, you'll see towering ancient trees that create a beautiful canopy, allowing only a little sunlight to reach the ground. The filtered sunlight creates a mesmerizing display of light and shadow, making the surroundings shine in shades of green and gold. In this vibrant forest, there's a symphony of life. Colorful plants cover the forest floor, filling the air with delightful scents. Moss-covered rocks and twisted roots seem to have stories to tell about the forest's mysterious origins. The forest is home to both ordinary and extraordinary animals, including elusive creatures called Chasers that dart between the trees, captivating anyone lucky enough to see them.",
+                        "The Night Chaser Forest is a paradise for gatherers and hunters. People who understand the forest's secrets venture forth with baskets and bags to collect the treasures of nature. Delicious wild berries with a perfect balance of sweetness and tartness burst with flavor, and glowing mushrooms entice the curious to explore their hidden world. Skilled hunters, armed with ancient knowledge, move silently through the forest, blending in with the wilderness as they seek elusive game or valuable Chasers. However, even in the beauty of the Night Chaser Forest, there is a sense of danger in the northeastern part. People share scary stories of darkness, horror, and fear. Many feel uneasy, catching glimpses of frightening creatures called Voidbringers. It's a region where caution is necessary, and even the bravest adventurers proceed with wariness."
+                    ],
+                    "type":"column",
+                    "img":"NightChasers.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"New Frontier",
+            "url":"/world/locations/map/NewFrontier",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"New Frontier",
+                    "paragraphs":[
+                        "The New Frontier, an uncharted continent lying to the east of Edenfell, has recently piqued the interest of explorers and groups such as the Lorechasers and the United Army (UnA). While still largely unexplored, initial ventures into the continent have revealed a lack of overwhelming Voidbringer presence, sparking growing curiosity and excitement among those seeking new knowledge and opportunities. As Lorechasers delve deeper into the uncharted lands and the UnA ensures the safety of expeditions, the New Frontier becomes a symbol of untapped potential, offering a fresh canvas for discovery and exploration beyond the known boundaries of Edenfell."
+                    ],
+                    "type":"column"
+                }
+            ]
+        },
+        {
+            "page":"No Man's Land",
+            "url":"/world/locations/map/NoMansLand",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"No Man's Land",
+                    "paragraphs":[
+                        "No Man's Land is one of Edenfell’s floating islands, perpetually spinning in place hundreds of feet above the ocean on which it once sat. It is a desolate place forsaken by hope and hopelessly overrun by Voidborn that stands as a haunting testament to the ruins of the old world. Buried within its broken soil, remnants of once-great civilizations lie entombed, their glory reduced to shattered fragments. Jagged crevices and upheaved terrain bear witness to the Cataclysm's destructive power.",
+                        "On this forsaken island, an ethereal mist hangs heavy, obscuring vision and distorting sounds. Nature's forces clash in ceaseless turmoil, flooding the broken landscape with relentless fury. Barren and lifeless, the skeletal remains of trees reach for a sun obscured by dense fog. Stagnant waters, tainted by the corruption carried by the Voidbringers, exude a noxious miasma.",
+                        "No Man's Land stands as a testament to the transience of human endeavors and the fragility of existence. Amidst the ruins and draining life force, a profound sense of tragedy lingers."
+                    ],
+                    "type":"inline",
+                    "img":"NoMansLand.jpg",
+                    "imgType":"left"
+                }
+            ]
+        },
+        {
+            "page":"Obscuron",
+            "url":"/world/locations/map/Obscuron",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"Obscuron",
+                    "paragraphs":[
+                        "Obscuron is a desolate and nightmarish place that is the epitome of devastation and despair. It is the haunting Ground Zero of the Cataclysm, the apocalyptic event triggered by Nimiane's fateful actions that shattered the world and fused the realms of Edenfell and Limbo, an unknown, malevolent dimension. The consequences of this event transformed Obscuron into a place devoid of life and brimming with constant peril. Poisonous cascading waterfalls are frozen in time, while the very air itself erodes life and stifles the flow of magic. The plants within this forsaken land are trapped in eternal decay, driven to feed on any remaining traces of life, much like the hordes of mindless Voidbringers that roam the continent and its grotesque floating islands, akin to relentless undead zombies.",
+                        "At the heart of Obscuron stands Fëanor's Peak, a foreboding mountain that serves as a grim reminder of the horrors that befell the old world. It is here that King Fëanor, the lone survivor of an unsuccessful expedition, emerged from Limbo, returning to Edenfell as a witness to the devastation that consumed his companions. Obscuron isn’t just in the danger zone, it is the danger zone. Wandering into this place is foolishness that spells nothing but an imminent and agonizing end."
+                    ],
+                    "type":"inline",
+                    "img":"Obscuron.jpg",
+                    "imgType":"left"
+                }
+            ]
+        },
+        {
+            "page":"The Nest Lands",
+            "url":"/world/locations/map/TheNestLands",
+            "content":[
+                {
+                    "divID":1,
+                    "title":"The Nest Lands",
+                    "paragraphs":[
+                        "The Nest Lands is a remarkable collection of floating islands, suspended high above the ocean and untouched by the influence of the Voidborn. These islands serve as the ideal habitat for the White Wings, majestic creatures that build their nests within the ground. Located hundreds of feet above the water, the Nest Lands presents a breathtaking sight and an environment that is, like other floating islands, often only accessible to mages and individuals capable of flight.",
+                        "Despite the challenges of reaching the Nest Lands, these islands attract a steady stream of adventurers, daredevils, and expeditions each year. The allure of exploring this unique and unspoiled realm, coupled with the opportunity to witness the graceful flight and nesting habits of the White Wings, draws people from far and wide. The Nest Lands offer a sense of wonder and an escape from the dangers and corruption that plague other parts of Edenfell, making it a coveted destination for those seeking adventure and the chance to witness the marvels of nature in a truly extraordinary setting."
+                    ],
+                    "type":"column",
+                    "img":"TheNestLands.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
+            "page":"Magic",
+            "url":"/world/magic",
+            "content" : [
+                {
+                    "divID":1,
+                    "title":"Magic: What is it?",
+                    "type":"column"
+                },
+                {
+                    "divID":2,
+                    "type":"column",
+                    "img":"Magic.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "paragraphs":[
+                        "The manifestation of magic is called Weaving. There exists an unseen infinite magical force leaking into all the realms, referred to as the Loom, that is the very fabric of divinity. Magical creatures and individuals are capable of sensing the Loom and (sometimes with brief training) can reach out, grab and shape this fabric of magic, thus Weaving. Mages and wielders of magic are called Magic Sensitives or Weavers. ",
+                        "Mages can interact with and manipulate the Loom using Mana, the ether that connects them to the Loom, acting as a bridge between the physical world and this higher realm of the divine. Depending on how much Mana they possess, Mages are acutely aware of the Loom and can feel the magic around them from the day they are born. ",
+                        "The amount of Mana a mage has access to determines how much of the Loom they can tap into and wield, i.e. their magic capacity. This is reflected in the number and magnitude of Spells a mage can cast at full strength."
+                    ],
+                    "type":"inline",
+                    "img":"MagicHands.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":4,
+                    "title":"Spell Weaving and Blood",
+                    "paragraphs":[
+                        "Spells are magic in action. Spell weaving is the act of creating and casting a magical effect and is basically a blanket term for the expression of magic. The number and power of spells a mage has in their arsenal are determined by the amount of Mana flowing through them. Players earn spell slots as they gain experience per Tier. Spell slots represent the potential individual spell capacity a mage has. They can either be used to cast a single spell each or combined to cast a spell worth several slots and therefore far greater in power, albeit more expensive to use.",
+                        "Each player has access to a limited amount of Mana represented by a limited number of spells (spell slots) determined by their rank as already mentioned. Weaving more powerful spells means consuming more Mana (i.e. combining and using up available spell slots) per scene and therefore potentially running out before the scene is over, but it could also mean dealing a more potent or fatal blow to an obstacle or enemy sooner than later. ",
+                        "Mana resets in each new scene but it can also be replenished using Blood. Because Mana flows through mages and magical creatures in the same way blood does, it is found entwined with the substance and is, therefore, part of their lifeblood. Consuming one’s own blood or blood from another who possesses magic will replenish a mage’s Mana by 50% flat, no matter how much is consumed (so it would be wise not to bleed yourself dry). Blood can only be used once per scene (unless otherwise stated) so be prudent with how you choose to use it."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":5,
+                    "title":"Tiers (the numbers business no one likes)",
+                    "paragraphs":[
+                        "Spells are magic in action. Spell weaving is the act of creating and casting a magical effect and is basically a blanket term for the expression of magic. The number and power of spells a mage has in their arsenal are determined by the amount of Mana flowing through them. Players earn spell slots as they gain experience per Tier. Spell slots represent the potential individual spell capacity a mage has. They can either be used to cast a single spell each or combined to cast a spell worth several slots and therefore far greater in power, albeit more expensive to use.",
+                        "Each player has access to a limited amount of Mana represented by a limited number of spells (spell slots) determined by their rank as already mentioned. Weaving more powerful spells means consuming more Mana (i.e. combining and using up available spell slots) per scene and therefore potentially running out before the scene is over, but it could also mean dealing a more potent or fatal blow to an obstacle or enemy sooner than later. ",
+                        "Mana resets in each new scene but it can also be replenished using Blood. Because Mana flows through mages and magical creatures in the same way blood does, it is found entwined with the substance and is, therefore, part of their lifeblood. Consuming one’s own blood or blood from another who possesses magic will replenish a mage’s Mana by 50% flat, no matter how much is consumed (so it would be wise not to bleed yourself dry). Blood can only be used once per scene (unless otherwise stated) so be prudent with how you choose to use it.",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"th",
+                                            "text":"Tier"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"EXP"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Spells"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Relative Peak Output (scale, speed, weight, destructive power)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Invoker"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"20000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"25+"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Archwizard"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"15000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"20-24"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Adeptus"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"10000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"15-19"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Wizard"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"5000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"10-14"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Acolyte"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"8-9"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content":[
+                                        {
+                                            "type":"td",
+                                            "text":"Initiate"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"0"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"5-7 (3-7 for Nords)"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "Initiate Nords start with fewer spells than characters of other races as they have the lowest Mana among the races, this evens out by the next rank and above as story-wise it assumed that from that point on they have trained and honed their magical aptitude to match that of their peers. Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
+                        "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
+                        {"type":"cite",
+                        "text": "A myriad of embers materialized out of thin air around the Wizard, quickly expanding in shape and size until each grew into a singular, massive house-sized fireball big enough to blot out the sun in the sky. Slowly, guided by his rising hand, the blazing orb flew up and replaced the sun's warm illumination with its blinding luminosity and raging heat. 'You've yee'd your last haw, pardner.' With a languid fall of his hand, the conflagration spread into a thousand fist-sized orbs which fell onto the field in front of him, whizzing down at a blinding speed, each flaming sphere acting with the singular purpose to seek, burn and destroy. [fireball power: 12 spells]"} 
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":6,
+                    "paragraphs":[
+                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff. These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural). Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic. Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
+                        "Spell Foci and Magic Circles are entirely narrative."
+                    ],
+                    "type":"inline",
+                    "img":"MagicCircle.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":7,
+                    "title":"The Schools of Magic",
+                    "paragraphs":[
+                        "The manifestation of magic is called Weaving. There exists an unseen infinite magical force leaking into all the realms, referred to as the Loom, that is the very fabric of divinity. Magical creatures and individuals are capable of sensing the Loom and (sometimes with brief training) can reach out, grab and shape this fabric of magic, thus Weaving. Mages and wielders of magic are called Magic Sensitives or Weavers. "
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":8,
+                    "title":"Evocation",
+                    "paragraphs":[
+                        "This is the magic of the Elves. Evocation magic allows the Elves to create or manipulate the elements and their various states or forces to wonderful effect. The elements of Evocation are water, earth, fire, lightning, tallow & air.",
+                        "The best Elven mages can freely switch between elements with ease and equal mastery, but most mages specialize in an element most natural to them. Tallow is the term used for all liquids (and frozen states) that are not water. "
+                    ],
+                    "type":"column",
+                    "img":"MagicEvocation.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":9,
+                    "title":"Enchantment",
+                    "paragraphs":[
+                        "This is Fae magic. It grants Faes the power to temporarily wield and manipulate the flora (link) and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. ",
+                        "Faes possess the unique ability to enchant other mages too, supplementing (or siphoning) their mana on contact (skin-to-skin) by 50% of its full capacity."
+                    ],
+                    "type":"inline",
+                    "img":"MagicEnchantment.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":10,
+                    "title":"Conjuration",
+                    "paragraphs":[
+                        "This magic allows Nords to create hard light constructs whose size, shape, power, effects, and strength depend on the mage’s Tier and mana alone. Conjuration (also called Crafting) is hailed often because of the creative freedom it grants the mages, limiting them to the extent of the imagination and nothing else.",
+                        "Conjuration mages are unable to cast magic in the absence of a proper light source, therefore it is not uncommon to find them carrying candles, torches, or lamps when they must venture into the darkness."
+                    ],
+                    "type":"inline",
+                    "img":"MagicConjuration.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":11,
+                    "title":"Alteration",
+                    "paragraphs":[
+                        "Changelings use alteration to transform into all the known beasts (link) of Edenfell. They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."
+                    ],
+                    "type":"column",
+                    "img":"MagicAlteration.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":12,
+                    "title":"Organics Rule",
+                    "paragraphs":[
+                        "Mana is strongest in the body. The natural flow stops any attempt at controlling or manipulating something that is part of a living being. External magic cannot enter the body either unless willed by both parties. Don’t go trying to blood-bend other players or blow them up from the inside out, we do not enjoy these techniques, and as such our magic system doesn’t allow it. Don’t be a loser."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":13,
+                    "title":"Relics Rule",
+                    "paragraphs":[
+                        "Relics are specially crafted items which have permanent magical effects outside of the normal schools of magic due to runic magic, limited only by the moderators’ discretion. They are made with runic magic which is now almost extinct, which makes them both rare and costly. A relic of a particular rank costs half the EXP to go from the previous rank to that rank, and the spent EXP cannot be taken back."
+                    ],
+                    "type":"column"
+                },
+                {
+                    "divID":14,
+                    "title":"Mages v/s Non-Mages: What's the Difference?",
+                    "paragraphs":[
+                        "Mages are magic-sensitive individuals capable of bending the Loom to their will and teeming with the mana with which to do so. Non-mages do not have enough mana to tap into the supernatural force and therefore do not manifest any abilities beyond Traits inherent in their race. ",
+                        "Magic was once commonplace in Edenfell and it was almost strange to find a person who was not magic-sensitive enough to effect even the smallest of magic if they tried. Since the Cataclysm, however, most magic has been taken from the world and mages make up the smallest demographic in Edenfell. They are considered rare “mutants” capable of extraordinary gifts and can often be visibly told apart from those who have not been affected by this mystical mutation. ",
+                        "Mages experience physical side effects to their attunement with the Loom that make them physiologically different in slight or sometimes drastic ways from the rest of their race. They are often several heads taller (and usually rangy) than others and might develop or be born with strange features like an extra finger, unusual color eyes, peculiar hair or facial features, and in the most extreme cases, an extra organ in a body larger than it should normally be as a result of this. These side effects are mostly narrative, though they may provide meager advantages here and there, it is best to get these approved by moderators either during initial character approval or later if a player wishes for their character to develop abnormalities along the line. ",
+                        "Only non-mages are capable of taming magical beasts (especially dragons) in Edenfell since the Cataclysm, a drastic change from the way the world once was. This is thought to be a result of a now inherent animosity and distrust harbored by Edenfell’s magical beasts towards mages and magic as they are to blame for the apocalypse that befell the world. Non-mages start at the same rank as mages do (Initiate) and may come into ownership of magic beasts appropriate for their level as they rank up, getting a new pet every TWO Tiers. Magic beasts start at their given Tiers and rank up as their owners do, unlocking spell slots just as mages do."
+                    ],
+                    "type":"column",
+                    "img":"MagicMagesVsNonMages.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":15,
+                    "title":"Adam's Steel",
+                    "paragraphs":[
+                        "Adam Forged Steel (also called Adam's Iron or Adam's Steel) is a form of metal that was forged in the days of the first men, long before the Alfen and the Anthros of Edenfell. When fashioned into bladed weapons, the steel can hold an especially keen edge, remaining sharp forever without the need for honing.",
+                        "Aside from its sharpness, Adam's Iron is recognizable by its strength and light weight in comparison to ordinary steel, as well as by a distinctive rippled pattern visible in blades made from it. Adam Forged Steel is one of the few known substances that can completely repel magic and its effects. It is the only form of the Abjuration school magic in Edenfell. "
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteel.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":16,
+                    "paragraphs":[
+                        "Unlike regular steel from which weapons and shields are fashioned, the rare Adam's Steel is capable of blocking all forms of spells and mystic arts because it can match them and grow in Abjuration power that sometimes even exceeds that of the mages it is wielded against. When well-aimed (head, torso, and limbs), Adam's Steel can negate an individual's sorcery by cutting off their essential mana flow and keep it that way for as long as the sword is buried in there. Wounds inflicted by this metal cannot be magically healed."
+                    ],
+                    "type":"inline",
+                    "img":"MagicManaFlow.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":17,
+                    "paragraphs":[
+                        "No one knows the source or origin of this mysterious and powerful metal, but its usefulness since the dawn of the ages is undeniable.",
+                        "The secret of forging Adam's Iron is unknown, making the creation of new weapons impossible. The material is expensive and difficult to obtain. Skilled smiths can reforge Adam Forged Steel weapons by melting down existing ones, but it's a difficult process. Two smaller Adam's Iron swords can be made out of a larger greatsword, or a large greatsword made by melting down multiple smaller swords, but the amount of Adam Forged Steel in the world is finite and extremely rare. The majority of the surviving Adan's Steel weapons either serve as heirlooms in the various noble houses of Edenfell, can be purchased at outrageous prices from few merchants, or are in the possession of the United Army.",
+                        "Tuning is a phenomenon that occurs when a character has had their Adam’s Steel equipment for long enough that they form a bond or connection with it beyond what is normal. Characters may tune with their weapon three times, once every two Tiers. There are three tunings possible: ",
+                        {
+                            "type":"highlight",
+                            "highlight" : "Pushing",
+                            "text": "It allows the character to manipulate their weapon telekinetically through their bond within a range suitable for the character’s Tier."
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight" : "Bending",
+                            "text": "It allows the character to freely manipulate and change the shape of their weapon."
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight" : "Cloning",
+                            "text": "It allows the character to create and wield a second version of their weapon that lasts an appropriate amount of turns for their Tier per scene."
+                        }
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteelWound.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":18,
+                    "paragraphs":[
+                        "When a wielder brandishes their claimed Adam’s Steel sword (specifically), the arm that holds the weapon ripples with magic and takes on a steely appearance similar to their weapon’s blade. This singular limb becomes impervious to the effects of magic at the weapon’s Tier and the effects of Adam’s Steel blades.",
+                        "Wielding Adam's Steel also provides enhanced physical attributes at the level of the weapon’s current Tier, such that soldiers who primarily wield these weapons can perform extraordinary feats and pose a significant threat to their magically gifted and powerful enemies. ",
+                        "Adam’s Steel weapons are imbued with a fragment of the souls of magical beings (mages, beasts, or Voidborn) they slay or participate in the slaying of. Slowly, this builds up until eventually there is an eerie howling when a much-experienced blade is summoned, the souls trapped in the steel announcing its fatality. As a result of this, the highest-ranked wielders of these weapons—those with the greatest kill counts—are called Deathsingers. "
+                    ],
+                    "type":"column",
+                    "img":"MagicAdamsSteelArm.gif",
+                    "imgType":"mid"
+                }
+            ]
+        }
+    ],
+    "characters" : [
+        {
+            "page":"OCs",
+            "url":"/characters/ocs",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"OCs",
+                    "paragraphs":[
+                        "ocs"
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"NPCs",
+            "url":"/characters/npcs",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"NPCs",
+                    "paragraphs":[
+                        "npcs"
+                    ]
+                }
+            ]
+        },
+        {
+            "page":"Fame",
+            "url":"/characters/fame",
+            "content": [
+                {
+                    "divID":1,
+                    "title":"Fame and Infamy",
+                    "paragraphs":[
+                        "Fame and Infamy are narrative identifiers that will be used to add flavor to the roleplay, just like foci and Magic Circles. A character's Fame or Infamy is an indicator of how well-known they are in the world of the roleplay and determines if other characters would have heard of them and their deeds or legend without necessarily ever having met them.",
+                        "Players will earn Fame and Infamy in a similar way as they do Exp but only by partaking in important events or scenes that are deemed exceedingly relevant by a DM. Basically, if it makes sense in canon that a character will gain renown or notoriety from an action or course of action, the Fame and Infamy system will ensure that they do. ",
+                        "This is a way to encourage you to go ahead and become a legend; we will make sure everyone knows about you.",
+                        "For the good guys:",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"th",
+                                            "text":"Fame"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Points"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"What It Means"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Messiah"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3500"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You are a Savior of this world."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Guardian"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"2000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"The people know you and they love you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Lightbringer"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"1000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You are a household name."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Peacekeeper"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"100"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You're growing in stature."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "For the more sinister fellows:",
+                        {
+                            "type":"table",
+                            "content":[
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"th",
+                                            "text":"Infamy"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"Points"
+                                        },
+                                        {
+                                            "type":"th",
+                                            "text":"What It Means"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Overlord"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"3500"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Now, you are Satan."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Terror"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"2000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"The people are terrified of you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Ringleader"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"1000"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"Your notoriety precedes you."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type":"tr",
+                                    "content": [
+                                        {
+                                            "type":"td",
+                                            "text":"Agitator"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"100"
+                                        },
+                                        {
+                                            "type":"td",
+                                            "text":"You're growing in stature."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "Players will earn 100-150 points per relevant event/deed but in the case of exceptionally salient events, they may also earn substantially more"
                     ]
                 }
             ]

@@ -1,0 +1,19 @@
+Id,State,Full Name,Form,Color,Capital,Culture,Type,Expansionism,Cells,Burgs,Area km2,Total Population,Rural Population,Urban Population
+16,Woden's Marsh,Woden's Marsh,Free Territory,#d3a6da,Tatis,Elladan,Naval,6.7,2966,137,94154,13949087,13204654,744433
+10,Durlan,Durlan Empire,Kingdom,#adcf29,Umrionead,Eldar,Generic,6.4,1997,108,65086,18056857,17119120,937737
+5,Vatha,Vartha,Principality,#cd54d8,Lympshead,Westen,Hunting,2.3,1487,91,44701,11601270,10911373,689897
+13,New Frontier,New Frontier,,#e36daf,Gondre,Luarian,Generic,2.3,1483,92,40474,2004263,1764849,239414
+14,Caliburn,Empire of Caliburn,Empire,#eb9f89,Gramber,Mercian,River,6.3,1172,47,39325,6709918,6323169,386749
+12,UnA Stronghold,UnA Stronghol,,#94cc9f,Oakburgh,Westen,Hunting,3,1181,67,36096,2046803,1853706,193097
+25,Edom,Theocracy of Edom,Theocracy,#df6844,Sigzah,Yotunn,Generic,0.5,1153,62,33783,8920942,8536230,384713
+7,The Red Woods,The red woods Kingdom,,#ea6d71,Mythshal,Eldar,Generic,4.8,940,32,32145,5274807,5098113,176694
+19,Werewick,WerewicK,,#d2d98a,Bretham,Mercian,River,1.2,907,41,30243,3986161,3738879,247282
+1,Night Chasers,The Night Chasers,,#c2a766,Hlinore,Eldar,Generic,2.2,887,40,24854,6359016,5969502,389514
+9,Azisi's Spiral, Azisi's Spiral,Kingdom,#88b0e6,Aeleurion,Elladan,Naval,4.9,660,30,17043,3970147,3750818,219329
+6,Kai Wing Woods,Republic of Denaimia,Republic,#ffd92f,Corcyma,Elladan,Naval,5.7,587,24,16813,4611698,4414042,197656
+23,Guinevere's Conquest,Guinevere's Conquest,,#1ce2d1,Bramney,Mercian,Generic,0.5,529,32,15569,2438988,2260329,178659
+20,No Man's Land,Eparchy of Gormia,Eparchy,#2edee8,Gorma,Elladan,Generic,0.5,594,21,14559,848916,760364,88552
+24,Obscuron,Obscuron,,#ff5d64,Yudgrim,Yotunn,Generic,0.5,527,20,13268,2914528,2788585,125943
+21,The Nest Lands,The Nest Lands,,#5d58cc,Pseisa,Elladan,Generic,0.5,295,10,6221,1047190,953429,93761
+22,Devil's Workshop,Devil's Workshop,,#9c58f2,Gugukhil,Yotunn,Generic,0.5,114,10,2775,612337,534845,77492
+0,Neutrals,,,,,,,,1,0,27,0,0,0

@@ -2,6 +2,13 @@ html {
   scrollbar-color: goldenrod rgba(0,0,0,0.3);
   scrollbar-width: 4px;
 }
+@font-face {
+  font-family: svgFont;
+  src: url('./fonts/AlmendraSC-Regular.ttf');
+}
+svg {
+  font-family: svgFont;
+}
 ::-webkit-scrollbar {
   width: 4px;
 }
@@ -619,6 +626,7 @@ input[type="range"]::-moz-range-thumb {
     display:flex;
     align-items: center;
     flex-direction: column;
+    margin-bottom:10px;
   }
   .content-img-left {
     max-width: 90vw;
@@ -647,6 +655,8 @@ input[type="range"]::-moz-range-thumb {
   .content-div-inline {
     display:flex;
     align-items: center;
+    margin-bottom:10px;
+    max-height: fit-content;
   }
   .content-img-left {
     margin-right: 20px;
@@ -667,19 +677,36 @@ input[type="range"]::-moz-range-thumb {
   font-size: 6.45vw;
   color:goldenrod;
 }
+.content h1 {
+  font-size: 3.2vw;
+  margin:10px;
+  color:goldenrod;
+}
 .content h2 {
   font-size: 3.2vw;
+  margin:10px;
   color:goldenrod;
 }
 .content cite {
   font-size: 2vw;
   color:goldenrod;
 }
-
+.table {
+  background-color: black;
+  color:goldenrod;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right:auto;
+}
+.table th, .table td {
+  border: 2px solid goldenrod;
+  padding:10px;
+}
 .content-div-column {
   display:flex;
   align-items: center;
   flex-direction: column;
+  margin-bottom:10px;
 }
 .content-div div {
   width:fit-content;
@@ -695,5 +722,18 @@ input[type="range"]::-moz-range-thumb {
   text-align: left;
 }
 .content li::marker {
+  color:goldenrod;
+}
+.highlight {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.highlight>* {
+  margin: 5px;
+  margin-bottom:10px;
+}
+.highlightText {
   color:goldenrod;
 }

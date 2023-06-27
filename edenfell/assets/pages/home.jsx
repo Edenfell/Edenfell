@@ -18,8 +18,9 @@ export async function loader() {
 }
 
 export default function Home({className}) {
-    let content = useOutletContext();
-    let pagesArray = ["World", "lore", "locations", "races", "organizations", "Characters", "ocs", "npcs", "Server"];
+    let content = useOutletContext()[0];
+    let portrait = useOutletContext()[1];
+    let pagesArray = ["World", "lore", "locations", "races", "flora", "Characters", "ocs", "npcs", "Server"];
     const headers = ["World", "Characters", "Server"];
     const[loadedPages, setLoadedPages] = useState(pagesArray.slice(0,2));
 
@@ -39,9 +40,9 @@ export default function Home({className}) {
                 <motion.h1>WELCOME TO EDENFELL</motion.h1>
                 {loadedPages.map((Page) => {
                     return(
-                      (headers.includes(Page) && <h1>{Page}</h1>)  
+                      (headers.includes(Page) && <h1 key={"homeTitle"}>{Page}</h1>)  
                       ||
-                      <Content key={Page} className={"content"} content={content} pageName={Page}/>
+                      <Content key={Page} className={"content"} content={content} pageName={Page} portrait={portrait}/>
                       )
                     }
                     )

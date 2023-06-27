@@ -20,9 +20,17 @@ const menuItems = [
         url:"/races",
       },
       {
-        title:"Organizations",
-        url:"/organizations",
+        title:"Flora",
+        url:"/flora",
       },
+      {
+        title:"Magic",
+        url:"/magic",
+      },
+      {
+        title:"Factions",
+        url:"/factions",
+      }
     ],
   },
   {
@@ -36,6 +44,10 @@ const menuItems = [
       {
         title:"NPCs",
         url:"/npc",
+      },
+      {
+        title:"Fame and Infamy",
+        url:"/fame"
       }
     ],
   },
@@ -53,12 +65,12 @@ const menuItems = [
 
 export default function Menu({expanded, portrait, setMenuIsExpanded, content}) {
   function clickedLink() {
-    setTimeout(setMenuIsExpanded, 300, false);
+    setMenuIsExpanded(false);
     const element = document.getElementsByClassName('content')[0];
     element.scrollIntoView({behavior:"smooth", block:"start", inline:"nearest"});
   }
   return(
-      <motion.div layout="position" key={expanded} className="menu" transition = {{type:"tween", ease: "easeInOut"}} initial={(!portrait && {x:'-100vw'}) || (portrait && {y:'-100vh'})} animate={(!portrait && {x:expanded ? '0vw' : ['-20vw', '-100vw'], opacity:expanded ? [0, 1] : [1, 0]}) || (portrait && {y:expanded ? '0vh' : ['-20vh', '-100vh'], opacity:expanded ? [0, 1] : [1, 0]})}>
+      <motion.div layout="position" layoutDependency = {expanded} key={expanded} className="menu" transition = {{type:"tween", ease: "easeInOut"}} initial={(!portrait && {x:'-100vw'}) || (portrait && {y:'-100vh'})} animate={(!portrait && {x:expanded ? '0vw' : ['-20vw', '-100vw'], opacity:expanded ? [0, 1] : [1, 0]}) || (portrait && {y:expanded ? '0vh' : ['-20vh', '-100vh'], opacity:expanded ? [0, 1] : [1, 0]})}>
         <motion.div key={"search-bar"} layout className="search-bar">
           <Search expanded={expanded} setExpanded={setMenuIsExpanded} content={content}/>
         </motion.div>

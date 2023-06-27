@@ -6,14 +6,14 @@ export async function loader({params}) {
     return null;
 }
 
-export default function Content({className, content, pageName}) {
+export default function Content({className, content, portrait, pageName}) {
     if(pageName == "locations") {
         return (<Location></Location>);
     }
     let page;
     for(var key in content) {
         page = content[key].find((p) => {
-            return p.page == pageName;
+            return p.page.toLowerCase() == pageName;
         });
         if(page) break;
     }
@@ -23,7 +23,7 @@ export default function Content({className, content, pageName}) {
                 {page.content.map((div, index) => {
                     return(
                         <motion.div className={`content-div-${div.type}`} key={`content-div-${index}`}>
-                            {div.img && div.imgType != "right"  && <motion.img src={`./${div.img}`} className={`content-img-${div.imgType}`} key={`content-img-${index}`}/>}
+                            {div.img && (div.imgType != "right" || portrait)  && <motion.img src={`./${div.img}`} className={`content-img-${div.imgType}`} key={`content-img-${index}`}/>}
                             <motion.div key={index}>
                                 {div.title && <motion.h2 key={`title-${index}`}>{div.title}</motion.h2>}
                                 {div.paragraphs.map((para, pIndex) => {
@@ -33,6 +33,8 @@ export default function Content({className, content, pageName}) {
                                         (para.type=="cite" && <motion.cite key={`cite-${index}-${pIndex}`}>{para.text}</motion.cite>)
                                         ||
                                         (para.type=="li" && <motion.li key={`li-${index}-${pIndex}`}>{para.text}</motion.li>)
+                                        ||
+                                        (para.type=="highlight"&&<motion.div className='highlight'><motion.span className="highlightText">{para.highlight} </motion.span><motion.p>{para.text}</motion.p></motion.div>)
                                     )
                                 })}
                                 {/* {div.type=="list" &&
@@ -48,7 +50,7 @@ export default function Content({className, content, pageName}) {
                                 })}
                                 </motion.ul>} */}
                             </motion.div>
-                            {div.img && div.imgType == "right" && <motion.img src={`./${div.img}`} className={`content-img-${div.imgType}`} key={`content-img-${index}`}/>}
+                            {div.img && (div.imgType == "right" && !portrait) && <motion.img src={`./${div.img}`} className={`content-img-${div.imgType}`} key={`content-img-${index}`}/>}
                         </motion.div>
                     )
                 })}

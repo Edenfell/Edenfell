@@ -1,0 +1,87 @@
+Id,Province,Full Name,Form,State,Color,Capital,Area km2,Total Population,Rural Population,Urban Population
+1,Capital,Capital,,Durlan,#a9d632,Eshthin,6796,1916584,1856113,60471
+2,East Outpost,East Outpost,,Durlan,#95c34e,Ryveriar,3531,1223459,1170524,52935
+3,West Outpost,West Outpost,,Durlan,#b0b244,Onaneas,3947,764691,711132,53559
+4,Port 1,Port 1,,Durlan,#95d63a,Belsyarion,1613,410226,396309,13917
+5,Thvet,Thvet Province,Province,Durlan,#93c44d,Tlind-Zed,1169,308129,297562,10567
+6,Nanlon,Nanlon Province,Province,Durlan,#bdbf2e,Felran,1521,399751,389633,10118
+7,Filranlean,Filranlean Province,Province,Durlan,#bcb43d,Ullhamelran,864,262469,258595,3874
+8,Methil,Methil Province,Province,Durlan,#b8c92a,,1069,191211,191211,0
+9,Ylatheinera,Ylatheinera Province,Province,Durlan,#9dd734,Ylatheinera,1696,626788,559584,67204
+10,Reslerion,Reslerion Province,Province,Durlan,#aed532,Belhamela,1031,317282,306987,10295
+11,Keatharith,Keatharith Province,Province,Durlan,#a5b244,Thenathmel,1064,360768,315144,45624
+12,Therinas,Therinas Province,Province,Durlan,#b5b242,Therinas,892,316498,268716,47782
+13,Domasad,Domasad Province,Province,Durlan,#8fce47,,555,129146,129146,0
+14,Insad,Insad Province,Province,Durlan,#94c34e,,287,99443,99443,0
+17,Sorcerer's Graveyard,Sorcerer's Graveyard,,The Red Woods,#c17d83,Ulille,4158,627633,626524,1109
+18,Cyhei,Cyhei Province,Province,The Red Woods,#c0817e,Raulil,691,137701,133180,4521
+19,Elahilse,Elahilse Province,Province,The Red Woods,#d4647d,Ohilwen,699,247649,218825,28824
+22,Shemlie,Shemlie Province,Province,The Red Woods,#ed6676,,241,63939,63939,0
+23,Ricear,Ricear Province,Province,The Red Woods,#c47787,Morgan,299,132006,96391,35615
+24,Sesathlas,Sesathlas Province,Province,The Red Woods,#d7647e,,141,46089,46089,0
+25,Ashrion,Ashrion Province,Province,The Red Woods,#c68773,,142,33915,33915,0
+26,Kesmos,Kesmos Province,Province,The Red Woods,#cc6b85,,333,62083,62083,0
+27,Orionde,Orionde Province,Province,The Red Woods,#d2886d,,268,37485,37485,0
+28, Woden's hill, Woden's hill,,The Red Woods,#e67f65,,2631,141552,141552,0
+29,Viodborn sighting?,Troposia Province,Province,The Red Woods,#c37886,,251,23937,23937,0
+30,Bayou Bear lands ,Bayou Bear lands ,,Woden's Marsh,#ccb4bf,Orysthos,6290,683495,673522,9973
+31,Death,Death Province,Province,Woden's Marsh,#d2aeb9,Kymapodi,4979,1084300,975760,108540
+32,Interesting,Interesting Province,Province,Woden's Marsh,#d3adb9,Tithibethro,2827,248500,211649,36851
+34,Tigron Cliffs ,Tigron Cliffs ,,Werewick,#d0ba91,Bareringdon,4149,442350,419907,22443
+36,Port 2,Port 2 Province,Province,Caliburn,#e2ac7c,Gatestedbu,1708,623496,581451,42045
+38,Capital,Capital Province,Province,Caliburn,#cd9499,,4258,268252,268252,0
+39,Outpost?,Outpost? Province,Province,Caliburn,#d68c91,,1811,127950,127950,0
+42,Thetfordia,Thetfordia Province,Province,Caliburn,#cc9499,,257,2374,2374,0
+43,Bosland,Bosland Province,Province,Caliburn,#d4b07f,Rocker,248,41648,39163,2485
+44,Louth,Louth Province,Province,Caliburn,#c59d9a,Brolester,761,246534,219128,27406
+46,Brorland,Brorland Province,Province,Caliburn,#c1a596,,605,162097,162097,0
+50,Pyreaz,Pyreaz Province,Province,Caliburn,#c59d9a,,222,5962,5962,0
+53,West outpost 2,West outpost 2 Province,Province,Vatha,#cf6bb7,Kindobuton,1085,391885,374175,17710
+54,West Outpost 1,Mithambia Province,Province,Vatha,#ab71cb,Bertonzan,1191,247891,236908,10983
+55,East Outpost,East Outpost Province,Province,Vatha,#d75eb9,,1235,171361,171361,0
+56,Capital,Capital Province,Province,Vatha,#a96fcf,Westham,3789,1083798,1038183,45615
+57,Cong,Cong Province,Province,Vatha,#ab71cb,Godhurst,840,278864,255615,23249
+58,Lediveria,Lediveria Province,Province,Vatha,#c474be,Orming,499,161841,159081,2760
+59,Hathamia,Hathamia Province,Province,Vatha,#ab65d8,,332,16279,16279,0
+60,Port,Sigzund Province,Province,Vatha,#a96dd2,Tocirarak,1969,426861,410535,16326
+65,Dragonswood,Dragonswood,,Vatha,#d050cd,Gladsbotn,7415,2556924,2390869,166055
+66,Balisia,Balisia Province,Province,Vatha,#d75bbb,,216,30096,30096,0
+67,Macheapia,Macheapia Province,Province,Vatha,#b15dda,,230,22598,22598,0
+69,Westcles,Westcles Province,Province,Vatha,#ce50cf,,329,90768,90768,0
+70,Hlurtheas,Hlurtheas Province,Province,Durlan,#a6d732,Lelsasin,231,81284,72097,9187
+71,Hluilon,Hluilon Province,Province,Durlan,#bbc62a,,278,84074,84074,0
+72,Laug,Laug Province,Province,Durlan,#bdb53b,Wlanilseseri,310,75165,73453,1712
+73,Lalondena,Lalondena Province,Province,Durlan,#9bd736,Sellorthebel,234,92976,79362,13614
+74,Sirelion,Sirelion Province,Province,Durlan,#96c14e,,207,17083,17083,0
+81,West Outpost,West Outpost Province,Province,Caliburn,#c3a299,Qeekork,1975,452845,437472,15373
+82,Northesbia,Northesbia Province,Province,Caliburn,#c69c9b,Portsle,183,48463,40395,8068
+83,Chiaf,Chiaf Province,Province,Caliburn,#c1a695,,196,15494,15494,0
+84,Bug,Bug Province,Province,Caliburn,#e28b91,,259,30381,30381,0
+86,Ruins,Ruins Province,Province,Werewick,#caba92,Bretham,3310,284089,244101,39988
+87,Cielb,Cielb Province,Province,Caliburn,#d3b080,,402,97248,97248,0
+91,Port 2,Hatle Province,Province,Vatha,#aa67d7,Thetbury,1143,402406,342098,60308
+92,Wabinland,Wabinland Province,Province,Vatha,#d662b7,Montefract,42,4927,4927,0
+94,Capital,Gundush Province,Province,Edom,#bf6c63,Shuzargun,2069,679563,662830,16733
+95,Windbreakers,Windbreakers,,Edom,#e06056,Olland,9183,2677122,2486920,190202
+96,Mountains,Bolingia Province,Province,Werewick,#dacc78,Kingham,8383,1101689,1046252,55437
+97,Outpost,Outpost,,Edom,#bd7063,,748,63225,63225,0
+98,Do not pass,Glumruch Province,Province,Edom,#cf5f5a,Gulukk,692,174503,161276,13227
+99,Port,Koshel Province,Province,Edom,#d68348,Oldstand,535,74151,63564,10587
+100,Caotienlia,Southern Outpost Province,Province,Edom,#c2844b,Nelnarg,146,73122,70276,2846
+101,Harthug,Harthug Province,Province,Edom,#d88045,Narwarnati,243,86682,80629,6053
+102,Dargarth,Dargarth Province,Province,Edom,#bf6c63,,229,77863,77863,0
+103,Gizir,Gizir Province,Province,Edom,#b87e59,Harthug,264,95366,91429,3937
+104,Bygravia,Bygravia Province,Province,Edom,#c5844a,,203,58049,58049,0
+105,Snubia,Snubia Province,Province,Edom,#cf8448,Helfosvik,297,98866,93499,5367
+107,Wamershia,Wamershia Province,Province,Caliburn,#dd8b91,,306,104209,104209,0
+108,Rea,Rea Province,Province,Vatha,#c872bd,Lympsbury,209,85260,57388,27872
+109,Ingar,Ingar Province,Province,UnA Stronghold,#7fc3ac,Kogennes,270,57607,56995,612
+110,Pehamia,Pehamia Province,Province,Caliburn,#ee8e89,,196,39806,39806,0
+111,Umnes,Umnes Province,Province,Night Chasers,#24683b,Tiralrandora,8131,1557672,1497127,60545
+112,Himliebel,Himliebel Province,Province,Kai Wing Woods,#1d921a,Anashalhame,9660,2634223,2514892,119331
+113,Spargoseia,Spargoseia Province,Province,Woden's Marsh,#c191d1,,1247,83111,83111,0
+114,Southwark,Southwark Province,Province,Woden's Marsh,#d6a9b8,Stansterden,2131,504540,453841,50699
+115,Safe Zone,Safe Zone Province,Province,Woden's Marsh,#b7b6c5,Koros,1743,273387,268181,5206
+116,Kores,Kores Province,Province,Woden's Marsh,#d892cc,Chalcossos,955,217135,201225,15910
+117,Magramia,Magramia Province,Province,Woden's Marsh,#d1afba,Epharis,266,56986,54747,2239
+118,Palyrelos,Palyrelos Province,Province,Woden's Marsh,#b8b6c4,Palyrelos,234,55417,48767,6650
