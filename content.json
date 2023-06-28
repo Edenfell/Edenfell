@@ -215,7 +215,7 @@
                 },
                 {
                     "divID":3,
-                    "title":"The UnA v/s The Higher Sentient",
+                    "title":"The UnA vs. The Higher Sentient",
                     "paragraphs":[
                         "Edenfell was once a land divided into distinct kingdoms segregated on the basis of race, each one of which took pride in their differences and sometimes waged war because of these differences. Magic was shared amongst all the armies of the world, and all these kingdoms were united under one empire under the capital of Ironhold. The Cataclysm brought an end to these kingdoms, and nations could no longer afford to unite under racial identities.",
                         "Soon after the Cataclysm, Fëanor started gathering mages under the banner of the Higher Sentient— an organization with the sole purpose of gathering and honing mages to fight against the Voidbringers, no matter the cruelty of their methods— and built Durlan, where the mages are treated like nobility, whilst the non-mages are treated like peasants who run the kingdom. Due to the growing rarity of magic, this has proven to be a difficult task, but the Higher Sentient and Durlan have grown to be a sizable kingdom, dominating the southern end of the continent.",
@@ -1181,6 +1181,36 @@
                 },
                 {
                     "divID":  32,
+                    "title":  "Verimawe",
+                    "paragraphs":  [
+                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"N/A"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Legendary"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Invoker(?)"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVerimawe.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  33,
                     "title":  "Golden Apple Tree",
                     "paragraphs":  [
                         "Golden Apple Trees are exactly what they sound like. Not too different from regular apple trees, these trees merely sprout golden fruit that glow brightly. The trees had gone almost fully extinct after the Cataclysm, yet few remained, saved by being located in the old Alfenheim’s private orchards. Currently the trees can be mostly found grown inside the walls of Durlan’s capital, closely tended by Illumi Fëanor.",
@@ -1209,36 +1239,6 @@
                     "type":  "column",
                     "img":  "floraGoldenApple.jpg",
                     "imgType":  "mid"
-                },
-                {
-                    "divID":  33,
-                    "title":  "Verimawe",
-                    "paragraphs":  [
-                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
-                        {
-                            "type":"highlight",
-                            "highlight":"Location:",
-                            "text":"N/A"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Rarity:",
-                            "text":"Legendary"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Type:",
-                            "text":"Beneficial"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Tier:",
-                            "text":"Invoker(?)"
-                        }
-                    ],
-                    "type":  "inline",
-                    "img":  "floraVerimawe.png",
-                    "imgType":  "right"
                 }
             ]
         },
@@ -1257,7 +1257,7 @@
                 },
                 {
                     "divID":2,
-                    "title":"History",
+                    "title":"Antiquity",
                     "paragraphs":[
                         "Some folk legends claim that the five relics that now form the centers of the cities (and the edge of the Red Woods) were Elvish treasures back then, and it's even possible that Elven magic created some of them. But the only veritable source from the time before the Cataclysm doesn’t remember these relics ever being around before Nimiane shattered the world.",
                         "The relics themselves are amazing, enigmatic artifacts with tremendous magical power and a level of awareness that is just beyond our comprehension today. There is no doubt that each of the five relics is a physical representation of one of the five virtues and has the authority to judge that virtue in people. The relics' qualities (and judgment) are viewed as being immutable and objective in Edenfell, and the majority of society is based on their infallibility."
@@ -2033,11 +2033,14 @@
                 {
                     "divID":6,
                     "paragraphs":[
-                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff. These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural). Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic. Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
+                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff.",
+                        "These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural).",
+                        "Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic.",
+                        "Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
                         "Spell Foci and Magic Circles are entirely narrative."
                     ],
                     "type":"inline",
-                    "img":"MagicCircle.jpg",
+                    "img":"MagicSpellCircle.png",
                     "imgType":"right"
                 },
                 {
@@ -2136,9 +2139,7 @@
                     "paragraphs":[
                         "Unlike regular steel from which weapons and shields are fashioned, the rare Adam's Steel is capable of blocking all forms of spells and mystic arts because it can match them and grow in Abjuration power that sometimes even exceeds that of the mages it is wielded against. When well-aimed (head, torso, and limbs), Adam's Steel can negate an individual's sorcery by cutting off their essential mana flow and keep it that way for as long as the sword is buried in there. Wounds inflicted by this metal cannot be magically healed."
                     ],
-                    "type":"inline",
-                    "img":"MagicManaFlow.jpg",
-                    "imgType":"left"
+                    "type":"column"
                 },
                 {
                     "divID":17,
@@ -2163,7 +2164,7 @@
                         }
                     ],
                     "type":"column",
-                    "img":"MagicAdamsSteelWound.jpg",
+                    "img":"MagicWoundAndManaFlow.png",
                     "imgType":"mid"
                 },
                 {
