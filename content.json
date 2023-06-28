@@ -240,6 +240,688 @@
             ]
         },
         {
+            "page":  "Fauna",
+            "url":  "/world/fauna",
+            "content": [
+                {
+                    "divID":0,
+                    "title": "Fauna",
+                    "type":"column"
+                },
+                {
+                    "divID":1,
+                    "title": "White Wings",
+                    "paragraphs":[
+                        "White Wings are large avian magical creatures that can be found all over Edenfell. They thrive in all climates and, as a result, are common to and well-known by all the people of Edenfell. White Wings flock together in large groups of twenty to over a hundred, usually nesting either high in the thickest branches of trees or (more commonly) in the large holes or craters they dig in the ground.  ",
+                        "White Wings are incredibly big, and males in the wild can grow up to 20 meters long and 5 meters tall (almost twice the max size of a female). They weigh up to a ton, which is surprisingly light for their size and is a result of their very hollow and low bone density. White Wings get their name from their pristine white feathers that cover their entire bodies bar their scaled talons, beaks and the parallel rows of protruding spikes on their backs. A White Wing’s wingspan is the same as its body length.",
+                        "White Wings are generally docile and do not attack people unless perceivably threatened. They are carnivorous and feed on small mammals like rodents and large insects or worms, because despite their great size, White Wings require very little sustenance, and an adult male White Wing barely eats more than 1/50th of its weight per day. This nifty trait, along with how easy they are to train, has made them a feature in society as they are the primary means of aerial travel and are most especially used by the aeolian divisions of armies because they can easily fit half a dozen men comfortably strapped down on their backs. ",
+                        "White Wings travel half as fast as Chasers do, which is impressive given their size. White Wing eggs are massive and are a delicacy among the Elves and Nords.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaWhiteWings.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title": "Chasers",
+                    "paragraphs":[
+                        "Chasers (or horned Chasers) are magical equine mammals similar in appearance to horses but usually twice as tall (and sometimes large) and many times faster. They have two long black horns on their heads (both males and females), and their skin is covered in a thin layer of crenated carapace with webbed spikes where a horse’s mane would be. Chasers have two muscular prehensile tails, with the larger one folding over the smaller one. They have incredibly powerful legs and can travel up to four times as quickly as a horse would, making them viable and reliable for use in travel and message delivery. Chasers are especially useful in battle as their armoured bodies can resist a little more punishment than a regular horse’s.",
+                        "Chasers are known for their incredible temperament, and being able to ride one is both a feat of being accepted by the strong and violent creatures, as well as being able to remain on top of them as they speed away. Even with the aid of double-clipping harnesses incorporated into their saddles, most people still do not make it through a ride on one of these without falling or getting extremely nauseous.",
+                        "They can only be found in Durlan.They do not do well in the cold and may even die quickly when exposed to low temperatures for a short time. Chasers have fangs and are omnivorous. In the wild, they hunt all prey smaller than them, using their horns to great effect.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaChasers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title": "Marshland Selkie",
+                    "paragraphs":[
+                        "Marshland Selkies are the only kind of this magical creature found in the south. They are harmless to people, solitary and feline in appearance, much like their forest counterparts, despite being nothing like cats. Selkies are small (about the size of a domestic cat) and some individuals have horns.",
+                        "Selkies have silky sable-like fur of different dark hues (most commonly brown and black), webbed and clawed feet, and strong teeth with particularly sharp fangs. They are notorious for their sirens, which can travel great distances, especially at night. ",
+                        "All Selkies are semi-aquatic and their diet consists entirely of fish of all kinds. Like Kai Wings, Selkies are hunted for their fur, and their existence is threatened by the black market for goods made from this poaching, which Edenfell’s hunting guild, Antler, actively combats. ",
+                        "Selkies live, hunt, and mate almost exclusively underwater and usually come up only to graze and play if they encounter another of their kind.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Borders of Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaMarshlandSelkies.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":4,
+                    "title": "Courier Bat",
+                    "paragraphs":[
+                        "The Courier, Quicksilver, or Cakeberry Bat, is a small crimson bat named for its love of the Sidus fruit and its long history of use as a message delivery bat in Vatha and Caliburn. The bats are kept as useful pets and communication through them is not just common but extremely casual, rampant and rapid. Courier Bats are the fastest known creatures in Edenfell and can cover short distances in a matter of seconds. In Caliburn and Vatha, these bats, barely the size of a fist, keep the cities connected and are such a household item to the point that owned bats wear necklaces or annulets that indicate to whom they belong at a glance. It is considered a terrible crime and a stupid one to cause harm to someone’s bat, though the punishment is not that severe.",
+                        "Courier Bats are immune to poison and illnesses and do not carry or spread any infirmities. This is arguably why they have come to be such a staple of society and why they are considered very magical in nature.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaCourierBat.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title": "Teether",
+                    "paragraphs":[
+                        "Teethers are unsightly bugs with a grubby body of carapace and toothed “fingers” for locomotion that live in trees all over Edenfell. They generally stay high up and are rarely spotted by people, but can sometimes fall from leaves and branches onto a person.",
+                        "They are pests that damage leaves and bark, hollowing out trees or ruining crops. When left on the body for a prolonged period, they can lead to rot. This can be quickly treated with salves and unguents before it grows fatal, but people are still wary of and detest these things, especially as they can go undetected in hair and clothing for a long time.",
+                        "Teethers don’t get bigger than a small fist usually, and most are feasted on by Squirrel Kings who are sometimes owned as pets for this reason.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaTeether.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":6,
+                    "title": "Selkie",
+                    "paragraphs":[
+                        "Selkies are harmless to people, solitary and feline in appearance, despite being nothing like cats. Selkies are small (about the size of a domestic cat) and some individuals have horns.",
+                        "Selkies have silky sable-like fur of different dark hues (most commonly brown and black), webbed and clawed feet, and strong teeth with particularly sharp fangs. They are notorious for their sirens, which can travel great distances, especially at night. ",
+                        "All Selkies are semi-aquatic and their diet consists entirely of fish of all kinds. Like Kai Wings, Selkies are hunted for their fur, and their existence is threatened by the black market for goods made from this poaching, which the hunting guild, Antler, actively combats. ",
+                        "Selkies live, hunt, and mate almost exclusively underwater and usually come up only to graze and play if they encounter another of their kind. They are found mostly in Vatha and higher up north, though they definitely prefer the forest climate to the extreme cold of the mountains.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Northern Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaSelkie.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":7,
+                    "title": "Squirrel King",
+                    "paragraphs":[
+                        "The Squirrel King is an arboreal medium-sized rodent found high up in trees in the woods of Vatha and Edom. They seldom come down to the ground as they are very wary of all kinds of predators. Their prey consists of insects and smaller animals, especially Teethers that also reside in the trees. They look like squirrels (hence the name) but have brightly colored eyes and a “crown” of four feathered prongs on their heads. Squirrel Kings are often tamed and kept as pets due to their loyal nature as well as their lovable appearance. They are capable of cross-breeding with squirrels, though the resulting offspring will always be Squirrel Kings.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Semi-Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSquirrelKing.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":8,
+                    "title": "Kai Wing",
+                    "paragraphs":[
+                        "Kai Wings are solitary predators that stalk the warm regions of Edenfell. They would do well in ever sunny lands but are rarely found there due to their love for trees, fish, and the lack of an abundance of forest prey they enjoy. ",
+                        "Kai Wings look like furry wild cats and grow to about the size of an adult male lion, with a thick tail that can be as long as the rest of their body. Their fur is peppered with feathers around their necks, backs, and haunches. Kai Wing feathers are white with dark blue or black coloration at the ends; this gives their wings a unique shaded appearance. This feature earned them the nickname 'Shadow Cat'. Their wingspan is usually twice the length of their bodies, with each wing a Kai Wing long. ",
+                        "Kai Wings are feral and wild and often attack people unprovoked, even occasionally swooping down to carry smaller people away, much like they do with prey (spawning the Shadow Cat midwives tale). They cannot be tamed and are not seen as pets or companions to domesticate. ",
+                        "Kai Wings have poison in their fangs, and though lethal, this is not potent enough to kill prey as large as a person in a few (5) turns. They are usually only found in the thick woods near Durlan and sometimes a little south of its borders.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaKaiWing.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":9,
+                    "title": "Syphax",
+                    "paragraphs":[
+                        "A Syphax is a giant reptile (similar in some ways to both a crocodile and a lizard) that is found only on Vatha lands. They can grow to the size of White Wings but weigh considerably more (up to 10 tons) and start much smaller with eggs much smaller than a chicken’s. However, Syphaxes are essentially immortal if not killed or harmed by disease, and therefore generally live longer than White Wings. They live in pairs, usually in large caves and burrows underground. ",
+                        "Syphaxes are dangerous, with long claws and razor sharp teeth lining their maws. They can swallow a man whole and eviscerate people with macabre ease. Despite this, though, they have been adapted for military use owing to their incredible utility as beasts of burden that have saved Edenfell’s armies a lot of effort carrying weapons, food, and supplies to and from battlefields for centuries. Syphaxes are slow, especially when carrying weight around, but can be supremely rapid when hunting or given the command. At their fastest, they can match a Chaser for a short time but do not have the stamina to keep up that acceleration for more than a few seconds. ",
+                        "Syphaxes do not just carry supplies for the Nords but can also move large numbers of men great distances (much more than White Wings can carry). They also serve as tanks due to their great durability and numbness to pain. Syphaxes are often used as part of the Nordic expeditions into dangerous lands like the New Frontier.",
+                        "Syphaxes eat a great deal due to their fast metabolism, and if left hungry, turning one’s back to them is a grave mistake.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSyphax.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":10,
+                    "title": "Bayou Bear",
+                    "paragraphs":[
+                        "Bayou Bears are large grizzly-like aquatic creatures that live in swamps all around Edenfell. They spend years in the swamp’s murky waters and often grow moss and other greens on their backs that aid their camouflage in these waters.",
+                        "They swim up to the surface to surprise any prey foolish enough to wander through their habitat, clamping down on the victim to pull it down under where they drown, maul, and then feast on their meal. Bayou Bears make traversing swampland a terrifying prospect in Edenfell. Despite their large size and ferocious nature, however, they are often killed by Kai Wings, who bear an inexplicable animosity towards them. They usually stay hidden underwater when they know one is around.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Swamps of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare (Only found in Swamps)"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaBayouBear.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":11,
+                    "title": "Kelpie",
+                    "paragraphs":[
+                        "Kelpies are shapeshifting water horses only found surfing and riding the waves of the Circle Sea, mainly coming to shore in Durlan and Vatha. They have an opaque appearance and look every bit as they feel, like bodies carved out of pristine, glowing water. They are friendly and have been known to sailors in Edenfell since the dawn of time. They race boats and ships on the sea, come to the rescue of shipwrecks and abandoned people out in the water, and guide those they find to the shore with glee. Kelpies cannot be caught, harmed, or killed because of their nature and many superstitious folk believe them to be spirits, though their behaviour, mating, and other characteristics indicate that they are simply another magical animal.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Sea, Shores of Durland and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaKelpie.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":12,
+                    "title": "Northern Ox",
+                    "paragraphs":[
+                        "The Northern Ox is native to northern Vatha and Caliburn and is more like a bison than an ox. It is covered in wooly hair and has two massive, powerful horns. The Northern Ox can dwarf most bears (being twice their size) and even make Kai Wings look small. They are a part of Nord culture and have been used for milk, meat, and as mounts for centuries by kings and commoners alike. The Northern Ox is capable of keeping up with a horse over long distances and can carry its own weight in load on its back. These creatures do not do well in warm climates and are not usually brought further south than Varakis.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Northern Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaNorthernOx.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":13,
+                    "title": "Tigron",
+                    "paragraphs":[
+                        "The Tigron is a big feline creature with pronounced antlers and a bony face. They are rideable and trainable. Tigrons that survive their first year of life have a good chance of living for another hundred years. The Tigron can be found prowling the forests of Edom and Vatha, as well as the highlands and canyons all over Edenfell. Most prefer temperate or warm environments, but some Tigrons thrive in the northern cold. The horns of some Tigrons are radiant and will give men pause in awe when spotted at night, despite the danger of them. Tigrons are solitary creatures and omnivores, but they rarely hunt people unless threatened or starving. ",
+                        "They are ferocious cats that easily outgrow an adult tiger and Kai Wing and have been known to take on much larger beasts and win. There is an old Nord legend that claims the Jarl Skaldr was so impressed with finding a Tigron that had fought and killed a Syphax to defend her cubs that he made the cats his royal companions. ",
+                        "The Tigron’s roar is deep, guttural, and able to shake a man if he is close by. Tigrons are incredibly wild and dangerous, and their loyalty is hard to win, harder even than that of a Chaser, but it is very much worth the effort.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaTigron.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":14,
+                    "title": "Canopy Stalker",
+                    "paragraphs":[
+                        "Canopy Stalkers are arboreal leopard-like cats with fiery spots and scarlet manes that live in the trees in Durlan and only descend to pounce on prey which they carry back up the trees to feed on. Canopy Stalkers are impressive for the heights from which they can fall without harm and how easily they maneuver whilst midair, almost always managing to land on their feet in a manner that kills their prey. ",
+                        "They have a longer claw on both their forearms that makes climbing great heights easier as well as ensures that killing prey is a matter of a single strike instead of prolonged, exposed battles on the ground. Canopy Stalkers are very quiet creatures, and people often say they have no footfalls even when they descend from the highest branches.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaCanopyStalker.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":15,
+                    "title": "Willow",
+                    "paragraphs":[
+                        "Willows (or Dire Willows) are large canine creatures about the size of a grey wolf, or sometimes twice as big, that stalk the edges of the woods in Vatha, Edom and Durlan. They are most often spotted in Edom, where they haunt and hunt any canopy of tall trees. Dire Willows are solitary creatures, usually only seen alone, and notoriously incapable of tolerating other members of their species. These creatures are famous for their appearance, with very contrasting particolor fur and two pairs of short antlers sprouting from their heads. The Willow’s most notable trait, however, is its ability to bend light and camouflage by magical means, becoming transparent by the means of a colorful flame that washes over its body, making it seem to have vanished instantly.",
+                        "Willows are wild and almost cryptid. They hunt small prey and children who wander too close to the edge of the woods. Willows are capable of psionics and telepathy to an unknown extent. Each Dire Willow has a name, known only to the creature, which it whispers to anyone who survives and maintains extended interaction with it. Speaking the Willow’s name banishes it, returns children it has recently taken, and keeps those around the one who has spoken it safe.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha, Edom and Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaWillow.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":16,
+                    "title": "Owlbear",
+                    "paragraphs":[
+                        "A mammalian prowler that lives in Durlan’s eastern forests, found only around rivers or creeks, the Owlbear is a rare and endangered species of magical beast whose population has dwindled as a result of hunting and sapien activity in its habitats over the ages.",
+                        "Owlbears are physically a lot like grizzlies but differ greatly in that they are chimeras with the face of an owl and a mane of feathers, as well as plumage on their forearms and tail. With these features, the heavy Owlbear is capable of gliding down from its perch in large trees where it nests, collapsing on its prey, which consists of large rodents and smaller mammals.",
+                        "Owlbears have great sight in the dark and so prefer to hunt at night or in the thick shade of the forest's canopies. They often stay away from people and are timid in that regard, but will engage if threatened. They can be a great danger to even powerful mages when angered.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaOwlbear.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":17,
+                    "title": "Springmane",
+                    "paragraphs":[
+                        "The Springmane is a maned wolf-like native of Durlan that is considered by many to be the most beautiful creature in Edenfell (“Today, you are as fine as a Springmane, my dear!”). They are usually a single color (most often white) and have a flourishing mane that attracts birds, fireflies, and butterflies. They have a large pair of wooden, dendritic antlers that sprout cherry blossom petals. Springmanes carry a sweet scent with them, and their fur is more powerful and fragrant than most manufactured perfumes. ",
+                        "Springmanes only live for a few months, hatching in the spring and living through the summer until their petals and fur wither in the fall and they die, leaving behind the eggs of their offspring. The Alfen consider these creatures sacred, and Antler guards them ruthlessly due to their being sought after as attractions or for their fragrant fur. Springmanes communicate through eerie whistling sounds that form a melodic tune between them that is hauntingly beautiful when echoed over great distances.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSpringmane.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":18,
+                    "title": "Rubion",
+                    "paragraphs":[
+                        "The Springmane is a maned wolf-like native of Durlan that is considered by many to be the most beautiful creature in Edenfell (“Today, you are as fine as a Springmane, my dear!”). They are usually a single color (most often white) and have a flourishing mane that attracts birds, fireflies, and butterflies. They have a large pair of wooden, dendritic antlers that sprout cherry blossom petals. Springmanes carry a sweet scent with them, and their fur is more powerful and fragrant than most manufactured perfumes. ",
+                        "Springmanes only live for a few months, hatching in the spring and living through the summer until their petals and fur wither in the fall and they die, leaving behind the eggs of their offspring. The Alfen consider these creatures sacred, and Antler guards them ruthlessly due to their being sought after as attractions or for their fragrant fur. Springmanes communicate through eerie whistling sounds that form a melodic tune between them that is hauntingly beautiful when echoed over great distances.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan, Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaRubion.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":19,
+                    "title": "Elemental Dragons",
+                    "paragraphs":[
+                        "Elemental dragons are one of the more ancient species in Edenfell. They are highly intelligent creatures, each possessing a unique and distinct personality. Some folk tales even speak of there being dragons that could produce speech and possess the intellect of an anthro. ",
+                        "Hundreds of years ago, before the Cataclysm had struck, elemental dragons were used as mounts and trusted companions of the Elves. Each Elf would have a companion dragon identical to their inherent elemental magic, creating a powerful duo that not just anyone could rival. Unfortunately, after the great calamity the dragons had suffered a change in nature; they had developed an aversion to mages. Now, instead of building bonds with the magical Elves, the dragons became aggressive towards anyone who is mana-sensitive. Nowadays, if one is lucky enough, only those who do not possess the gift of great mana can hope to gain the trust of a dragon.",
+                        "The dragons mostly reside and can be found in Durlan, though thanks to their resilience and elemental nature, one can spot a dragon anywhere across Edenfell. Dragons prefer to nest and reproduce in biomes that correspond to their natural elemental affinity. These magnificent beasts can vary in size, being anywhere from the size of a horse to the size or cottage, with their size corresponding directly to their power (Tier).",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Mostly in Durlan, but also seen in Caliburn, Vatha and Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte - Archwizard (Depends on Player Rank)"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaDragons.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":20,
+                    "title": "Ice Lynx",
+                    "paragraphs":[
+                        "Not much is known about the Ice Lynx as it is a recently discovered creature, so far only seen a few times in Caliburn. Adventurers are doing the best they can to find this unique cryptid so that they may learn all there is to know about the species.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Unknown Species"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"N/A"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaIceLynx.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":21,
+                    "title": "Parhelion",
+                    "paragraphs":[
+                        "Not much is known about the Parhelia as they are a recently discovered creature, so far only seen on one occasion in Durlan’s South. Adventurers believe this chimeraean to be the last relic of lost ancient history and is doing the best it can to find this unique cryptid so that they may learn all there is to know about the species.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Unknown Species"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"N/A"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaParhelion.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":22,
+                    "title": "Others",
+                    "paragraphs":[
+                        "Other less fantastical beasts, such as leopards, elephants, gorillas, and tigers, can be found all over Edenfell. Most especially dogs which everyone is fond of and often take with them on long important journeys, missions, or even into battle."
+                    ],
+                    "type":"column",
+                    "img":"faunaDogs.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
             "page":  "Flora",
             "url":  "/world/flora",
             "content": [
