@@ -2052,9 +2052,7 @@
                         "The knights of Caliburn consider wisdom to be the highest virtue. wisdom guides the right application of every other virtue in a variety of situations and aids in preventing problems from getting worse and becoming more serious.",
                         "The mastery of facts is only one aspect of wisdom. The ability to combine diverse data to gain a deeper grasp of systems and principles is what distinguishes actual wisdom from a dispersed collection of unrelated facts. Wisdom's enemies include not only ignorance and foolishness but also narrow-mindedness and tradition-bound ways of thinking. The Caliburn knights must be able to modify their worldview in response to fresh knowledge and concepts."
                     ],
-                    "type":"column",
-                    "img": "CaliburnWisdom.jpg",
-                    "imgType":"mid"
+                    "type":"column"
                 },
                 {
                     "divID":3,
