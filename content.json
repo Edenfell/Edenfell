@@ -788,8 +788,7 @@
                     "divID":18,
                     "title": "Rubion",
                     "paragraphs":[
-                        "The Springmane is a maned wolf-like native of Durlan that is considered by many to be the most beautiful creature in Edenfell (“Today, you are as fine as a Springmane, my dear!”). They are usually a single color (most often white) and have a flourishing mane that attracts birds, fireflies, and butterflies. They have a large pair of wooden, dendritic antlers that sprout cherry blossom petals. Springmanes carry a sweet scent with them, and their fur is more powerful and fragrant than most manufactured perfumes. ",
-                        "Springmanes only live for a few months, hatching in the spring and living through the summer until their petals and fur wither in the fall and they die, leaving behind the eggs of their offspring. The Alfen consider these creatures sacred, and Antler guards them ruthlessly due to their being sought after as attractions or for their fragrant fur. Springmanes communicate through eerie whistling sounds that form a melodic tune between them that is hauntingly beautiful when echoed over great distances.",
+                        "The Rubion is a colored fox with a single crystalline horn on its head in the color of a ruby. It lives in burrows in Durlan, Caliburn, and Vatha, and is one of the rarest creatures to spot in Edenfell due to its swiftness and elusive nature. As a result, not much is known about these creatures. They shed their rubies occasionally, leaving a trail that greedy poachers may follow to track them, though usually none are successful in doing so.",
                         {
                             "type":"highlight",
                             "highlight":"Location:",
@@ -2190,7 +2189,7 @@
                         "Attracted to the most dangerous of quests all the time, Edom's knights ardently believe that the most daunting challenges are the ones truly worth surmounting. It is in facing supernatural perils that would quell weaker spirits that they truly excel, and as a result, they eagerly fill the ranks of the UnA and willingly provide numbers of knights and spellswords that embark on the campaigns to push back the encroaching Voidbringers. Amidst their endeavors to vanquish monstrous threats, they also go on personal odysseys to conquer their deepest fears. One knight may seek to vanquish a creature that frightened them as children, another to avenge their mother's being taken by a monster, or yet another to challenge the colossal giant who hurt their beloved (or just a Nord who was an asshole)."
                     ],
                     "type":"column",
-                    "img": "EdomUnAKnights.png",
+                    "img": "EdomUnAKnights.jpg",
                     "imgType":"mid"
                 },
                 {
@@ -2748,7 +2747,9 @@
                     "divID":9,
                     "title":"Enchantment",
                     "paragraphs":[
-                        "This is Fae magic. It grants Faes the power to temporarily wield and manipulate the flora (link) and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. ",
+                        {"type":"span", "text":"This is Fae magic. It grants Faes the power to temporarily wield and manipulate the "},
+                        {"type":"link", "link":"#/world/flora", "text":"flora"},
+                        {"type":"span", "text":" and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. "},
                         "Faes possess the unique ability to enchant other mages too, supplementing (or siphoning) their mana on contact (skin-to-skin) by 50% of its full capacity."
                     ],
                     "type":"inline",
@@ -2770,7 +2771,9 @@
                     "divID":11,
                     "title":"Alteration",
                     "paragraphs":[
-                        "Changelings use alteration to transform into all the known beasts (link) of Edenfell. They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."
+                        {"type":"span", "text":"Changelings use alteration to transform into all the "},
+                        {"type":"link", "link":"#/world/fauna", "text":"known beasts of Edenfell"},
+                        {"type":"span", "text":". They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."}
                     ],
                     "type":"column",
                     "img":"MagicAlteration.jpg",
