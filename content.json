@@ -66,7 +66,7 @@
                     "paragraphs":[
                         "Sometimes referred to pejoratively as skinny Nords, the Elves of Edenfell are Nord-like in physical appearance, save for a few key differences. Elves are often smaller than Nords, with sharper, pointier ears. They follow the general stereotypes you’re all used to; there is no need to explain what we all know. The Elves have often always had the closest connection to Edenfell’s magic in the past being the first of the Anthros, this is why in the past Alfen Mages had more mana and magical aptitude than their peers and it explains why, even now in the age where Mages are a rarity, most of them tend to be Elves.",
                         "While it’s immoral to subject the entire race to a few stereotypes, we’re going to do so anyway. The Elves tend to be very traditional, proud, condescending, and patronizing. Turning their noses up at other cultures and practices, they argue the importance of their existence and how they are the most civilized of all races. ",
-                        "Alfen often sport tattoos and paint on their bodies that can be anything from sentimental and tribal to religious or superstitious.",
+                        "Alfen often spot tattoos and paint on their bodies that can be anything from sentimental and tribal to religious or superstitious.",
                         "Like all the other Anthros, Elves have a natural racial ability we’re going to call a Trait. The Alfen trait allows them to communicate at a frequency that other Anthros and most living beings cannot hear—even a Changeling with sensitive hearing would have difficulty picking it up. In addition to this, Elves have enhanced senses; their taste, smell, sight, touch, and obviously hearing are heightened and much better than most—second only to some animals. On average, they stand at about 185cm (6’1”) for men and 175cm (5’9”) for women."
                     ],
                     "type":"inline",
@@ -2189,7 +2189,7 @@
                         "Attracted to the most dangerous of quests all the time, Edom's knights ardently believe that the most daunting challenges are the ones truly worth surmounting. It is in facing supernatural perils that would quell weaker spirits that they truly excel, and as a result, they eagerly fill the ranks of the UnA and willingly provide numbers of knights and spellswords that embark on the campaigns to push back the encroaching Voidbringers. Amidst their endeavors to vanquish monstrous threats, they also go on personal odysseys to conquer their deepest fears. One knight may seek to vanquish a creature that frightened them as children, another to avenge their mother's being taken by a monster, or yet another to challenge the colossal giant who hurt their beloved (or just a Nord who was an asshole)."
                     ],
                     "type":"column",
-                    "img": "EdomUnAKnights.png",
+                    "img": "EdomUnAKnights.jpg",
                     "imgType":"mid"
                 },
                 {
@@ -2400,7 +2400,7 @@
                     "divID":1,
                     "title":"Guinevere's Conquest",
                     "paragraphs":[
-                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, situated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
+                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, sit36uated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
                         "The battle that unfolded on Guinevere's Conquest was a grueling and harrowing affair, as the UnA faced off against the massed ranks of the Voidborn. The air crackled with magic as Guinevere, wielding her enchanted blade and commanding powerful spells, led her troops fearlessly into the heart of the enemy's stronghold. With strategic brilliance and unparalleled combat prowess, she inspired her soldiers to fight with unwavering resolve, rallying them even in the face of overwhelming odds. The clash of steel and the eruption of spells echoed throughout the island as the UnA forces pushed back the Voidborn, inch by hard-fought inch.",
                         "With the Voidborn vanquished and the island freed from their malevolent influence, Guinevere's Conquest earned its name as a tribute to the extraordinary deeds of General Guinevere and the UnA forces. The victory marked a turning point in the war against the Voidborn, inspiring hope and renewing faith in the struggle against the forces of corruption. Guinevere's leadership and prowess as a spellsword became legendary, and her name became synonymous with courage and unwavering determination. Guinevere's Conquest stands as a symbol of triumph, reminding all who look upon it of the resilience of humanity and the power of unity in the face of darkness."
                     ],
@@ -2572,7 +2572,7 @@
                                         },
                                         {
                                             "type":"th",
-                                            "text":"Relative Peak Output (scale, speed, weight, destructive power)"
+                                            "text":"Relative Peak Output (scale, speed, weight, destructive power, poison action)"
                                         }
                                     ]
                                 },
@@ -2593,7 +2593,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead"
+                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead, 1 turn to 3 turns"
                                         }
                                     ]
                                 },
@@ -2614,7 +2614,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB)"
+                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB), 3 turns to 6 turns"
                                         }
                                     ]
                                 },
@@ -2635,7 +2635,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress"
+                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress, 6 turns to 9 turns"
                                         }
                                     ]
                                 },
@@ -2656,7 +2656,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon"
+                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon, 9 turns to 12 turns"
                                         }
                                     ]
                                 },
@@ -2677,7 +2677,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7"
+                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7, 12 turns to 15 turns"
                                         }
                                     ]
                                 },
@@ -2698,7 +2698,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade"
+                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade, 15 turns to 20 turns"
                                         }
                                     ]
                                 }
@@ -2830,7 +2830,7 @@
                     "divID":17,
                     "paragraphs":[
                         "No one knows the source or origin of this mysterious and powerful metal, but its usefulness since the dawn of the ages is undeniable.",
-                        "The secret of forging Adam's Iron is unknown, making the creation of new weapons impossible. The material is expensive and difficult to obtain. Skilled smiths can reforge Adam Forged Steel weapons by melting down existing ones, but it's a difficult process. Two smaller Adam's Iron swords can be made out of a larger greatsword, or a large greatsword made by melting down multiple smaller swords, but the amount of Adam Forged Steel in the world is finite and extremely rare. The majority of the surviving Adam's Steel weapons either serve as heirlooms in the various noble houses of Edenfell, can be purchased at outrageous prices from few merchants, or are in the possession of the United Army.",
+                        "The secret of forging Adam's Iron is unknown, making the creation of new weapons impossible. The material is expensive and difficult to obtain. Skilled smiths can reforge Adam Forged Steel weapons by melting down existing ones, but it's a difficult process. Two smaller Adam's Iron swords can be made out of a larger greatsword, or a large greatsword made by melting down multiple smaller swords, but the amount of Adam Forged Steel in the world is finite and extremely rare. The majority of the surviving Adan's Steel weapons either serve as heirlooms in the various noble houses of Edenfell, can be purchased at outrageous prices from few merchants, or are in the possession of the United Army.",
                         "Tuning is a phenomenon that occurs when a character has had their Adam’s Steel equipment for long enough that they form a bond or connection with it beyond what is normal. Characters may tune with their weapon three times, once every two Tiers. There are three tunings possible: ",
                         {
                             "type":"highlight",
