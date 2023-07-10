@@ -2704,6 +2704,11 @@
                                 }
                             ]
                         },
+                        {
+                            "type":"highlight",
+                            "highlight" : "Important Note:",
+                            "text": "Non-Magical feats will not exceed the Initiate level (and Acolyte level for Nords)."
+                        },
                         "Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
                         "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
                         {"type":"cite",
