@@ -193,6 +193,62 @@
             ]
         },
         {
+            "page" : "Religion",
+            "url" : "/world/religion",
+            "content":[
+                {
+                    "divID":1,
+                    "title": "What Remains Of Religion?",
+                    "paragraphs":[
+                        {"type":"span", "text":"An age ago most of the Anthros in Edenfell, no matter their shapes, sizes, or races believed in the five gods ("},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Set"
+                        },
+                        {"type":"span", "text":" of creation, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Krig"
+                        },
+                        {"type":"span", "text":" of War, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Urv"
+                        },
+                        {"type":"span", "text":" of Death, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Gaya"
+                        },
+                        {"type":"span", "text":" of Earth, and "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Titane"
+                        },
+                        {"type":"span", "text":" of the Ocean). They believed that mortals had been placed as wardens of the realm by these gods as an act of trust and that it was the duty of men to protect this world and serve the gods with their lives."},
+                        "But that was a different time…",
+                        "Now, the extent to which one is religious depends entirely on the individual, and in a world rife with danger, wandering evil, and rampant violence in which it easily feels like gods and anything divine and good have long abandoned man, very few hold any faith. Elves remain the least religious race since they still believe themselves to be divine in nature and as such find the entire concept of worship difficult to grasp or justify. ",
+                        "All of the lands used to be influenced by the belief in gods and their tenets in many different ways, therefore, all over the world there are remnants and ruins of shrines, statues, amulets, and temples scattered and often long buried with the rest of what once was.",
+                        {"type":"span", "text":"During a recent unsuccessful campaign to divert and neutralize Voidborns that had strayed too close to Caliburn, something occurred that has raised some old questions among those present and skepticism among those who were not. The sighting of "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"The Cherub"
+                        },
+                        {"type":"span", "text":", a massive apparition of sorts that the parties involved claimed helped vanquish the enemy they had failed to beat and were fleeing from, has both cast aspersions on the sanity of the soldiers in question as well as spread whispers about the truth of it all; what is real and what isn’t? Was this a shared fever dream induced by the arcane powers of a potent Voidbringer, or is there something else out there with us?"}
+                    ],
+                    "type" : "inline",
+                    "img":"religion.jpg",
+                    "imgType":"left"
+                }
+            ]
+        },
+        {
             "page":"Factions",
             "url":"/world/factions",
             "content": [
@@ -2287,7 +2343,13 @@
                     "divID":1,
                     "title":"Devil's Workshop",
                     "paragraphs":[
-                        "Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving a Cherub. The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."
+                        {"type":"span", "text":"Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"a Cherub"
+                        },
+                        {"type":"span", "text":". The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."}
                     ],
                     "type":"column"
                 }
@@ -2703,6 +2765,11 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Important: ",
+                            "text":"Non-magical feats will not exceed the Initiate level (and Acolyte level for Nords)."
                         },
                         "Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
                         "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
