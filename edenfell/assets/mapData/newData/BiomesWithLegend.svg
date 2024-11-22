@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297.36871mm"
+   width="1144.3759"
    version="1.2"
-   height="159.28757mm"
-   viewBox="0 0 3512.2289 1881.3522"
+   height="602.91901"
+   viewBox="0 0 3576.1744 1884.125"
    id="svg6920"
    sodipodi:docname="BiomesWithLegend.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
@@ -39,18 +39,19 @@
      inkscape:window-height="1028"
      id="namedview6922"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0.6"
-     fit-margin-right="0.6"
-     fit-margin-bottom="0"
-     inkscape:zoom="1"
-     inkscape:cx="498.66523"
-     inkscape:cy="318.29229"
+     fit-margin-top="2"
+     fit-margin-left="15"
+     fit-margin-right="15"
+     fit-margin-bottom="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="669.05916"
+     inkscape:cy="322.66989"
      inkscape:window-x="-9"
      inkscape:window-y="14"
      inkscape:window-maximized="1"
      inkscape:current-layer="Map 1: biomes"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     units="px" />
   <defs
      id="defs3468" />
   <defs
@@ -67,11 +68,12 @@
      stroke-linejoin="bevel"
      stroke="#000000"
      inkscape:groupmode="layer"
-     transform="translate(4.169347,-276.3298)">
+     transform="translate(28.331932,-274.94346)"
+     style="display:inline">
     <g
        fill="#f3f55f"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -171,7 +173,7 @@
     <g
        fill="#d5d7bb"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -261,7 +263,7 @@
     <g
        fill="#913db3"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -341,7 +343,7 @@
     <g
        fill="#8527dc"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -546,7 +548,7 @@
     <g
        fill="#dd3636"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -791,7 +793,7 @@
     <g
        fill="#a81767"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -1436,7 +1438,7 @@
     <g
        fill="#f1155c"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -1856,7 +1858,7 @@
     <g
        fill="#ba0bb7"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -2201,7 +2203,7 @@
     <g
        fill="#20017e"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -2371,7 +2373,7 @@
     <g
        fill="#0b9131"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -3566,7 +3568,7 @@
     <g
        fill="#d5e7eb"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -3861,7 +3863,7 @@
     <g
        fill="#96784b"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -4141,7 +4143,7 @@
     <g
        fill="#4b6b32"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -4661,7 +4663,7 @@
     <g
        fill="#409c43"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -5871,7 +5873,7 @@
     <g
        fill="#7dcb35"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -6426,7 +6428,7 @@
     <g
        fill="#29bc56"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -7146,7 +7148,7 @@
     <g
        fill="#b6d95d"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -7326,7 +7328,7 @@
     <g
        fill="#c8d68f"
        stroke-linecap="square"
-       transform="scale(0.999751)"
+       transform="matrix(0.99528355,0,0,0.99458189,15.638051,6.2924074)"
        font-weight="400"
        fill-opacity="0.900008"
        font-size="32.5px"
@@ -7671,7 +7673,8 @@
      stroke-linejoin="bevel"
      stroke="#000000"
      inkscape:groupmode="layer"
-     transform="translate(4.169347,-276.3298)">
+     transform="translate(28.331932,-274.94346)"
+     style="display:inline">
     <g
        fill="#ffffff"
        transform="matrix(7.5793594,0,0,7.5793594,2437.0508,1602.455)"

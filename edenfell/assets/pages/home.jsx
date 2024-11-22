@@ -20,7 +20,7 @@ export async function loader() {
 export default function Home({className}) {
     let content = useOutletContext()[0];
     let portrait = useOutletContext()[1];
-    let pagesArray = ["World", "lore", "locations", "races", "flora", "Characters", "ocs", "npcs", "Server"];
+    let pagesArray = ["World", "lore", "locations", "races", "flora", "fauna"];
     const headers = ["World", "Characters", "Server"];
     const[loadedPages, setLoadedPages] = useState(pagesArray.slice(0,2));
 

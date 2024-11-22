@@ -9,8 +9,8 @@ import {ReactComponent as Arrow} from './img/arrow.svg';
 
 export default function AudioPlayer({muted, toggleMute, nextSong, song}) {
     //VARIABLES
-    let songName = song.replace("/EdenfellWebsite/assets/music/", "");
-    songName = songName.replace("/EdenfellWebsite/assets/", "");
+    let songName = song.replace("/assets/music/", "");
+    songName = songName.replace("/assets/", "");
     if(songName.indexOf('.') !=-1) songName=songName.slice(0, songName.indexOf("."));
     if(songName.indexOf('-') !=-1) songName=songName.slice(0, songName.indexOf('-'));
     //VARIANTS
@@ -52,7 +52,7 @@ export default function AudioPlayer({muted, toggleMute, nextSong, song}) {
         const seconds = audioRef.current.duration;
         progressBarRef.current.max = seconds;
         progressBarRef.current.value = currentTime;
-        audioRef.current.volume = 0.1;
+        audioRef.current.volume = 0.3;
         playAnimationRef.current = requestAnimationFrame(repeat);
     })
 
@@ -82,7 +82,7 @@ export default function AudioPlayer({muted, toggleMute, nextSong, song}) {
                 <motion.div className="icons-div" key="icons" >
                     <motion.div className="info-div" key="info" initial="rest" whileHover="hover" exit="rest" variants={divHover}>
                         {!collapse && <motion.div className="song-name" key="song-name">
-                            <motion.p variants={textHover} key="hover-p">{songName} - Lindsey Sterling</motion.p>
+                            <motion.p variants={textHover} key="hover-p">{songName}</motion.p>
                         </motion.div> }
                         {!collapse && <motion.div className="info-icon" key="info-icon" initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}}>
                             <InfoImg variants={iconHover} key="info-img"/>

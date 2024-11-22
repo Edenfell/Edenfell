@@ -18,10 +18,11 @@ import SearchResults from './pages/searchResults';
 import {default as MapPage, loader as MapLoader} from './pages/mappage';
 import reportWebVitals from './reportWebVitals';
 import Locations from './pages/locations';
+import NPCs from './pages/npcs';
 
 
 const router = createHashRouter(createRoutesFromElements(
-  <Route loader={AppLoader} element={<App/>}>
+  <Route loader={AppLoader} element={<App className="App"/>}>
     <Route path='/*' loader={HomeLoader} key={"home"} element={<Home className={"first-content"} />}/>
     <Route path='/server' loader={ServerLoader} key={"server"} element={<Server className={"first-content"} />}/>
     <Route path='/world' loader={WorldLoader} key={"world"} element={<World className={"first-content"} />}>
@@ -36,6 +37,7 @@ const router = createHashRouter(createRoutesFromElements(
     </Route>
     <Route path="/characters" loader={CharactersLoader} key = {"characters"} element={<Characters className="first-content"/>}>
       <Route path=':contentPage' loader={ContentLoader} key={"content"} element={<Content className={"content"}/>}/>
+      <Route path='npc' key={"npcs"} element={<NPCs />}></Route>
     </Route>
       {/* <Route path='locations' loader={Locations.loader} key={"locations"} element={<Locations key={location.pathname} className={"content"} />}>
         <Route path='map' loader={MapPage.loader} key={'map'} element={<MapPage key={location.pathname} className={"content "} />}/>

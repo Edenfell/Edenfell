@@ -4,7 +4,7 @@ import svgr from "vite-plugin-svgr";
 import dynamicImport from 'vite-plugin-dynamic-import';
 
 export default defineConfig({
-  base: "/EdenfellWebsite/",
+  base: "/",
   plugins: [svgr(), react(), dynamicImport()],
   build : {
     rollupOptions: {

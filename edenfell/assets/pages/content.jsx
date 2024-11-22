@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import { useLoaderData, useParams, useOutletContext} from 'react-router-dom';
 import { motion } from 'framer-motion';
 import Location from './locations';
+import Footer from '../Footer';
 
 export async function loader({params}) {
     return null;
@@ -25,12 +26,17 @@ export default function Content({className}) {
                 {page.content.map((div, index) => {
                     return(
                         <motion.div className={`content-div-${div.type}`} key={`content-div-${index}`}>
+                            {(div.title && div.type=="column") && ((!div.paragraphs && <motion.h1 key={`title-${index}`}>{div.title}</motion.h1>) || (div.paragraphs && <motion.h2 key={`title-${index}`}>{div.title}</motion.h2>))}
                             {div.img && (div.imgType != "right" || portrait)  && <motion.img src={`./${div.img}`} className={`content-img-${div.imgType}`} key={`content-img-${index}`}/>}
                             <motion.div key={index}>
-                                {div.title && <motion.h2 key={`title-${index}`}>{div.title}</motion.h2>}
+                                {(div.title && div.type!="column") && ((!div.paragraphs && <motion.h1 key={`title-${index}`}>{div.title}</motion.h1>) || (div.paragraphs && <motion.h2 key={`title-${index}`}>{div.title}</motion.h2>))}
                                 {div.paragraphs && div.paragraphs.map((para, pIndex) => {
                                     return(
                                         (!para.type && <motion.p key={`p-${index}-${pIndex}`}>{para}</motion.p>)
+                                        ||
+                                        (para.type=="span" && <motion.span>{para.text}</motion.span>)
+                                        ||
+                                        (para.type=="link" && <motion.a href={para.link}>{para.text}</motion.a>)
                                         ||
                                         (para.type=="cite" && <motion.cite key={`cite-${index}-${pIndex}`}>{para.text}</motion.cite>)
                                         ||
@@ -61,6 +67,7 @@ export default function Content({className}) {
                     )
                 })}
             </motion.div>
+            <Footer />
         </React.Suspense>
     );
 }

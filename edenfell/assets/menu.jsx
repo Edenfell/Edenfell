@@ -2,7 +2,25 @@ import {AnimatePresence, easeIn, motion} from 'framer-motion';
 import {Link} from 'react-router-dom';
 import Search from './search';
 
-const menuItems = [
+export const menuItems = [
+  {
+    title:'Characters',
+    url:'/characters',
+    submenu:[
+      {
+        title:"OCs",
+        url:"https://docs.google.com/spreadsheets/d/12yVO4A95xaxOVuDDEqhCPwfCL_UmFNgSa7-pUv35LWM/edit?usp=sharing",
+      },
+      {
+        title:"NPCs",
+        url:"/npc",
+      },
+      {
+        title:"Fame and Infamy",
+        url:"/fame"
+      }
+    ],
+  },
   {
     title:'World',
     url:'/world',
@@ -20,8 +38,16 @@ const menuItems = [
         url:"/races",
       },
       {
+        title:"Religion",
+        url:"/religion",
+      },
+      {
         title:"Flora",
         url:"/flora",
+      },
+      {
+        title:"Fauna",
+        url:"/fauna",
       },
       {
         title:"Magic",
@@ -34,30 +60,12 @@ const menuItems = [
     ],
   },
   {
-    title:'Characters',
-    url:'/characters',
-    submenu:[
-      {
-        title:"OCs",
-        url:"/oc",
-      },
-      {
-        title:"NPCs",
-        url:"/npc",
-      },
-      {
-        title:"Fame and Infamy",
-        url:"/fame"
-      }
-    ],
-  },
-  {
     title:'Server',
     url:'/server',
     submenu:[
       {
         title:"Discord",
-        url: "#"
+        url: "https://discord.gg/5NQpjnqAxS"
       },
     ]
   }
@@ -82,7 +90,7 @@ export default function Menu({expanded, portrait, setMenuIsExpanded, content}) {
                 <ul key={index+"-ul"}>
                   {item.submenu.map((subitem, subindex) => {
                     return(
-                      <li key={index*10+subindex}><Link key={subitem.title} to={item.url+subitem.url} onClick={clickedLink}>{subitem.title}</Link></li>
+                      <li key={index*10+subindex}>{((subitem.title != "Discord" && subitem.title != "OCs") && <Link key={subitem.title} to={item.url+subitem.url} onClick={clickedLink}>{subitem.title}</Link>) || (<motion.a href={subitem.url}>{subitem.title}</motion.a>)}</li>
                     );
                   })}
                 </ul>

@@ -67,7 +67,7 @@
                         "Sometimes referred to pejoratively as skinny Nords, the Elves of Edenfell are Nord-like in physical appearance, save for a few key differences. Elves are often smaller than Nords, with sharper, pointier ears. They follow the general stereotypes you’re all used to; there is no need to explain what we all know. The Elves have often always had the closest connection to Edenfell’s magic in the past being the first of the Anthros, this is why in the past Alfen Mages had more mana and magical aptitude than their peers and it explains why, even now in the age where Mages are a rarity, most of them tend to be Elves.",
                         "While it’s immoral to subject the entire race to a few stereotypes, we’re going to do so anyway. The Elves tend to be very traditional, proud, condescending, and patronizing. Turning their noses up at other cultures and practices, they argue the importance of their existence and how they are the most civilized of all races. ",
                         "Alfen often spot tattoos and paint on their bodies that can be anything from sentimental and tribal to religious or superstitious.",
-                        "Like all the other Anthros, Elves have a natural racial ability we’re going to call a Trait. The Alfen trait allows them to communicate at a frequency that other Anthros and most living beings cannot hear—even a Changeling with sensitive hearing would have difficulty picking it up. "
+                        "Like all the other Anthros, Elves have a natural racial ability we’re going to call a Trait. The Alfen trait allows them to communicate at a frequency that other Anthros and most living beings cannot hear—even a Changeling with sensitive hearing would have difficulty picking it up. In addition to this, Elves have enhanced senses; their taste, smell, sight, touch, and obviously hearing are heightened and much better than most—second only to some animals. On average, they stand at about 185cm (6’1”) for men and 175cm (5’9”) for women."
                     ],
                     "type":"inline",
                     "img":"raceElves1.jpg",
@@ -76,8 +76,7 @@
                 {
                     "divID" : 3,
                     "paragraphs" : [
-                        "In addition to this, Elves have enhanced senses; their taste, smell, sight, touch, and obviously hearing are heightened and much better than most—second only to some animals. On average, they stand at about 185cm (6’1”) for men and 175cm (5’9”) for women.",
-                        "Elven Mages are known for their elemental magic; water, earth, fire, lightning, tallow & air. It is possible for Elves to “specialize” in a certain element, and be able to develop it to a new level. A fire specialist might be able to develop into magma or even explosives/combustion. But this takes time, and skill to unlock. Elves are known for their carpentry and weaponsmithing. Their weapons tend to be more “elegant”, like a saber or rapier, rather than brutish, like a broadsword. Despite this, they’re well-known for their skills in archery, and this is what most are trained in. When it comes to armor, they tend to keep it light and simple as the general combat style of the elves is very “hit and run” or “long-ranged”.",
+                        "Elven Mages are known for their elemental magic; water, earth, fire, lightning, tallow & air. It is possible for Elves to “specialize” in a certain element, and be able to develop it to a new level. A fire specialist might be able to develop into magma or even explosives/combustion. But this takes time, and skill to unlock. Elves are known for their carpentry and weaponsmithing. Their weapons tend to be more “elegant”, like a saber or rapier, rather than brutish, like a broadsword. Despite this, they’re well-known for their skills in archery, and this is what most are trained in. When it comes to armor, they tend to keep it light and simple as the general combat style of the elves is very “hit and run” or “long-ranged”. ",
                         "Elves used to be known for their long lives, living up to almost 1000 years of age. But after the Cataclysm, this has changed. Their average age range, for one reason or another, began to match the rest of the races—that being an average of 80 years old. Despite being just like the rest now, they still think they’re better.",
                         "Certain slurs are considered offensive or hurtful by the Elves: Faeries or Fairies, Knife-ears, Twinks, and Pricks. They also really hate being called “Faes” (it’s the equivalent, to them, of being called a Neanderthal to us)."
                     ],
@@ -91,7 +90,7 @@
                     "paragraphs" : [
                         "Faes are a race of Elven heritage that used to be natives of the forests and the woods. The Fae used to rarely ever venture past the woods due to their timid and reserved nature and were once even considered a myth, like cryptids. ",
                         "Stereotypically, Faes, like the Elves, are rarely cooperative—but not for the same reason. Elves are much more offish, vain, and conceited while the Faes are skittish, bashful, and sometimes considered cowards due to their peace-loving nature. Faes are usually incredibly peaceful and tend to focus more on themselves rather than the problems of others. Though not as ethnocentric as Elves, they try their best to avoid the affairs of the other races and just focus on themselves. Faes are sort of like green Elves (though they can be pale, brown, or even have ordinary pigmentation like the Elves), they have the ears and the youthful effeminate face and everything—they just have more chlorophyll. ",
-                        "Faes have a natural race trait that allows them to do a few things. What they’re most well known for, and the most convenient trait, to be honest, is the ability to create wings. The wings grant the Faes flight (no way!), allowing them to fly or hover at a low altitude (no higher than an average tree). They also have the ability to shrink themselves to a size of a smaller dog, like a baby Yorkie. Obviously, they can also return to their original size, which on average is 170cm (5’7”) for men and 160cm (5’3”) for women."
+                        "Faes have a natural race trait that allows them to do a few things. What they’re most well known for, and the most convenient trait, to be honest, is the ability to create wings. The wings grant the Faes flight (no way!), allowing them to fly or hover at a low altitude (no higher than an average tree). They also have the ability to shrink themselves to a size of a smaller dog, like a baby Yorkie. Obviously, they can also return to their original size, which on average is 170cm (5’7”) for men and 160cm (5’3”) for women. Some Faes may have horns, antlers and other such protrusions on their heads."
                     ],
                     "type":"inline",
                     "img": "raceFae1.jpg",
@@ -123,9 +122,9 @@
                 {
                     "divID" : 7,
                     "paragraphs" : [
-                        "Even though Nords are more strength than wizardry, there are some Mages amongst them. Their magic consists of a “creation” type of magic, which can simply be described as construction magic. This magic is called Crafting. The constructs that they create are limited only by their imagination and their mana. While they cannot simply create a full-sized living dragon that breathes fire (not at first anyway), they are able to create constructs of different items such as tools and weapons that cannot simply be broken by being struck with just some force.",
+                        "Even though Nords are more strength than wizardry, there are some Mages amongst them. Their magic consists of a “creation” type of magic, which can simply be described as construction magic. This magic is called Conjuration (Crafting). The constructs that they create are limited only by their imagination and their mana. While they cannot simply create a full-sized living dragon that breathes fire (not at first anyway), they are able to create constructs of different items such as tools and weapons that cannot simply be broken by being struck with just some force.",
                         "Nords are exceptional hunters, herders, and rearers of livestock as well as good sailors and blacksmiths. They are also often quite skilled at woodworking and building ships and structures, usually of the sturdy, sheer, and austere kind.",
-                        "Slurs considered offensive or hurtful by the Nords: You already know."
+                        "Slurs considered offensive or hurtful by the Nords: Bone-bag, Meathead, Sunflower (pejorative for their often golden hair), Snow Angel"
                     ],
                     "type":"inline",
                     "img":"raceNord2.jpg",
@@ -149,7 +148,7 @@
                         "Changelings’ trait is dependent on what animal they kin. A cheetah Changeling could be incredibly fast over short distances, a hawk Changeling could have massive wings that they could use to fly, etc. It all depends on which attribute/feature of the animal the Changeling has. Changelings are also able to speak to and understand all animals freely. It is a nifty and interesting gift to have and makes them very good herders and tamers. ",
                         "Changeling Mages are a different breed completely for they are able to take the form of any beast and animal completely they so please—which allows them to get their natural abilities. Mages of a higher caliber are also able to combine different animalistic features together to transform into some sort of chimera.",
                         "There exists some intraracial tension in the Changeling community as a result of the distinct groups that exist within it. Changelings can be split up into six different groups. These groups are Mammals, Aves, Reptiles, Amphibians, Invertebrates, and Fish. Mammals are seen as the top of the food chain among Changelings, and they have their own inner-foodchain amongst them (it exists as a sub-group of predators and prey, which does not need to be explained), Reptiles are considered second, Aves third, followed in order by Amphibians, Invertebrates, and Fish. The latter 3 are regarded as bottom feeders of the Changeling society. Reptiles and Amphibians tend to go together quite often, but the relationships are often kept secret as any Reptile who’s seen with an Amphibian is looked down on as lesser than their peers. Mammals and Aves also sometimes go together (and this union is more tolerated because of their standing as apexes but is still not entirely accepted and considered weird because of the stigma against mixing among Changelings).",
-                        "Slurs considered offensive or hurtful by the Changelings:"
+                        "Slurs considered offensive or hurtful by the Changelings: Furball, Pigeon, Dunce-kin, Manimal, Pet, Leash-chaser"
                     ],
                     "type" : "column",
                     "img" : "raceChangeling2.jpg",
@@ -159,10 +158,7 @@
                     "divID" : 10,
                     "title" : "Writer’s Notes",
                     "paragraphs" : [
-                        {
-                            "text" : "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
-                            "type": "li"
-                        },
+                        "Here are some more stereotypes and trivia that are nothing more than heuristics for the players to do with as they please: ",
                         {
                             "text" : "Elves hate everyone. They’re basically the French people of the races. ",
                             "type": "li"
@@ -186,9 +182,69 @@
                         {
                             "text" : "Faes have too many gingers",
                             "type": "li"
+                        },
+                        {
+                            "text" : "There are no half-breeds in Edenfell. Children of interracial unions will always be the race of the more dominant partner (Elves >> Changelings >> Nords >> Faes)",
+                            "type": "li"
                         }
                     ],
                     "type":"list"
+                }
+            ]
+        },
+        {
+            "page" : "Religion",
+            "url" : "/world/religion",
+            "content":[
+                {
+                    "divID":1,
+                    "title": "What Remains Of Religion?",
+                    "paragraphs":[
+                        {"type":"span", "text":"An age ago most of the Anthros in Edenfell, no matter their shapes, sizes, or races believed in the five gods ("},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Set"
+                        },
+                        {"type":"span", "text":" of creation, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Krig"
+                        },
+                        {"type":"span", "text":" of War, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Urv"
+                        },
+                        {"type":"span", "text":" of Death, "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Gaya"
+                        },
+                        {"type":"span", "text":" of Earth, and "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"Titane"
+                        },
+                        {"type":"span", "text":" of the Ocean). They believed that mortals had been placed as wardens of the realm by these gods as an act of trust and that it was the duty of men to protect this world and serve the gods with their lives."},
+                        "But that was a different time…",
+                        "Now, the extent to which one is religious depends entirely on the individual, and in a world rife with danger, wandering evil, and rampant violence in which it easily feels like gods and anything divine and good have long abandoned man, very few hold any faith. Elves remain the least religious race since they still believe themselves to be divine in nature and as such find the entire concept of worship difficult to grasp or justify. ",
+                        "All of the lands used to be influenced by the belief in gods and their tenets in many different ways, therefore, all over the world there are remnants and ruins of shrines, statues, amulets, and temples scattered and often long buried with the rest of what once was.",
+                        {"type":"span", "text":"During a recent unsuccessful campaign to divert and neutralize Voidborns that had strayed too close to Caliburn, something occurred that has raised some old questions among those present and skepticism among those who were not. The sighting of "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"The Cherub"
+                        },
+                        {"type":"span", "text":", a massive apparition of sorts that the parties involved claimed helped vanquish the enemy they had failed to beat and were fleeing from, has both cast aspersions on the sanity of the soldiers in question as well as spread whispers about the truth of it all; what is real and what isn’t? Was this a shared fever dream induced by the arcane powers of a potent Voidbringer, or is there something else out there with us?"}
+                    ],
+                    "type" : "inline",
+                    "img":"religion.jpg",
+                    "imgType":"left"
                 }
             ]
         },
@@ -213,7 +269,7 @@
                 },
                 {
                     "divID":3,
-                    "title":"The UnA v/s The Higher Sentient",
+                    "title":"The UnA vs. The Higher Sentient",
                     "paragraphs":[
                         "Edenfell was once a land divided into distinct kingdoms segregated on the basis of race, each one of which took pride in their differences and sometimes waged war because of these differences. Magic was shared amongst all the armies of the world, and all these kingdoms were united under one empire under the capital of Ironhold. The Cataclysm brought an end to these kingdoms, and nations could no longer afford to unite under racial identities.",
                         "Soon after the Cataclysm, Fëanor started gathering mages under the banner of the Higher Sentient— an organization with the sole purpose of gathering and honing mages to fight against the Voidbringers, no matter the cruelty of their methods— and built Durlan, where the mages are treated like nobility, whilst the non-mages are treated like peasants who run the kingdom. Due to the growing rarity of magic, this has proven to be a difficult task, but the Higher Sentient and Durlan have grown to be a sizable kingdom, dominating the southern end of the continent.",
@@ -238,9 +294,695 @@
             ]
         },
         {
+            "page":  "Fauna",
+            "url":  "/world/fauna",
+            "content": [
+                {
+                    "divID":0,
+                    "title": "Fauna",
+                    "type":"column"
+                },
+                {
+                    "divID":1,
+                    "title": "White Wings",
+                    "paragraphs":[
+                        "White Wings are large avian magical creatures that can be found all over Edenfell. They thrive in all climates and, as a result, are common to and well-known by all the people of Edenfell. White Wings flock together in large groups of twenty to over a hundred, usually nesting either high in the thickest branches of trees or (more commonly) in the large holes or craters they dig in the ground.  ",
+                        "White Wings are incredibly big, and males in the wild can grow up to 20 meters long and 5 meters tall (almost twice the max size of a female). They weigh up to a ton, which is surprisingly light for their size and is a result of their very hollow and low bone density. White Wings get their name from their pristine white feathers that cover their entire bodies bar their scaled talons, beaks and the parallel rows of protruding spikes on their backs. A White Wing’s wingspan is the same as its body length.",
+                        "White Wings are generally docile and do not attack people unless perceivably threatened. They are carnivorous and feed on small mammals like rodents and large insects or worms, because despite their great size, White Wings require very little sustenance, and an adult male White Wing barely eats more than 1/50th of its weight per day. This nifty trait, along with how easy they are to train, has made them a feature in society as they are the primary means of aerial travel and are most especially used by the aeolian divisions of armies because they can easily fit half a dozen men comfortably strapped down on their backs. ",
+                        "White Wings travel half as fast as Chasers do, which is impressive given their size. White Wing eggs are massive and are a delicacy among the Elves and Nords.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaWhiteWings.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":2,
+                    "title": "Chasers",
+                    "paragraphs":[
+                        "Chasers (or horned Chasers) are magical equine mammals similar in appearance to horses but usually twice as tall (and sometimes large) and many times faster. They have two long black horns on their heads (both males and females), and their skin is covered in a thin layer of crenated carapace with webbed spikes where a horse’s mane would be. Chasers have two muscular prehensile tails, with the larger one folding over the smaller one. They have incredibly powerful legs and can travel up to four times as quickly as a horse would, making them viable and reliable for use in travel and message delivery. Chasers are especially useful in battle as their armoured bodies can resist a little more punishment than a regular horse’s.",
+                        "Chasers are known for their incredible temperament, and being able to ride one is both a feat of being accepted by the strong and violent creatures, as well as being able to remain on top of them as they speed away. Even with the aid of double-clipping harnesses incorporated into their saddles, most people still do not make it through a ride on one of these without falling or getting extremely nauseous.",
+                        "They can only be found in Durlan.They do not do well in the cold and may even die quickly when exposed to low temperatures for a short time. Chasers have fangs and are omnivorous. In the wild, they hunt all prey smaller than them, using their horns to great effect.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaChasers.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":3,
+                    "title": "Marshland Selkie",
+                    "paragraphs":[
+                        "Marshland Selkies are the only kind of this magical creature found in the south. They are harmless to people, solitary and feline in appearance, much like their forest counterparts, despite being nothing like cats. Selkies are small (about the size of a domestic cat) and some individuals have horns.",
+                        "Selkies have silky sable-like fur of different dark hues (most commonly brown and black), webbed and clawed feet, and strong teeth with particularly sharp fangs. They are notorious for their sirens, which can travel great distances, especially at night. ",
+                        "All Selkies are semi-aquatic and their diet consists entirely of fish of all kinds. Like Kai Wings, Selkies are hunted for their fur, and their existence is threatened by the black market for goods made from this poaching, which Edenfell’s hunting guild, Antler, actively combats. ",
+                        "Selkies live, hunt, and mate almost exclusively underwater and usually come up only to graze and play if they encounter another of their kind.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Borders of Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaMarshlandSelkies.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":4,
+                    "title": "Courier Bat",
+                    "paragraphs":[
+                        "The Courier, Quicksilver, or Cakeberry Bat, is a small crimson bat named for its love of the Sidus fruit and its long history of use as a message delivery bat in Vatha and Caliburn. The bats are kept as useful pets and communication through them is not just common but extremely casual, rampant and rapid. Courier Bats are the fastest known creatures in Edenfell and can cover short distances in a matter of seconds. In Caliburn and Vatha, these bats, barely the size of a fist, keep the cities connected and are such a household item to the point that owned bats wear necklaces or annulets that indicate to whom they belong at a glance. It is considered a terrible crime and a stupid one to cause harm to someone’s bat, though the punishment is not that severe.",
+                        "Courier Bats are immune to poison and illnesses and do not carry or spread any infirmities. This is arguably why they have come to be such a staple of society and why they are considered very magical in nature.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaCourierBat.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":5,
+                    "title": "Teether",
+                    "paragraphs":[
+                        "Teethers are unsightly bugs with a grubby body of carapace and toothed “fingers” for locomotion that live in trees all over Edenfell. They generally stay high up and are rarely spotted by people, but can sometimes fall from leaves and branches onto a person.",
+                        "They are pests that damage leaves and bark, hollowing out trees or ruining crops. When left on the body for a prolonged period, they can lead to rot. This can be quickly treated with salves and unguents before it grows fatal, but people are still wary of and detest these things, especially as they can go undetected in hair and clothing for a long time.",
+                        "Teethers don’t get bigger than a small fist usually, and most are feasted on by Squirrel Kings who are sometimes owned as pets for this reason.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"All of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaTeether.jpg",
+                    "imgType":"right"
+                },
+                {
+                    "divID":6,
+                    "title": "Selkie",
+                    "paragraphs":[
+                        "Selkies are harmless to people, solitary and feline in appearance, despite being nothing like cats. Selkies are small (about the size of a domestic cat) and some individuals have horns.",
+                        "Selkies have silky sable-like fur of different dark hues (most commonly brown and black), webbed and clawed feet, and strong teeth with particularly sharp fangs. They are notorious for their sirens, which can travel great distances, especially at night. ",
+                        "All Selkies are semi-aquatic and their diet consists entirely of fish of all kinds. Like Kai Wings, Selkies are hunted for their fur, and their existence is threatened by the black market for goods made from this poaching, which the hunting guild, Antler, actively combats. ",
+                        "Selkies live, hunt, and mate almost exclusively underwater and usually come up only to graze and play if they encounter another of their kind. They are found mostly in Vatha and higher up north, though they definitely prefer the forest climate to the extreme cold of the mountains.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Northern Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Initiate"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaSelkie.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":7,
+                    "title": "Squirrel King",
+                    "paragraphs":[
+                        "The Squirrel King is an arboreal medium-sized rodent found high up in trees in the woods of Vatha and Edom. They seldom come down to the ground as they are very wary of all kinds of predators. Their prey consists of insects and smaller animals, especially Teethers that also reside in the trees. They look like squirrels (hence the name) but have brightly colored eyes and a “crown” of four feathered prongs on their heads. Squirrel Kings are often tamed and kept as pets due to their loyal nature as well as their lovable appearance. They are capable of cross-breeding with squirrels, though the resulting offspring will always be Squirrel Kings.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Semi-Common"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSquirrelKing.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":8,
+                    "title": "Kai Wing",
+                    "paragraphs":[
+                        "Kai Wings are solitary predators that stalk the warm regions of Edenfell. They would do well in ever sunny lands but are rarely found there due to their love for trees, fish, and the lack of an abundance of forest prey they enjoy. ",
+                        "Kai Wings look like furry wild cats and grow to about the size of an adult male lion, with a thick tail that can be as long as the rest of their body. Their fur is peppered with feathers around their necks, backs, and haunches. Kai Wing feathers are white with dark blue or black coloration at the ends; this gives their wings a unique shaded appearance. This feature earned them the nickname 'Shadow Cat'. Their wingspan is usually twice the length of their bodies, with each wing a Kai Wing long. ",
+                        "Kai Wings are feral and wild and often attack people unprovoked, even occasionally swooping down to carry smaller people away, much like they do with prey (spawning the Shadow Cat midwives tale). They cannot be tamed and are not seen as pets or companions to domesticate. ",
+                        "Kai Wings have poison in their fangs, and though lethal, this is not potent enough to kill prey as large as a person in a few (5) turns. They are usually only found in the thick woods near Durlan and sometimes a little south of its borders.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaKaiWing.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":9,
+                    "title": "Syphax",
+                    "paragraphs":[
+                        "A Syphax is a giant reptile (similar in some ways to both a crocodile and a lizard) that is found only on Vatha lands. They can grow to the size of White Wings but weigh considerably more (up to 10 tons) and start much smaller with eggs much smaller than a chicken’s. However, Syphaxes are essentially immortal if not killed or harmed by disease, and therefore generally live longer than White Wings. They live in pairs, usually in large caves and burrows underground. ",
+                        "Syphaxes are dangerous, with long claws and razor sharp teeth lining their maws. They can swallow a man whole and eviscerate people with macabre ease. Despite this, though, they have been adapted for military use owing to their incredible utility as beasts of burden that have saved Edenfell’s armies a lot of effort carrying weapons, food, and supplies to and from battlefields for centuries. Syphaxes are slow, especially when carrying weight around, but can be supremely rapid when hunting or given the command. At their fastest, they can match a Chaser for a short time but do not have the stamina to keep up that acceleration for more than a few seconds. ",
+                        "Syphaxes do not just carry supplies for the Nords but can also move large numbers of men great distances (much more than White Wings can carry). They also serve as tanks due to their great durability and numbness to pain. Syphaxes are often used as part of the Nordic expeditions into dangerous lands like the New Frontier.",
+                        "Syphaxes eat a great deal due to their fast metabolism, and if left hungry, turning one’s back to them is a grave mistake.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSyphax.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":10,
+                    "title": "Bayou Bear",
+                    "paragraphs":[
+                        "Bayou Bears are large grizzly-like aquatic creatures that live in swamps all around Edenfell. They spend years in the swamp’s murky waters and often grow moss and other greens on their backs that aid their camouflage in these waters.",
+                        "They swim up to the surface to surprise any prey foolish enough to wander through their habitat, clamping down on the victim to pull it down under where they drown, maul, and then feast on their meal. Bayou Bears make traversing swampland a terrifying prospect in Edenfell. Despite their large size and ferocious nature, however, they are often killed by Kai Wings, who bear an inexplicable animosity towards them. They usually stay hidden underwater when they know one is around.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Swamps of Edenfell"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare (Only found in Swamps)"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Wizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaBayouBear.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":11,
+                    "title": "Kelpie",
+                    "paragraphs":[
+                        "Kelpies are shapeshifting water horses only found surfing and riding the waves of the Circle Sea, mainly coming to shore in Durlan and Vatha. They have an opaque appearance and look every bit as they feel, like bodies carved out of pristine, glowing water. They are friendly and have been known to sailors in Edenfell since the dawn of time. They race boats and ships on the sea, come to the rescue of shipwrecks and abandoned people out in the water, and guide those they find to the shore with glee. Kelpies cannot be caught, harmed, or killed because of their nature and many superstitious folk believe them to be spirits, though their behaviour, mating, and other characteristics indicate that they are simply another magical animal.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Sea, Shores of Durland and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaKelpie.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":12,
+                    "title": "Northern Ox",
+                    "paragraphs":[
+                        "The Northern Ox is native to northern Vatha and Caliburn and is more like a bison than an ox. It is covered in wooly hair and has two massive, powerful horns. The Northern Ox can dwarf most bears (being twice their size) and even make Kai Wings look small. They are a part of Nord culture and have been used for milk, meat, and as mounts for centuries by kings and commoners alike. The Northern Ox is capable of keeping up with a horse over long distances and can carry its own weight in load on its back. These creatures do not do well in warm climates and are not usually brought further south than Varakis.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn and Northern Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaNorthernOx.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":13,
+                    "title": "Tigron",
+                    "paragraphs":[
+                        "The Tigron is a big feline creature with pronounced antlers and a bony face. They are rideable and trainable. Tigrons that survive their first year of life have a good chance of living for another hundred years. The Tigron can be found prowling the forests of Edom and Vatha, as well as the highlands and canyons all over Edenfell. Most prefer temperate or warm environments, but some Tigrons thrive in the northern cold. The horns of some Tigrons are radiant and will give men pause in awe when spotted at night, despite the danger of them. Tigrons are solitary creatures and omnivores, but they rarely hunt people unless threatened or starving. ",
+                        "They are ferocious cats that easily outgrow an adult tiger and Kai Wing and have been known to take on much larger beasts and win. There is an old Nord legend that claims the Jarl Skaldr was so impressed with finding a Tigron that had fought and killed a Syphax to defend her cubs that he made the cats his royal companions. ",
+                        "The Tigron’s roar is deep, guttural, and able to shake a man if he is close by. Tigrons are incredibly wild and dangerous, and their loyalty is hard to win, harder even than that of a Chaser, but it is very much worth the effort.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Edom and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaTigron.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":14,
+                    "title": "Canopy Stalker",
+                    "paragraphs":[
+                        "Canopy Stalkers are arboreal leopard-like cats with fiery spots and scarlet manes that live in the trees in Durlan and only descend to pounce on prey which they carry back up the trees to feed on. Canopy Stalkers are impressive for the heights from which they can fall without harm and how easily they maneuver whilst midair, almost always managing to land on their feet in a manner that kills their prey. ",
+                        "They have a longer claw on both their forearms that makes climbing great heights easier as well as ensures that killing prey is a matter of a single strike instead of prolonged, exposed battles on the ground. Canopy Stalkers are very quiet creatures, and people often say they have no footfalls even when they descend from the highest branches.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Adeptus"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaCanopyStalker.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":15,
+                    "title": "Willow",
+                    "paragraphs":[
+                        "Willows (or Dire Willows) are large canine creatures about the size of a grey wolf, or sometimes twice as big, that stalk the edges of the woods in Vatha, Edom and Durlan. They are most often spotted in Edom, where they haunt and hunt any canopy of tall trees. Dire Willows are solitary creatures, usually only seen alone, and notoriously incapable of tolerating other members of their species. These creatures are famous for their appearance, with very contrasting particolor fur and two pairs of short antlers sprouting from their heads. The Willow’s most notable trait, however, is its ability to bend light and camouflage by magical means, becoming transparent by the means of a colorful flame that washes over its body, making it seem to have vanished instantly.",
+                        "Willows are wild and almost cryptid. They hunt small prey and children who wander too close to the edge of the woods. Willows are capable of psionics and telepathy to an unknown extent. Each Dire Willow has a name, known only to the creature, which it whispers to anyone who survives and maintains extended interaction with it. Speaking the Willow’s name banishes it, returns children it has recently taken, and keeps those around the one who has spoken it safe.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Vatha, Edom and Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaWillow.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":16,
+                    "title": "Owlbear",
+                    "paragraphs":[
+                        "A mammalian prowler that lives in Durlan’s eastern forests, found only around rivers or creeks, the Owlbear is a rare and endangered species of magical beast whose population has dwindled as a result of hunting and sapien activity in its habitats over the ages.",
+                        "Owlbears are physically a lot like grizzlies but differ greatly in that they are chimeras with the face of an owl and a mane of feathers, as well as plumage on their forearms and tail. With these features, the heavy Owlbear is capable of gliding down from its perch in large trees where it nests, collapsing on its prey, which consists of large rodents and smaller mammals.",
+                        "Owlbears have great sight in the dark and so prefer to hunt at night or in the thick shade of the forest's canopies. They often stay away from people and are timid in that regard, but will engage if threatened. They can be a great danger to even powerful mages when angered.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaOwlbear.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":17,
+                    "title": "Springmane",
+                    "paragraphs":[
+                        "The Springmane is a maned wolf-like native of Durlan that is considered by many to be the most beautiful creature in Edenfell (“Today, you are as fine as a Springmane, my dear!”). They are usually a single color (most often white) and have a flourishing mane that attracts birds, fireflies, and butterflies. They have a large pair of wooden, dendritic antlers that sprout cherry blossom petals. Springmanes carry a sweet scent with them, and their fur is more powerful and fragrant than most manufactured perfumes. ",
+                        "Springmanes only live for a few months, hatching in the spring and living through the summer until their petals and fur wither in the fall and they die, leaving behind the eggs of their offspring. The Alfen consider these creatures sacred, and Antler guards them ruthlessly due to their being sought after as attractions or for their fragrant fur. Springmanes communicate through eerie whistling sounds that form a melodic tune between them that is hauntingly beautiful when echoed over great distances.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaSpringmane.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":18,
+                    "title": "Rubion",
+                    "paragraphs":[
+                        "The Rubion is a colored fox with a single crystalline horn on its head in the color of a ruby. It lives in burrows in Durlan, Caliburn, and Vatha, and is one of the rarest creatures to spot in Edenfell due to its swiftness and elusive nature. As a result, not much is known about these creatures. They shed their rubies occasionally, leaving a trail that greedy poachers may follow to track them, though usually none are successful in doing so.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Durlan, Caliburn and Vatha"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Archwizard"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaRubion.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":19,
+                    "title": "Elemental Dragons",
+                    "paragraphs":[
+                        "Elemental dragons are one of the more ancient species in Edenfell. They are highly intelligent creatures, each possessing a unique and distinct personality. Some folk tales even speak of there being dragons that could produce speech and possess the intellect of an anthro. ",
+                        "Hundreds of years ago, before the Cataclysm had struck, elemental dragons were used as mounts and trusted companions of the Elves. Each Elf would have a companion dragon identical to their inherent elemental magic, creating a powerful duo that not just anyone could rival. Unfortunately, after the great calamity the dragons had suffered a change in nature; they had developed an aversion to mages. Now, instead of building bonds with the magical Elves, the dragons became aggressive towards anyone who is mana-sensitive. Nowadays, if one is lucky enough, only those who do not possess the gift of great mana can hope to gain the trust of a dragon.",
+                        "The dragons mostly reside and can be found in Durlan, though thanks to their resilience and elemental nature, one can spot a dragon anywhere across Edenfell. Dragons prefer to nest and reproduce in biomes that correspond to their natural elemental affinity. These magnificent beasts can vary in size, being anywhere from the size of a horse to the size or cottage, with their size corresponding directly to their power (Tier).",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Mostly in Durlan, but also seen in Caliburn, Vatha and Edom"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Extremely Rare"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Acolyte - Archwizard (Depends on Player Rank)"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaDragons.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":20,
+                    "title": "Ice Lynx",
+                    "paragraphs":[
+                        "Not much is known about the Ice Lynx as it is a recently discovered creature, so far only seen a few times in Caliburn. Adventurers are doing the best they can to find this unique cryptid so that they may learn all there is to know about the species.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Caliburn"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Unknown Species"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"N/A"
+                        }
+                    ],
+                    "type":"column",
+                    "img":"faunaIceLynx.jpg",
+                    "imgType":"mid"
+                },
+                {
+                    "divID":21,
+                    "title": "Parhelion",
+                    "paragraphs":[
+                        "Not much is known about the Parhelia as they are a recently discovered creature, so far only seen on one occasion in Durlan’s South. Adventurers believe this chimeraean to be the last relic of lost ancient history and is doing the best it can to find this unique cryptid so that they may learn all there is to know about the species.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"Southern Durlan"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Unknown Species"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Magical"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"N/A"
+                        }
+                    ],
+                    "type":"inline",
+                    "img":"faunaParhelion.jpg",
+                    "imgType":"left"
+                },
+                {
+                    "divID":22,
+                    "title": "Others",
+                    "paragraphs":[
+                        "Other less fantastical beasts, such as leopards, elephants, gorillas, and tigers, can be found all over Edenfell. Most especially dogs which everyone is fond of and often take with them on long important journeys, missions, or even into battle."
+                    ],
+                    "type":"column",
+                    "img":"faunaDogs.jpg",
+                    "imgType":"mid"
+                }
+            ]
+        },
+        {
             "page":  "Flora",
             "url":  "/world/flora",
             "content": [
+                {
+                    "divID":0,
+                    "title": "Flora",
+                    "type":"column"
+                },
                 {
                     "divID":  1,
                     "title":  "Aureum",
@@ -448,7 +1190,7 @@
                         }
                     ],
                     "type":  "column",
-                    "img":  "floraLanternCherry.jpg",
+                    "img":  "floraLanternCherry.png",
                     "imgType":  "mid"
                 },
                 {
@@ -1174,6 +1916,36 @@
                 },
                 {
                     "divID":  32,
+                    "title":  "Verimawe",
+                    "paragraphs":  [
+                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
+                        {
+                            "type":"highlight",
+                            "highlight":"Location:",
+                            "text":"N/A"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Rarity:",
+                            "text":"Legendary"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Type:",
+                            "text":"Beneficial"
+                        },
+                        {
+                            "type":"highlight",
+                            "highlight":"Tier:",
+                            "text":"Invoker(?)"
+                        }
+                    ],
+                    "type":  "inline",
+                    "img":  "floraVerimawe.png",
+                    "imgType":  "left"
+                },
+                {
+                    "divID":  33,
                     "title":  "Golden Apple Tree",
                     "paragraphs":  [
                         "Golden Apple Trees are exactly what they sound like. Not too different from regular apple trees, these trees merely sprout golden fruit that glow brightly. The trees had gone almost fully extinct after the Cataclysm, yet few remained, saved by being located in the old Alfenheim’s private orchards. Currently the trees can be mostly found grown inside the walls of Durlan’s capital, closely tended by Illumi Fëanor.",
@@ -1202,36 +1974,6 @@
                     "type":  "column",
                     "img":  "floraGoldenApple.jpg",
                     "imgType":  "mid"
-                },
-                {
-                    "divID":  33,
-                    "title":  "Verimawe",
-                    "paragraphs":  [
-                        "Horrific in appearance, The Verimawe resembles a talking mangled tree. While it remains to be found (and is dubiously real), the legend goes that The Verimawe is capable of restoring all flora to a state of excellency all over Edenfell. Most believe it was just a myth created by Faes in hopes of fixing what once was.",
-                        {
-                            "type":"highlight",
-                            "highlight":"Location:",
-                            "text":"N/A"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Rarity:",
-                            "text":"Legendary"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Type:",
-                            "text":"Beneficial"
-                        },
-                        {
-                            "type":"highlight",
-                            "highlight":"Tier:",
-                            "text":"Invoker(?)"
-                        }
-                    ],
-                    "type":  "inline",
-                    "img":  "floraVerimawe.png",
-                    "imgType":  "right"
                 }
             ]
         },
@@ -1250,7 +1992,7 @@
                 },
                 {
                     "divID":2,
-                    "title":"History",
+                    "title":"Antiquity",
                     "paragraphs":[
                         "Some folk legends claim that the five relics that now form the centers of the cities (and the edge of the Red Woods) were Elvish treasures back then, and it's even possible that Elven magic created some of them. But the only veritable source from the time before the Cataclysm doesn’t remember these relics ever being around before Nimiane shattered the world.",
                         "The relics themselves are amazing, enigmatic artifacts with tremendous magical power and a level of awareness that is just beyond our comprehension today. There is no doubt that each of the five relics is a physical representation of one of the five virtues and has the authority to judge that virtue in people. The relics' qualities (and judgment) are viewed as being immutable and objective in Edenfell, and the majority of society is based on their infallibility."
@@ -1331,7 +2073,11 @@
                     "divID":6,
                     "title":"King Fëanor, the Fireforged",
                     "paragraphs":[
-                        "Shiv needs to write this."
+                        "Durlan is an absolute monarchy ruled by the only known living Anthro from before the cataclysm: Illumi Fëanor.",
+                        "Fëanor is a tall, imposing elf, often towering even over most others of his own kind. An immaculate specimen of the Alfen from before the Cataclysm, Fëanor takes great pride in representing the best of what his race used to be, often regaling in talks of the old traditions and spawning nuggets of wisdom from his tales.",
+                        "Shrewd, cunning, brutal and tenacious. Fëanor, as the head of the Higher Sentient, is known for his ruthlessness and his unfaltering focus on finding and spawning new mages in order to eradicate the Voidbringer threat once and for all.",
+                        "He demands absolute loyalty from all his subjects, and does not hesitate in eliminating those who step out of line.",
+                        "As the first and only King of Durlan since the kingdom’s inception, Fëanor is the subject of many old wives tales, and as such, scrutinizing the truth from the myth is a tall task."
                     ],
                     "type":"inline",
                     "img": "DurlanFeanor.jpg",
@@ -1361,9 +2107,7 @@
                         "The knights of Caliburn consider wisdom to be the highest virtue. wisdom guides the right application of every other virtue in a variety of situations and aids in preventing problems from getting worse and becoming more serious.",
                         "The mastery of facts is only one aspect of wisdom. The ability to combine diverse data to gain a deeper grasp of systems and principles is what distinguishes actual wisdom from a dispersed collection of unrelated facts. Wisdom's enemies include not only ignorance and foolishness but also narrow-mindedness and tradition-bound ways of thinking. The Caliburn knights must be able to modify their worldview in response to fresh knowledge and concepts."
                     ],
-                    "type":"column",
-                    "img": "CaliburnWisdom.jpg",
-                    "imgType":"mid"
+                    "type":"column"
                 },
                 {
                     "divID":3,
@@ -1439,7 +2183,7 @@
                         "Those who have attained the coveted title of knighthood revel in their robust might, employing it readily even in endeavors deemed less knightly by the other Trident cities. Vathan knights can often be found engaging in wrestling matches and confronting formidable beasts within the depths of the forest. Yet, they are equally likely to be seen participating in acts of community service, such as bearing water in a fire brigade or clearing fallen trees after a tempestuous storm. The knights hold a fondness for tales and competitions that unfold in the grand hall of Vatha Castle, but their true calling lies beyond its confines, where they tirelessly extend their aid and safeguard the vulnerable and virtuous souls that dwell in the world."
                     ],
                     "type":"column",
-                    "img": "VathaUnAKnights.jpg",
+                    "img": "VathaUnAKnights.png",
                     "imgType":"mid"
                 },
                 {
@@ -1599,7 +2343,13 @@
                     "divID":1,
                     "title":"Devil's Workshop",
                     "paragraphs":[
-                        "Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving a Cherub. The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."
+                        {"type":"span", "text":"Devil's Workshop, a mysterious floating island near Edom, has recently gained notoriety due to an enigmatic incident involving "},
+                        {
+                            "type":"link",
+                            "link":"#/world/religion",
+                            "text":"a Cherub"
+                        },
+                        {"type":"span", "text":". The island had long remained unnamed and relatively untouched by the looming threat of the Voidbringers. However, a sighting of a peculiar creature, rumored to be a Cherub, near Caliburn led to speculation that it sought refuge on the secluded island once the battle had concluded. This event sparked curiosity and intrigue, and the island was subsequently christened Devil's Workshop due to the unknown and suspicious activities taking place there."}
                     ],
                     "type":"column"
                 }
@@ -1712,7 +2462,7 @@
                     "divID":1,
                     "title":"Guinevere's Conquest",
                     "paragraphs":[
-                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, sit36uated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
+                        "Guinevere's Conquest stands as a testament to the unwavering determination and indomitable spirit of the Nordic General Guinevere de la Fontaine, the extraordinary spellsword who led the UnA to their greatest victory. This floating island, situated in the northern region of Edenfell, had long been plagued by the relentless onslaught of the Voidborn, dark creatures born of corruption and chaos. However, under Guinevere's exceptional leadership, the UnA forces united and launched a monumental campaign to reclaim the island and purge it of the malevolent presence that had plagued it for centuries.",
                         "The battle that unfolded on Guinevere's Conquest was a grueling and harrowing affair, as the UnA faced off against the massed ranks of the Voidborn. The air crackled with magic as Guinevere, wielding her enchanted blade and commanding powerful spells, led her troops fearlessly into the heart of the enemy's stronghold. With strategic brilliance and unparalleled combat prowess, she inspired her soldiers to fight with unwavering resolve, rallying them even in the face of overwhelming odds. The clash of steel and the eruption of spells echoed throughout the island as the UnA forces pushed back the Voidborn, inch by hard-fought inch.",
                         "With the Voidborn vanquished and the island freed from their malevolent influence, Guinevere's Conquest earned its name as a tribute to the extraordinary deeds of General Guinevere and the UnA forces. The victory marked a turning point in the war against the Voidborn, inspiring hope and renewing faith in the struggle against the forces of corruption. Guinevere's leadership and prowess as a spellsword became legendary, and her name became synonymous with courage and unwavering determination. Guinevere's Conquest stands as a symbol of triumph, reminding all who look upon it of the resilience of humanity and the power of unity in the face of darkness."
                     ],
@@ -1884,7 +2634,7 @@
                                         },
                                         {
                                             "type":"th",
-                                            "text":"Relative Peak Output (scale, speed, weight, destructive power)"
+                                            "text":"Relative Peak Output (scale, speed, weight, destructive power, poison action)"
                                         }
                                     ]
                                 },
@@ -1905,7 +2655,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead"
+                                            "text":"Mountain, Mikoyan MiG-25, freight train (4000T), Little Boy Uranium 235 warhead, 1 turn to 3 turns"
                                         }
                                     ]
                                 },
@@ -1926,7 +2676,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB)"
+                                            "text":"City, Lockheed F-117 Nighthawk, Cargo Ship (1000T), Massive Ordnance Air Blast (MOAB), 3 turns to 6 turns"
                                         }
                                     ]
                                 },
@@ -1947,7 +2697,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress"
+                                            "text":"Small Town, Commercial Plane, House (156T), Boeing B-29 Superfortress, 6 turns to 9 turns"
                                         }
                                     ]
                                 },
@@ -1968,7 +2718,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon"
+                                            "text":"Skyscraper, Ferrari FXX Evo, Tank (55T), NLAW Anti-Tank Weapon, 9 turns to 12 turns"
                                         }
                                     ]
                                 },
@@ -1989,7 +2739,7 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7"
+                                            "text":"Large Building, Cheetah, Large Car (2T-3T), RPG-7, 12 turns to 15 turns"
                                         }
                                     ]
                                 },
@@ -2006,17 +2756,22 @@
                                         },
                                         {
                                             "type":"td",
-                                            "text":"5-7 (3-7 for Nords)"
+                                            "text":"5-7"
                                         },
                                         {
                                             "type":"td",
-                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade"
+                                            "text":"Small Building, Gazelle, Compact Car (1T), Hand Grenade, 15 turns to 20 turns"
                                         }
                                     ]
                                 }
                             ]
                         },
-                        "Initiate Nords start with fewer spells than characters of other races as they have the lowest Mana among the races, this evens out by the next rank and above as story-wise it assumed that from that point on they have trained and honed their magical aptitude to match that of their peers. Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
+                        {
+                            "type":"highlight",
+                            "highlight":"Important: ",
+                            "text":"Non-magical feats will not exceed the Initiate level (and Acolyte level for Nords)."
+                        },
+                        "Players will earn 150-200 EXP per scene with the exception of particularly great scenes that may break this barrier by a margin up to the Moderators’ discretion. Events or quests can fetch upwards of 400 EXP and so players should endeavor to participate in as many as they can as often as possible. A new spell will be earned every 1000 EXP." ,
                         "Players are expected to mention, in parentheses (for the sake of other players and DMs), how much Mana (Spell slots) has been consumed by them per turn in which magic is cast by their character, e.g. - " ,
                         {"type":"cite",
                         "text": "A myriad of embers materialized out of thin air around the Wizard, quickly expanding in shape and size until each grew into a singular, massive house-sized fireball big enough to blot out the sun in the sky. Slowly, guided by his rising hand, the blazing orb flew up and replaced the sun's warm illumination with its blinding luminosity and raging heat. 'You've yee'd your last haw, pardner.' With a languid fall of his hand, the conflagration spread into a thousand fist-sized orbs which fell onto the field in front of him, whizzing down at a blinding speed, each flaming sphere acting with the singular purpose to seek, burn and destroy. [fireball power: 12 spells]"} 
@@ -2026,11 +2781,14 @@
                 {
                     "divID":6,
                     "paragraphs":[
-                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff. These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural). Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic. Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
+                        "Every mage has unique quirks and mannerisms when wielding magic that make each individual fun and interesting. It might be a particular set of hand signs, the use of outspoken words when Spell Weaving, or even the redundant use of a wand or staff.",
+                        "These idiosyncrasies often help the mages focus as they Weave powerful magic out of the Loom around them and are therefore referred to as a mage’s Spell Focus (Spell Foci plural).",
+                        "Furthermore, whenever magic is cast by a mage in Edenfell the effect is accompanied by a magic circle that may appear either as a luminescent ring of patterns around their hands or on whatever surface is being affected by or subjected to the magic.",
+                        "Magic circles are unique to each mage and no two patterns + color combinations are ever the same, so players are encouraged to have fun finding interesting and distinct colors and patterns for their characters’ magic circles.",
                         "Spell Foci and Magic Circles are entirely narrative."
                     ],
                     "type":"inline",
-                    "img":"MagicCircle.jpg",
+                    "img":"MagicSpellCircle.png",
                     "imgType":"right"
                 },
                 {
@@ -2056,7 +2814,9 @@
                     "divID":9,
                     "title":"Enchantment",
                     "paragraphs":[
-                        "This is Fae magic. It grants Faes the power to temporarily wield and manipulate the flora (link) and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. ",
+                        {"type":"span", "text":"This is Fae magic. It grants Faes the power to temporarily wield and manipulate the "},
+                        {"type":"link", "link":"#/world/flora", "text":"flora"},
+                        {"type":"span", "text":" and insects of Edenfell. While now unable to effect permanent changes on most plants, Fae mages are still able to make long-lasting effects that survive the duration of a scene and they may even ‘conjure’ impermanent but powerful plants and bugs from nothing that appear as green constructs and do their bidding. "},
                         "Faes possess the unique ability to enchant other mages too, supplementing (or siphoning) their mana on contact (skin-to-skin) by 50% of its full capacity."
                     ],
                     "type":"inline",
@@ -2078,7 +2838,9 @@
                     "divID":11,
                     "title":"Alteration",
                     "paragraphs":[
-                        "Changelings use alteration to transform into all the known beasts (link) of Edenfell. They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."
+                        {"type":"span", "text":"Changelings use alteration to transform into all the "},
+                        {"type":"link", "link":"#/world/fauna", "text":"known beasts of Edenfell"},
+                        {"type":"span", "text":". They are able to combine forms (up to three) and create chimeras, borrowing the desired traits and physiologies of the beasts they choose. At the highest levels (Adeptus+), Changeling mages can become mythical beasts of their own creation and imagination, taking their threat and power to new and exciting dimensions."}
                     ],
                     "type":"column",
                     "img":"MagicAlteration.jpg",
@@ -2129,9 +2891,7 @@
                     "paragraphs":[
                         "Unlike regular steel from which weapons and shields are fashioned, the rare Adam's Steel is capable of blocking all forms of spells and mystic arts because it can match them and grow in Abjuration power that sometimes even exceeds that of the mages it is wielded against. When well-aimed (head, torso, and limbs), Adam's Steel can negate an individual's sorcery by cutting off their essential mana flow and keep it that way for as long as the sword is buried in there. Wounds inflicted by this metal cannot be magically healed."
                     ],
-                    "type":"inline",
-                    "img":"MagicManaFlow.jpg",
-                    "imgType":"left"
+                    "type":"column"
                 },
                 {
                     "divID":17,
@@ -2156,7 +2916,7 @@
                         }
                     ],
                     "type":"column",
-                    "img":"MagicAdamsSteelWound.jpg",
+                    "img":"MagicWoundAndManaFlow.png",
                     "imgType":"mid"
                 },
                 {
